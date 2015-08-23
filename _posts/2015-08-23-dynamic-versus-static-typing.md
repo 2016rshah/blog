@@ -6,10 +6,10 @@ title: Dynamic Versus Static Typing
 Want to know why people my age hate Java so much? Its because Java yells at you. Whenever you screw something up, Java will be the first one to let you know. And they don't like that! There was even a time when I didn't like that. So I, like many others, made the switch to Python and applauded the dynamic typing. I could do whatever I wanted! I could say the variable `x` was a number, and then the very next line be like "Psych! `x` is actually a string!". 
 
 Python is doublethink. Python is like 
-> "Yeah, of course `x` is a string, why wouldn't it be a string".
+> "Yeah, of course `x` is a string. Why wouldn't it be a string?"
 
 Java will take none of that shit. Java will be like 
->"you LITERALLY just said `x` was a number. Did you lie to me?". 
+>"You LITERALLY just said `x` was a number. Did you lie to me?" 
 
 The age old question of dynamically versus statically typed languages will probably never reach a conclusion because they both have their merits. Rather than one "winning out" over the other, they will continue to mature and diverge because they are both good for different things. Java's type system leaves something to be desired and Haskell swoops in and fills that desire. Python seems good for now, but I'm sure something will come along and one up it eventually like Python 3 was supposed to. 
 
@@ -40,11 +40,11 @@ Is this a bit more up front effort? Yeah it is. You have to know what you want a
 
 ###See also
 
-http://stackoverflow.com/questions/125367/dynamic-type-languages-versus-static-type-languages
+[SO: Dynamic type languages versus static type languages](http://stackoverflow.com/questions/125367/dynamic-type-languages-versus-static-type-languages)
 
-http://stackoverflow.com/questions/42934/what-do-people-find-so-appealing-about-dynamic-languages
+[SO: What do people find so appealing about dynamic languages](http://stackoverflow.com/questions/42934/what-do-people-find-so-appealing-about-dynamic-languages)
 
-http://www.seas.upenn.edu/~cis194/spring13/lectures/05-type-classes.html
+[CIS194: Explanation of parametric polymorphism and the Haskell type signature](http://www.seas.upenn.edu/~cis194/spring13/lectures/05-type-classes.html)
 
 	
 
