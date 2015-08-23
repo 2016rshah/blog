@@ -7,3 +7,6 @@
 .sidebar-about, .sidebar-nav{
 	text-align:center;
 }
+.content{
+	max-width:45rem;
+}
