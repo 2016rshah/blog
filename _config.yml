@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Rushi Shah
-tagline:          ''
-description:      ''
+tagline:          'Java, Python, JavaScript, Ruby (on Rails), and Haskell enthusiast.'
+description:      'Java, Python, JavaScript, Ruby (on Rails), and Haskell enthusiast.'
 url:              http://rshah.io/
 baseurl:          /blog/
 
