@@ -1,0 +1,9 @@
+.prof-pic{
+	max-width:75%;
+	margin-left:auto;
+	margin-right:auto;
+	/*border-radius:50%;*/
+}
+.sidebar-about, .sidebar-nav{
+	text-align:center;
+}
