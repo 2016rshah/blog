@@ -8,7 +8,7 @@ Want to know why people my age hate Java so much? Its because Java yells at you.
 Python is doublethink. Python is like 
 > "Yeah, of course `x` is a string. Why wouldn't it be a string?"
 
-Java will take none of that shit. Java will be like 
+Java will take none of that. Java will be like 
 >"You LITERALLY just said `x` was a number. Did you lie to me?" 
 
 The age old question of dynamically versus statically typed languages will probably never reach a conclusion because they both have their merits. Rather than one "winning out" over the other, they will continue to mature and diverge because they are both good for different things. Java's type system leaves something to be desired and Haskell swoops in and fills that desire. Python seems good for now, but I'm sure something will come along and one up it eventually like Python 3 was supposed to. 
