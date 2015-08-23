@@ -38,5 +38,13 @@ This of course was slightly rectified with the creation of "docstrings" that doc
 
 Is this a bit more up front effort? Yeah it is. You have to know what you want a function to do. But you should know what you want your function to do! If you don't, then maybe the problem isn't the type system...
 
+###See also
+
+http://stackoverflow.com/questions/125367/dynamic-type-languages-versus-static-type-languages
+
+http://stackoverflow.com/questions/42934/what-do-people-find-so-appealing-about-dynamic-languages
+
+http://www.seas.upenn.edu/~cis194/spring13/lectures/05-type-classes.html
+
 	
 
