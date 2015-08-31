@@ -60,6 +60,8 @@ instance MyEq MyMaybeInteger where
 
 - Side note: if you want a type synonym, use the `type` syntax. 
 
+I guess what really got me mixed up was that to define a new type, you use the `data` syntax, and the `type` syntax is just for type synonyms. 
+
 {% highlight haskell %}
 type MyInteger = Integer
 {% endhighlight %}
