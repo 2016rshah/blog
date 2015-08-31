@@ -65,6 +65,6 @@ type MyInteger = Integer
 {% endhighlight %}
 
 ##Conclusion
-So there you have it, a bit more clarification on Week 05 of CIS194. It will definitely take me a while to wrap my head around Haskell's type system, but I am excited because it seems very mature and I can't wait to discover its intricacies.
+So there you have it, a bit more clarification on Week 05 of CIS194. It will definitely take me a while to wrap my head around Haskell's type system, but I am excited because it seems very mature and I can't wait to discover its intricacies. To keep track of my efforts on CIS194, check out the [github repo](https://github.com/2016rshah/CIS194) and [week 05 specifically](https://github.com/2016rshah/CIS194/tree/master/05). 
 
 
