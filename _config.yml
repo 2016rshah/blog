@@ -17,7 +17,7 @@ author:
   name:           'Rushi Shah'
   url:            http://rshah.io/
 
-paginate:         1
+paginate:         20
 
 # Custom vars
 version:          2.1.0
