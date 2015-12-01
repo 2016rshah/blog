@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Rushi Shah
 tagline:          '¯\_(ツ)_/¯'
 description:      'Java, Python, JavaScript, Ruby, and Haskell enthusiast.'
-url:              http://rshah.io/
+url:              http://rshah.org/
 baseurl:          /blog/
 
 author:
   name:           'Rushi Shah'
-  url:            http://rshah.io/
+  url:            http://rshah.org/
 
 paginate:         20
 

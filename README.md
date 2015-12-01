@@ -1,4 +1,4 @@
-#[Rushi's Blog](http://www.rshah.io/blog/)
+#[Rushi's Blog](http://www.rshah.org/blog/)
 
 ###Colophon
 
