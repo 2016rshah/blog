@@ -58,3 +58,4 @@ Okay so now you're all set up, you've solved your puzzle, but you want to push y
  - `C-b` to go **b**ackwards one character
  - `C-g` to cancel any commands that are half-written when you realize you screwed up
  - `C-x u` to **u**ndo what you just did
+ - `M-p` to get the **p**revious command entered into the REPL. Similar to when you're in your terminal and you press the up arrow.
