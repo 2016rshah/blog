@@ -69,4 +69,13 @@ type MyInteger = Integer
 ##Conclusion
 So there you have it, a bit more clarification on Week 05 of CIS194. It will definitely take me a while to wrap my head around Haskell's type system, but I am excited because it seems very mature and I can't wait to discover its intricacies. To keep track of my efforts on CIS194, check out the [github repo](https://github.com/2016rshah/CIS194) and [week 05 specifically](https://github.com/2016rshah/CIS194/tree/master/05). 
 
+##Post Note: `newtype`
+It's been a while since I originally wrote this post, but it has come to my attention that there is actually one more thing (not explicitly mentioned in Week 05) that needs to be mentioned. The [**newtype**](https://wiki.haskell.org/Newtype) syntax is very similar to the data syntax.
+
+>The syntax and usage of newtypes is virtually identical to that of data declarations - in fact, you can replace the newtype keyword with data and it'll still compile, indeed there's even a good chance your program will still work. The converse is not true, however - data can only be replaced with newtype if the type has exactly one constructor with exactly one field inside it.
+
+Basically "if you want to declare different type class instances for a particular type, or want to make a type abstract, you can wrap it in a newtype". A good example is using `newtype Email = Email String`. The idea behind that is that your code is more expressive and it adds a layer of typesafety (if a function is expecting an Email, you can't pass it any old string). 
+
+But according to this [eloquent rant on what's wrong with newtypes](http://degoes.net/articles/newtypes-suck/), that is only a false sense of security. The gist of the article is that doing something like `newtype Email = Email String` only makes you think your code is more safe because anybody (including you) can wrap a string that is clearly not an email into the newtype and assume it is one which brings you back to square one. The moral of the story is that although newtypes might help, and are useful, they aren't foolproof. 
+
 
