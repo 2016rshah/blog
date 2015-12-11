@@ -58,5 +58,6 @@ Okay so now you're all set up, you've solved your puzzle, but you want to push y
  - `C-b` to go **b**ackwards one character
  - `C-g` to cancel any commands that are half-written when you realize you screwed up
  - `C-x u` to **u**ndo what you just did
+ - `M->` to jump to the end of the buffer
  - `M-p` to get the **p**revious command entered into the REPL. Similar to when you're in your terminal and you press the up arrow.
  - `M-x comment-region` after code is highlighted to comment it, `M-x uncomment-region` to uncomment.
