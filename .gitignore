@@ -39,3 +39,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# Don't save drafts until they are ready to be posts
+_drafts
