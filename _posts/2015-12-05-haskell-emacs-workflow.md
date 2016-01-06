@@ -61,3 +61,5 @@ Okay so now you're all set up, you've solved your puzzle, but you want to push y
  - `M->` to jump to the end of the buffer
  - `M-p` to get the **p**revious command entered into the REPL. Similar to when you're in your terminal and you press the up arrow.
  - `M-x comment-region` after code is highlighted to comment it, `M-x uncomment-region` to uncomment.
+ - `C-e` to jump to the **e**nd of the line
+ - `M-g g` to jump to a specific line number
