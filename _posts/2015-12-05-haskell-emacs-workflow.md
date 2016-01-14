@@ -63,3 +63,5 @@ Okay so now you're all set up, you've solved your puzzle, but you want to push y
  - `M-x comment-region` after code is highlighted to comment it, `M-x uncomment-region` to uncomment.
  - `C-e` to jump to the **e**nd of the line
  - `M-g g` to jump to a specific line number
+ - `C-z` to redo the last command, and `z` to redo it again repeatedly (example: use after `C-^`)
+ - `C-^` to expand the size of the split screen that you're on by one line
