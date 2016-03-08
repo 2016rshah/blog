@@ -167,3 +167,61 @@ sympy-plots-for-*.tex/
 # xindy
 *.xdy
 
+Uh oh! Seems like joe doesn't know what latex is.
+Try running `joe ls` to see list of available gitignore files.
+#### joe made this: https://goel.io/joe
+
+#####=== Emacs ===#####
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+
+#####=== Haskell ===#####
+
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.virtualenv
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.config
+*.prof
+*.aux
+*.hp
+
