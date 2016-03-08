@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGdefault{k+kr}{instance} \PYGdefault{k+kt}{Applicative} \PYGdefault{k+kt}{Two} \PYGdefault{k+kr}{where}
+  \PYGdefault{n}{pure} \PYGdefault{n}{z} \PYGdefault{o+ow}{=} \PYGdefault{k+kt}{Two} \PYGdefault{n}{z}
+  \PYGdefault{p}{(}\PYGdefault{k+kt}{Two} \PYGdefault{n}{x}\PYGdefault{p}{)} \PYGdefault{o}{\PYGdefaultZlt{}*\PYGdefaultZgt{}} \PYGdefault{p}{(}\PYGdefault{k+kt}{Two} \PYGdefault{n}{y}\PYGdefault{p}{)} \PYGdefault{o+ow}{=} \PYGdefault{k+kt}{Two} \PYGdefault{p}{(}\PYGdefault{n}{x} \PYGdefault{n}{y}\PYGdefault{p}{)}
+\end{Verbatim}

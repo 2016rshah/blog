@@ -1,0 +1,125 @@
+\documentclass[12pt]{article}
+
+\usepackage{minted}
+
+\usepackage{amsmath}
+
+\usepackage{graphicx}
+\graphicspath{ {../resources/distributive-applicative/} }
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage[colorlinks]{hyperref}
+\hypersetup{
+  urlcolor = {cyan}
+}
+
+
+%Shrug face lol http://tex.stackexchange.com/questions/279100/typeset-the-shrug-%C2%AF-%E3%83%84-%C2%AF-emoji
+\usepackage{tikz}
+\newcommand{\shrug}[1][]{%
+\begin{tikzpicture}[baseline,x=0.8\ht\strutbox,y=0.8\ht\strutbox,line width=0.125ex,#1]
+\def\arm{(-2.5,0.95) to (-2,0.95) (-1.9,1) to (-1.5,0) (-1.35,0) to (-0.8,0)};
+\draw \arm;
+\draw[xscale=-1] \arm;
+\def\headpart{(0.6,0) arc[start angle=-40, end angle=40,x radius=0.6,y radius=0.8]};
+\draw \headpart;
+\draw[xscale=-1] \headpart;
+\def\eye{(-0.075,0.15) .. controls (0.02,0) .. (0.075,-0.15)};
+\draw[shift={(-0.3,0.8)}] \eye;
+\draw[shift={(0,0.85)}] \eye;
+% draw mouth
+\draw (-0.1,0.2) to [out=15,in=-100] (0.4,0.95); 
+\end{tikzpicture}}
+
+
+
+\title{Middle School Algebra with Applicative Functors}
+\author{Rushi Shah}
+\date{25 February 2016}
+
+
+\begin{document}
+
+  \maketitle
+
+  What are applicative functors? And how are they actually useful? After reading the \href{https://wiki.haskell.org/Typeclassopedia}{Typeclassopedia}, and \href{http://www.seas.upenn.edu/~cis194/spring13/lectures/10-applicative.html}{Week 10's lecture for CIS194}, I started to formulate a way of explaining it to myself in terms of basic algebra. 
+
+  \section{Factoring Review}
+
+  Remember back in middle school when you learned the Distributive Property? To remind you of a simple example: 
+
+  \[2x + 2y = 2(x + y)\]
+
+  If you are dividing by \((x + y)\), you can't use the equation in its \(2x + 2y\) form, you have to factor it first, cancel the terms, and then wrap the result (which would just be 1 in this case) by multiplying by two. 
+
+  \begin{equation*}
+    \begin{gathered}
+    2x + 2y * \frac{1}{x + y} \\
+    2(x + y) * \frac{1}{x + y} \\
+    2 * 1
+   \end{gathered}
+  \end{equation*}
+
+  If you think about it, 2 is acting like an applicative functor here. You have two terms that are wrapped in a Two, and you want to apply a function on the wrapped values (ignoring the wrapper) until the very end, at which point you slap the wrapper back on.
+
+  \section{The \texttt{Two} Functor}
+
+  To see what I mean, start by defining a type for Two. This type is clearly an instance of Functor, \texttt{fmap} would just apply the function to whatever 2 is being multiplied by. 
+  \begin{minted}{haskell}
+data Two a = Two a
+           deriving (Show, Eq)
+
+instance Functor Two where
+  fmap g (Two z) = Two (g z)
+  \end{minted}
+
+  \section{The \texttt{Two} Applicative}
+
+  It is also an instance of Applicative, where \texttt{pure} just multiplies by 2. The only other thing we need to define is \texttt{<*>}. Given two separate terms which are both multiplied by two, we would factor out the two and return the two other terms, right? The complete applicative instance for \texttt{Two} is given below:
+
+  \begin{minted}{haskell}
+instance Applicative Two where
+  pure z = Two z
+  (Two x) <*> (Two y) = Two (x y)
+  \end{minted}
+
+  Its important to note that the applicative instance does not actually do anything with x and y. All it does is factor out the two. When the instance is actually used, x and y will be passed to the function as arguments, and whoever is calling the function can decide how to combine them.
+
+  \section{Using the \texttt{Two} Applicative}
+
+  Now, like you learned in middle school algebra, if you want to add two things that are both multiplied by two, you can add them both together and just multiply the result by two. In other words if you factor \(2x + 2y\), you'll pull out the 2 (which our applicative does), and then multiply that 2 by \(x+y\). This lets us make Two a partial instance of \texttt{Num} (if we enable FlexibleInstances)
+
+  \begin{minted}{haskell}
+instance Num (Two String) where
+  (+) a b = (\x y -> (x ++ "+" ++ y)) `fmap` a <*> b
+  --Two "x" + Two "y" -> Two "x+y"
+  \end{minted}
+  % (+) = liftA2 (\x y -> (x ++ "+" ++ y))
+
+  \section{Using the \texttt{Two} Functor}
+
+  To finish off the example I started earlier, let's define a quick function for canceling two like terms. This function, because it will presumably be used in other contexts other than just for this contrived example, will operate on any term (even if they aren't wrapped in a two). 
+
+  \begin{minted}{haskell}
+cancel :: String -> String -> String
+cancel t1 t2 = if t1 == t2
+               then "1"
+               else ("(" ++ t2 ++ ")/(" ++ t1 ++ ")")
+  \end{minted}
+
+  But if we go to apply this function (\texttt{cancel "x+y"}) to the results of our \texttt{factorOutTwo (Two "x") (Two "y")}, we run into an issue because we expect a type of \texttt{String} but we actually have something of type \texttt{Two String}. No worries, because before we could define an Applicative instance, we had to define a Functor instance. Now, we can just fmap the function like so:
+
+  \begin{minted}{haskell}
+fmap (cancel "x+y") ((Two "x") + (Two "y"))
+--Two "1" 
+
+fmap (cancel "x") ((Two "x") + (Two "y"))
+--Two "(x+y)/(x)" 
+  \end{minted}
+
+  \section{Conclusion}
+  
+  Hopefully that clarified how Applicative Functors work with a familiar example. Even if it didn't, it helped me wrap my head around them so \href{http://www.rshah.org/shrug}{\shrug}. 
+
+\end{document}

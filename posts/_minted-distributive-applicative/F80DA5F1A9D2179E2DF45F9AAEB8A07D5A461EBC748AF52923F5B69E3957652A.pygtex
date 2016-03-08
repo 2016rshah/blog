@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGdefault{k+kr}{data} \PYGdefault{k+kt}{Two} \PYGdefault{n}{a} \PYGdefault{o+ow}{=} \PYGdefault{k+kt}{Two} \PYGdefault{n}{a}
+           \PYGdefault{k+kr}{deriving} \PYGdefault{p}{(}\PYGdefault{k+kt}{Show}\PYGdefault{p}{,} \PYGdefault{k+kt}{Eq}\PYGdefault{p}{)}
+
+\PYGdefault{k+kr}{instance} \PYGdefault{k+kt}{Functor} \PYGdefault{k+kt}{Two} \PYGdefault{k+kr}{where}
+  \PYGdefault{n}{fmap} \PYGdefault{n}{g} \PYGdefault{p}{(}\PYGdefault{k+kt}{Two} \PYGdefault{n}{z}\PYGdefault{p}{)} \PYGdefault{o+ow}{=} \PYGdefault{k+kt}{Two} \PYGdefault{p}{(}\PYGdefault{n}{g} \PYGdefault{n}{z}\PYGdefault{p}{)}
+\end{Verbatim}

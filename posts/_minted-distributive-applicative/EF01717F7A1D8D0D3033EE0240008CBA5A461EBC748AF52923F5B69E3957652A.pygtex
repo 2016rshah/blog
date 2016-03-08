@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGdefault{n+nf}{cancel} \PYGdefault{o+ow}{::} \PYGdefault{k+kt}{String} \PYGdefault{o+ow}{\PYGdefaultZhy{}\PYGdefaultZgt{}} \PYGdefault{k+kt}{String} \PYGdefault{o+ow}{\PYGdefaultZhy{}\PYGdefaultZgt{}} \PYGdefault{k+kt}{String}
+\PYGdefault{n+nf}{cancel} \PYGdefault{n}{t1} \PYGdefault{n}{t2} \PYGdefault{o+ow}{=} \PYGdefault{k+kr}{if} \PYGdefault{n}{t1} \PYGdefault{o}{==} \PYGdefault{n}{t2}
+               \PYGdefault{k+kr}{then} \PYGdefault{l+s}{\PYGdefaultZdq{}1\PYGdefaultZdq{}}
+               \PYGdefault{k+kr}{else} \PYGdefault{p}{(}\PYGdefault{l+s}{\PYGdefaultZdq{}(\PYGdefaultZdq{}} \PYGdefault{o}{++} \PYGdefault{n}{t2} \PYGdefault{o}{++} \PYGdefault{l+s}{\PYGdefaultZdq{})/(\PYGdefaultZdq{}} \PYGdefault{o}{++} \PYGdefault{n}{t1} \PYGdefault{o}{++} \PYGdefault{l+s}{\PYGdefaultZdq{})\PYGdefaultZdq{}}\PYGdefault{p}{)}
+\end{Verbatim}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)http://www.rshah.org/blog/ -->
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Rushi Shah · ¯\_(ツ)_/¯
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="./index_files/poole.css">
+  <link rel="stylesheet" href="./index_files/syntax.css">
+  <link rel="stylesheet" href="./index_files/hyde.css">
+  <link rel="stylesheet" href="./index_files/custom.css">
+  <link rel="stylesheet" href="./index_files/css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="http://faviconist.com/icons/8a0022d6f79f13dd0154d6a91c10fba7/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.rshah.org/atom.xml">
+</head>
+
+
+  <body class=" layout-reverse" cz-shortcut-listen="true">
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <img class="prof-pic" src="./index_files/prof-pic2.jpg">
+      <h1 class="site-title">
+        <a href="http://www.rshah.org/thoughts/">
+          Rushi Shah
+        </a>
+      </h1>
+      <p class="lead">Java, Python, JavaScript, Ruby, and Haskell enthusiast.</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="http://www.rshah.org/thoughts/">Blog Home</a>
+      <a class="sidebar-nav-item" href="http://www.rshah.org/">About</a>
+      <a class="sidebar-nav-item" href="https://twitter.com/2016rshah">Twitter</a>
+      <a class="sidebar-nav-item" href="https://github.com/2016rshah">GitHub</a>
+    </nav>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="posts">
+        <ul id="blog-posts"></ul>
+      </div>
+      <footer>   
+      Powered by <a href="https://github.com/2016rshah/BlaTeX">BlaTeX</a>.    
+      </footer>
+    </div>
+
+
+</body>
+</html>
