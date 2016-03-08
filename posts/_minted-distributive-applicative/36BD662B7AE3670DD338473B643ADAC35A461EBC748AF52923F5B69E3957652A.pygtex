@@ -1,7 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYGdefault{n+nf}{fmap} \PYGdefault{p}{(}\PYGdefault{n}{cancel} \PYGdefault{l+s}{\PYGdefaultZdq{}x+y\PYGdefaultZdq{}}\PYGdefault{p}{)} \PYGdefault{p}{((}\PYGdefault{k+kt}{Two} \PYGdefault{l+s}{\PYGdefaultZdq{}x\PYGdefaultZdq{}}\PYGdefault{p}{)} \PYGdefault{o}{+} \PYGdefault{p}{(}\PYGdefault{k+kt}{Two} \PYGdefault{l+s}{\PYGdefaultZdq{}y\PYGdefaultZdq{}}\PYGdefault{p}{))}
-\PYGdefault{c+c1}{\PYGdefaultZhy{}\PYGdefaultZhy{}Two \PYGdefaultZdq{}1\PYGdefaultZdq{}}
-
-\PYGdefault{n+nf}{fmap} \PYGdefault{p}{(}\PYGdefault{n}{cancel} \PYGdefault{l+s}{\PYGdefaultZdq{}x\PYGdefaultZdq{}}\PYGdefault{p}{)} \PYGdefault{p}{((}\PYGdefault{k+kt}{Two} \PYGdefault{l+s}{\PYGdefaultZdq{}x\PYGdefaultZdq{}}\PYGdefault{p}{)} \PYGdefault{o}{+} \PYGdefault{p}{(}\PYGdefault{k+kt}{Two} \PYGdefault{l+s}{\PYGdefaultZdq{}y\PYGdefaultZdq{}}\PYGdefault{p}{))}
-\PYGdefault{c+c1}{\PYGdefaultZhy{}\PYGdefaultZhy{}Two \PYGdefaultZdq{}(x+y)/(x)\PYGdefaultZdq{}}
-\end{Verbatim}
