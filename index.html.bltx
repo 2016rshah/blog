@@ -37,7 +37,7 @@
       
       <img class="prof-pic" src="./index_files/prof-pic2.jpg">
       <h1 class="site-title">
-        <a href="http://www.rshah.org/thoughts/">
+        <a href="http://www.rshah.org/blog/">
           Rushi Shah
         </a>
       </h1>
@@ -45,7 +45,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://www.rshah.org/thoughts/">Blog Home</a>
+      <a class="sidebar-nav-item" href="http://www.rshah.org/blog/">Blog Home</a>
       <a class="sidebar-nav-item" href="http://www.rshah.org/">About</a>
       <a class="sidebar-nav-item" href="https://twitter.com/2016rshah">Twitter</a>
       <a class="sidebar-nav-item" href="https://github.com/2016rshah">GitHub</a>
