@@ -1,0 +1,112 @@
+%Preamb stuff that will be used for just about every post:
+
+%Decent margins, layout, and 12 pt font
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+%Syntax highlighting
+\usepackage{minted}
+
+%Images directory
+\usepackage{graphicx}
+\graphicspath{ {../resources/elixir_of_life/} }
+
+%Colored links
+\usepackage[colorlinks]{hyperref}
+\hypersetup{
+  urlcolor = {cyan}
+}
+
+\title{The Elixir Of Life}
+\author{Rushi Shah}
+\date{9 April 2016}
+
+%Post specific stuff
+
+\usepackage{epigraph}
+\usepackage{textcomp}
+
+\begin{document}
+
+  \maketitle
+
+  \epigraph{Haskell makes the easy things hard and the hard things easy.}
+
+  I'm a big fan of functional programming, in case you haven't noticed. Specifically, I'm a big fan of Haskell, but I've been branching out a bit recently. I started branching out because I realized that sometimes Haskell makes the easy things too hard. Don't get me wrong, it makes the hard things really easy, but it also makes the easy things hard. For example, I had the time of my life whipping up a \href{https://github.com/2016rshah/Tic-Hack-Toe}{simple AI for Tic-Tac-Toe in Haskell} but when it came time to take input and output I had to \href{http://stackoverflow.com/questions/32670948/take-input-from-user-until-tic-tac-toe-game-ends}{ask Stack Overflow} how to do it.
+
+  I also have not been a fan of Haskell's package manager or Haskell's popular back-end web frameworks. They just seem too heavy for my taste. But I had an idea for a quick REST API I really wanted to create and I'm loathe to do so in your run-of-the-mill JavaScript Framework Of the Week\textsuperscript{TM}. So I decided to look into something new. Lucky for me, I discovered the elixir of life that reinvigorated functional programming for me. 
+
+  \section{Functional Sinatra?}
+
+  When I made \href{https://github.com/2016rshah/githubchart-api}{Github Chart API}, I had originally used Ruby on Rails, but eventually switched to Sinatra (which I talked about in \href{http://www.rshah.org/blog/posts/sinatra.pdf}{this blog post}) because all I needed was to define a bit of back-end code for each route. I wanted something similar for this project, but I wanted a functional programming language. 
+
+  \section{The Idea}
+
+  I guess I should explain what my idea was. It was partially inspired from the \href{https://github.com/2016rshah/githubchart-api}{Github Chart API} I made earlier. I wanted an API that would let you just GET request your latest commit message. I imagine people maybe having a banner or something on their personal website where they would display it with some pretty styling. This would be especially helpful for people who commit early and often and with interesting commit message. It also might encourage more clear commit messages, which is always a plus.
+
+  \section{Early Setbacks}
+
+  Reading \href{http://taylor.fausak.me/2015/08/23/type-safe-web-services-in-haskell-with-servant/}{this blog post} inspired me to actually get started on my idea (I had been thinking about it for a while but hadn't gotten around to it). That post led me to \href{http://taylor.fausak.me/2014/10/21/building-a-json-rest-api-in-haskell/}{this one} about building a JSON REST API in Haskell. I started by trying to install Scotty with cabal, but it failed to install after taking a ton of time to install dependencies (I'm pretty sure those dependencies are still clogging up my computer). So after getting frustrated with that, I tried to install Servant instead, but I met similar errors. Haskell prides itself on beautiful, concise code and I wasn't seeing any of that with web programming in Haskell. Everything just felt like a hack together for people who were REALLY motivated to program web servers in Haskell. 
+
+  \section{Enter Elixir}
+
+  That's not to say functional programming languages are bad as back-end languages. In fact, Erlang is probably the most powerful language for stuff like that out there. But perhaps people don't find Erlang very pleasant to write (I've never actually used it myself). So Elixir was created, which is (from what I've seen) basically Erlang that looks like Ruby. Elixir is great because it's fault-tolerant, concurrent, and really fast. Like \textbf{really} fast. Did I need a concurrent language that could scale to billions and billions of users? Of course not. But it was a pet-project anyways so I didn't see any reason to experiment with new technologies and branch out a bit. 
+
+  \section{Burn down the Phoenix}
+
+  So I was a big fan of Elixir right off the bat, mainly because it was a compiled language that makes heavy use of the REPL. Those are two of my favorite parts of Haskell, so I was happy. Unfortunately, it isn't a strongly typed language, otherwise I'm pretty sure Elixir would be considered perfect in my mind. As I got started, I found the web framework \href{http://www.phoenixframework.org/}{Phoenix} for Elixir. But I remembered what had happened when I made Github Chart API: I had tried to hammer in a nail with a jack-hammer. Yeah sure, it worked, but I really didn't need all that power, it was just overkill. Similarly, I didn't need to use Phoenix. Instead, I just needed a simple server, which is exactly what \href{https://github.com/elixir-lang/plug#the-plug-router}{Plug} was built for. Plus, I found \href{http://blog.simonstrom.xyz/elixir-a-simple-server-with-plug/}{this wonderful blog post} that outlined exactly how to start my project. To define a route, all I needed to do was write this:
+
+  \inputminted[firstline=0, lastline=3]{elixir}{../resources/elixir-of-life/script.ex}
+
+  (Looks mysteriously like Ruby and Sinatra, right?!)
+
+  \section{Getting the most recent commit}
+
+  So now for the actual logic of the program. How do you get the most recent commit from the Github API? If there was an endpoint for that my program would be useless. But unfortunately, there is not. I completely overestimated the problem. My initial solutions were atrocious: I would get every single repo from a user, then get every single commit for each of those repos, then sort the repos by their most recent commit, and then take the head of that list and return the resulting most recent commit. Think about that for a moment. If you had n repos, I would need to make n+1 API requests. That would 
+
+  \begin{itemize}
+    \item Be extremely slow for the user
+    \item Kill my rate limit
+  \end{itemize}
+
+  Then I realized that I was dumb and that Github provided \href{https://developer.github.com/v3/repos/#list-user-repositories}{parameters} that would let me sort a user's repos by how recently they were pushed to. Then, I could do something similar with the commits for that repo and I for a user with n repos I would still only need to make 2 API requests. The code I ended up with is:
+
+  \inputminted[firstline=4, lastline=11]{elixir}{../resources/elixir-of-life/script.ex}
+
+  Elegant, am I right?
+
+  \section{Plain Text and JSON support}
+
+  So originally I had the following route:
+
+  \inputminted[firstline=13, lastline=19]{elixir}{../resources/elixir-of-life/script.ex}
+
+
+  But I realized that people would probably want the meta-information for their commit information too. For example, I would personally make it a link with the href being a link to the commit on github and the value of the tag the commit message. Luckily, Elixir's data strucure maps directly to JSON with a package called Poison, which I first heard about from \href{http://www.jarredtrost.com/2015/05/30/getting-started-with-elixir-plug-routes/}{this blog post}. So my second route could be:
+
+  \inputminted[firstline=21, lastline=27]{elixir}{../resources/elixir-of-life/script.ex}
+
+
+  \section{Heroku}
+
+  \href{https://github.com/HashNuke/heroku-buildpack-elixir-test}{This buildpack} made deploying to heroku painless, so I could offer a hosted version of the app at \href{http://comet.rshah.org}{comet.rshah.org}.
+
+   \section{Cross Origin Requests (CORs)}
+
+  After I had done so, though, I ran into a problem. I wanted people to be able to make a client-side request for their commit message and append it to their website even on a static site with Javascript. After I deployed to Heroku and tried to test it out though, I realized that I needed to enable Cross Origin Requests. Doing so was a synch, really just boiled down to one line: \texttt{plug PlugCors}
+
+  \section{Using it}
+
+  So now it works! An example (unfortunately using JQuery) of a static site that embeds your latest Github commit is just:
+
+  \inputminted[]{html}{../resources/elixir-of-life/index.html}
+
+  \section{Conclusion}
+  So that's simple enough to use, right? I had a ton of fun making it, and I'm glad that the easy things don't always have to be hard in functional programming, as long as you use the right tools. 
+
+  If you think Comet is neat, I would really appreciate it if you would \href{https://github.com/2016rshah/comet}{check out the project on github} (and star it if you're real!). If you decide to embed your own commit somewhere using Comet, let me know on Twitter or something! And to do so all you have to do is GET request 
+
+  \begin{center}
+  \texttt{comet.rshah.org/json/<YOUR-GITHUB-USERNAME>}
+  \end{center}
+\end{document}

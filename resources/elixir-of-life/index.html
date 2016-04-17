@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <script src="jquery.js"></script>
+  </head>
+  <body>
+    <a id="commit"></a>
+    <script>
+      $.getJSON('http://comet.rshah.org/json/2016rshah', function(data) {
+        $("#commit").text(data.commit.message);
+        $("#commit").attr("href", data.html_url)$
+      });
+    </script>
+  </body>
+</html>
