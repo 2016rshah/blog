@@ -1,9 +1,8 @@
 \documentclass[12pt]{article}
 
 \usepackage{listings}
-\lstset{
-  language=Ruby
-}
+
+\usepackage{minted}
 
 \usepackage{graphicx}
 \graphicspath{ {../resources/what-is-the-web/} }
@@ -142,7 +141,7 @@ could be boiled down to a few lines:
 
 
 
-\begin{lstlisting}
+\begin{minted}{ruby}
 #config/routes.rb
 get "/:username" => "chart#generate", format: :svg
 
@@ -160,7 +159,7 @@ class ChartController < ApplicationController
         end 
   end
 end
-\end{lstlisting}
+\end{minted}
 
 \section{Enter Sinatra}\label{enter-sinatra}
 
@@ -195,7 +194,7 @@ refactoring, I emerged victorious!
 Now, the entirety of my \texttt{app.rb} can be contained more or less to
 20 lines with whitespace:
 
-\begin{lstlisting}
+\begin{minted}{ruby}
 #app.rb
 require 'sinatra'
 require 'githubchart'
@@ -216,7 +215,7 @@ get '/:username' do
       out << svg
     end
 end
-\end{lstlisting}
+\end{minted}
 
 Fancy, huh?
 
