@@ -122,4 +122,8 @@ fmap (cancel "x") ((Two "x") + (Two "y"))
   
   Hopefully that clarified how Applicative Functors work with a familiar example. Even if it didn't, it helped me wrap my head around them so \href{http://www.rshah.org/shrug}{\shrug}. 
 
+  \section{Update}
+
+  I wrote this post a while ago and since then I've actually used the Applicative Functor a couple of times in \href{https://github.com/2016rshah/BlaTeX/blob/master/BlaTeX.hs#L100}{actual code}. I wrote this when I was just learning what it was, and the whole algebra analogy was actually really useful for me to wrap my head around the concept. With that being said, the analogy is a bit of a stretch. You might notice this with the whole fmap deal towards the end because intuitively you shouldn't need to fmap into the Two functor in normal algebra because multiplying an expression by two isn't really the same as wrapping it in a Functor. So perhaps the initial step of considering Two as a Functor was a bit of a logical leap. Sorry about that, but I think the analogy between Applicative Functors and middle school algebra is still surprisingly relevant and useful. 
+
 \end{document}
