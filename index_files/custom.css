@@ -27,10 +27,9 @@ ul{
 
 li a{
 	color: #303030;
-	font-size: 2rem;
+	font-size: 1.5rem;
 	font-weight: bold;
     line-height: 1.25;
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 .papercraft-back {
