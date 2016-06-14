@@ -5,11 +5,11 @@
 	margin-right:auto;
 	/*border-radius:50%;*/
 }
-@media only screen and (max-height: 720px) {
+/*@media only screen and (max-height: 720px) {
     .prof-pic {
         display: none;
     }
-}
+}*/
 .sidebar-about h1{
 	font-size:2.5rem;
 }
