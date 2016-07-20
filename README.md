@@ -1,13 +1,13 @@
 #My thoughts
-In the form of beautiful LaTeX generated, BlaTeX compiled PDFs.
+Mostly in the form of beautiful LaTeX generated, Heckle compiled PDFs.
 
-#Start your own BlaTeX blog with this theme
+#Start your own Heckle blog with this theme
 
- - Install [BlaTeX](https://github.com/2016rshah/BlaTeX)
- - Fork and clone this repo (not the BlaTeX repo, this one!)
- - Edit the `index.html.bltx` file with your own info (name, picture, tagline, etc.)
+ - Install [Heckle](https://github.com/2016rshah/heckle)
+ - Fork and clone this repo (not the Heckle repo, this one!)
+ - Edit the `index.html.hkl` file with your own info (name, picture, tagline, etc.)
  - Clear the posts directory and write your own posts
- - `blatex build`
+ - `heckle build`
  - Push to github
  - ???
  - Win.
