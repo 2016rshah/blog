@@ -22,14 +22,14 @@ body .markdown-body {
 }
 
 pre {
-    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font: 12px Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace;
 }
 
 .markdown-body {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   color: #333;
-  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Segoe UI&quot;, Arial, freesans, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;
   font-size: 16px;
   line-height: 1.6;
   word-wrap: break-word;
@@ -87,7 +87,7 @@ pre {
   line-height: normal;
 }
 
-.markdown-body input[type="checkbox"] {
+.markdown-body input[type=&quot;checkbox&quot;] {
   box-sizing: border-box;
   padding: 0;
 }
@@ -103,7 +103,7 @@ pre {
 }
 
 .markdown-body input {
-  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;
 }
 
 .markdown-body a {
@@ -127,13 +127,13 @@ pre {
 
 .markdown-body hr:before {
   display: table;
-  content: "";
+  content: &quot;&quot;;
 }
 
 .markdown-body hr:after {
   display: table;
   clear: both;
-  content: "";
+  content: &quot;&quot;;
 }
 
 .markdown-body h1,
@@ -199,14 +199,14 @@ pre {
 }
 
 .markdown-body code {
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace;
   font-size: 12px;
 }
 
 .markdown-body pre {
   margin-top: 0;
   margin-bottom: 0;
-  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 12px Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace;
 }
 
 .markdown-body .select::-ms-expand {
@@ -232,20 +232,20 @@ pre {
 
 .markdown-body:before {
   display: table;
-  content: "";
+  content: &quot;&quot;;
 }
 
 .markdown-body:after {
   display: table;
   clear: both;
-  content: "";
+  content: &quot;&quot;;
 }
 
-.markdown-body>*:first-child {
+.markdown-body&gt;*:first-child {
   margin-top: 0 !important;
 }
 
-.markdown-body>*:last-child {
+.markdown-body&gt;*:last-child {
   margin-bottom: 0 !important;
 }
 
@@ -393,7 +393,7 @@ pre {
   margin-bottom: 0;
 }
 
-.markdown-body li>p {
+.markdown-body li&gt;p {
   margin-top: 16px;
 }
 
@@ -420,11 +420,11 @@ pre {
   border-left: 4px solid #ddd;
 }
 
-.markdown-body blockquote>:first-child {
+.markdown-body blockquote&gt;:first-child {
   margin-top: 0;
 }
 
-.markdown-body blockquote>:last-child {
+.markdown-body blockquote&gt;:last-child {
   margin-bottom: 0;
 }
 
@@ -474,10 +474,10 @@ pre {
 .markdown-body code:before,
 .markdown-body code:after {
   letter-spacing: -0.2em;
-  content: "\00a0";
+  content: &quot;\00a0&quot;;
 }
 
-.markdown-body pre>code {
+.markdown-body pre&gt;code {
   padding: 0;
   margin: 0;
   font-size: 100%;
@@ -643,7 +643,7 @@ pre {
 .markdown-body kbd {
   display: inline-block;
   padding: 3px 5px;
-  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 11px Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace;
   line-height: 10px;
   color: #555;
   vertical-align: middle;
@@ -726,7 +726,65 @@ pre {
 <title>birth-of-heckle</title>
 </head><body>
 <article class="markdown-body">
-<div id="blog-post"></div>
+<div id="blog-post"><h1 id="the-birth-of-heckle">The Birth of Heckle</h1>
+<p>So I've been making a static site generator in Haskell to handle my own blog and hopefully help some other kindred souls as well, yeah? And it started out as a static site generator for LaTeX blog posts, and it was called BlaTeX. (Clever, right?). Well I decided the other day to bite the bullet and add support to Markdown. I know, I know, I sold out, etc. etc. But the fact of the matter is that some people like LaTeX and some people like Markdown, and some people probably like both so there's no reason to discriminate.</p>
+<p>Plus, it wasn't even that difficult to go ahead and add in that support, and I'm going to walk you through some of the fancy changes it took to support both elegantly.</p>
+<h1 id="algebraic-data-types">Algebraic Data Types</h1>
+<p>Posts are gonna be LaTeX OR Markdown. In other words</p>
+<pre class="haskell"><code>data Post = LaTeX {...} | Markdown {...}</code></pre>
+<p>But regardless of whether the post is LaTeX or Markdown, it should still have some consistent behavior (all posts should have titles, and dates, for example). So in order to do so, in the record syntax for both, just include the same record name and type for both:</p>
+<pre class="haskell"><code>data Post 
+	= LaTeX {
+		filename :: String
+		, title :: String
+		, date :: DateTime
+	}
+	| Markdown {
+		filename :: String
+		, title :: String
+		, date :: DateTime
+	}</code></pre>
+<p>Then, given a Post, regardless of whether its LaTeX or Markdown, you can call title and get a string for that post.</p>
+<p>Both Post constructors include the abstract syntax trees (ASTs) for their respective files. Different parsers were used for the different posts: HaTeX for LaTeX and Pandoc for Markdown (more on this later). So perhaps we could also go ahead and add a record for the syntax tree in both options, right? Well not exactly. The thing is, the different libraries returned the AST in different types. You can't include the same record attribute in different constructors with different types (which kind of makes sense, if you think about it). Thus the records need to be named differently to remind you in the type system that they aren't the same thing and can't necessarily be used in the same way. I ended up with the following definition for the ADT for Posts:</p>
+<pre class="haskell"><code>data Post 
+  = LaTeX {
+  fileName :: String
+  , postTitle :: String
+  , postDate :: DateTime
+  , syntaxTree :: LaTeX
+    }
+  | MD {
+  fileName :: String
+  , postTitle :: String
+  , postDate :: DateTime
+  , pd :: Pandoc
+    }
+    deriving (Eq, Show)</code></pre>
+<h1 id="type-annotations-and-pattern-matching">Type Annotations and Pattern Matching</h1>
+<p>Based on this definition for the ADT, we can do some nice stuff with the type annotations and pattern matching. The type annotation doesn't need to concern itself with whether it is LaTeX or Markdown, as long as the function implementation is complete for both constructors. For example, the <code>postToHtml</code> function has the annotation <code>postToHtml :: Post -&gt; Html</code>, which would tell someone looking through documentation everything they need to know. Then the implementation can just do what it needs to do based on what kind of post is pattern matched.</p>
+<pre class="haskell"><code>postToHtml :: Post -&gt; Html
+postToHtml p@(MD _ _ _ _) = li ! class_ &quot;blog-post&quot; $ do
+        a ! class_ &quot;post-link&quot; ! href (stringValue (&quot;posts/&quot;++fileName p++&quot;.html&quot;)) $ toHtml (postTitle p)
+        H.div ! class_ &quot;post-date&quot; $ toHtml ((displayDate . postDate) p)
+postToHtml p@(LaTeX _ _ _ _) = li ! class_ &quot;blog-post&quot; $ do
+        a ! class_ &quot;post-link&quot; ! href (stringValue (&quot;posts/&quot;++fileName p++&quot;.pdf&quot;)) $ toHtml (postTitle p)
+        H.div ! class_ &quot;post-date&quot; $ toHtml ((displayDate . postDate) p)</code></pre>
+<h1 id="dry---dont-repeat-yourself">DRY - Don't Repeat Yourself</h1>
+<p>You might notice, though, that both of the patterns have a lot in common. In fact, they only have one disparity: the file extension that is used based on whether its a Markdown post or a LaTeX post. So there must be a way to avoid repeating ourselves so much, right? Yep, with our definition of the ADT as it stands, we can leverage the matching records like <code>filename p</code> and <code>postTitle p</code>:</p>
+<pre class="haskell"><code>postToHtml :: Post -&gt; Html
+postToHtml p = li ! class_ &quot;blog-post&quot; $ do
+        a ! class_ &quot;post-link&quot; ! href (stringValue (&quot;posts/&quot;++fileName p++ext)) $ toHtml (postTitle p)
+        H.div ! class_ &quot;post-date&quot; $ toHtml ((displayDate . postDate) p)
+        where
+          ext = case p of
+            (MD _ _ _ _) -&gt; &quot;.html&quot;
+            (LaTeX _ _ _ _) -&gt; &quot;.pdf&quot;</code></pre>
+<p>The only part that changes based on the constructor is the file extension, which can be addressed with a quick case statement.</p>
+<h1 id="pandoc-as-a-markdown-parser">Pandoc as a Markdown Parser</h1>
+<h1 id="io-logic">IO Logic</h1>
+<h1 id="etymology">Etymology</h1>
+<p>Okay so let's talk about nomenclature for a moment. The original static site generator was for LaTeX, so it was aptly named BlaTeX. But after I added support for Markdown, it needed a new name. Since the original inspiration for the project was Jekyll, I toyed with various puns along the those lines, trying to integrate the H of Haskell somewhere in there. Hekyll was too boring, but it sounded like Heckle, which was the final name I alighted upon. Thus, Heckle was born.</p>
+<p>And I guess if you want to read into it a bit more, consider it this way. People heckle speakers they don't agree with. And blog posts are kind of like uncensored speeches in a way. So heckle could be something along those lines, I don't know.</p></div>
 </article>
 </body></html>
 
