@@ -63,7 +63,8 @@
       <div class="posts">
         <ul id="blog-posts"></ul>
       </div>
-      <footer>   
+      <footer>  
+      <hr> 
       Powered by <a href="https://github.com/2016rshah/Heckle">Heckle</a>.    
       </footer>
     </div>
