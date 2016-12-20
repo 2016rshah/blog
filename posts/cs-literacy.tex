@@ -14,7 +14,10 @@
 %Colored links
 \usepackage[colorlinks]{hyperref}
 \hypersetup{
-  urlcolor = {cyan}
+  urlcolor ={cyan},   
+  linkcolor={cyan},          % color of internal links (change box color with linkbordercolor)
+  citecolor={cyan},        % color of links to bibliography
+  filecolor={cyan}      % color of file links
 }
 
 \title{Computer Science Literacy}
@@ -40,7 +43,7 @@
 
       I can't emphasize this enough, types are the core of Computer Science! I genuinely believe that type intuition is the most applicable aspect of computer science to the non-tech community, which is probably a pretty unpopular opinion. I argue that every domain has an implicit type system. And recognizing this type system can clarify why some things are wrong that we have accepted are wrong. 
 
-      For example, in my introductory physics class, my teacher always emphasized that you should check that the units on your final answer correspond to the units the question is asking you for. This dimensional analysis makes sure you don't give speed (distance per time) when the problem asks for just distance. Another related tip is to make sure that every piece of provided information has been ``used up''. In the example, this would imply that there is probably some time variable you forgot to take into account and multiply by. This is just a type system!
+      For example, in my introductory physics class, my teacher always emphasized that you should check that the units on your final answer correspond to the units the question is asking you for. This dimensional analysis makes sure you don't give speed (distance per time) when the problem asks for just distance. Another related tip is to make sure that every piece of provided information has been ``used up'' \footnote{This approach is remarkably similar to \href{http://www.cs.utexas.edu/~yufeng/papers/sypet.pdf}{type-directed program synthesis research} being done at UT}. In the example, this would imply that there is probably some time variable you forgot to take into account and multiply by.  This is just a type system!
 
       % which is similar to the type-directed program synthesis approach with petri-nets my professor is workin
 
@@ -56,33 +59,35 @@
 
       Okay great, people know what a String is. So like you can store your name in a variable. But what if you want to store everybody in your class's name? Would you need a variable for each person? Of course not, there has to be a better way to store lists of names. So everybody knows data is a thing, but perhaps they don't consider the fact that you can take a bunch of data and structure it. For example, you can take a list of names, and store them as (surprise, surprise) a \textit{list} of Strings. 
 
-      I would propose that the next step is at least teaching people what lists (arrays) are as an introduction to the concept of \texttt{data structures}. If I wanted to be optimistic, I would also recommend a few other data structures, namely trees and graphs. Trees represent hierarchacal data that is overwhelmingly common and unique to other types of data structures in the way that you can consider subtrees at a time. Graphs will give the notion of having pieces of data point to other pieces of data, which is a valuable intution.  
+      I would propose that the next step is at least teaching people what lists (arrays) are as an introduction to the concept of \texttt{data structures}. If I wanted to be optimistic, I would also recommend a few other data structures, namely trees and graphs. Trees represent hierarchical data that is overwhelmingly common and unique to other types of data structures in the way that you can consider subtrees at a time. Graphs will give the notion of having pieces of data point to other pieces of data, which is a valuable intution.  
 
       The emphasis here is not implementations of data structures, efficiency, or any such nonesense. Instead, we are trying to talk about data structures in a more abstract sense. We want to demonstrate why we need them and how they are useful.
 
     \section{Functions}
 
-      What are computers good at that humans aren't? Doing the same repetitive task over and over (perhaps with slight tweaks) quickly, efficiently, and accurately. This is where functions come in, and they are FUNDAMENTAL to computer science.  
+      What are computers good at that humans aren't? Doing the same repetitive task over and over (perhaps with slight tweaks) quickly, efficiently, and accurately. This is where functions come in, and they are fundamental to computer science. So much so, that I don't think anybody can be considered ``literate'' without at least being introduced to the idea of functions (or methods, or procedures, or whatever you want to call them). 
+
+      This is especially easy because functions bear a striking resemblance to the functions everybody was introduced to in their high school math classes. They just take some input $x$ and return some output $y$. The only difference is that x and y don't have to just be real numbers anymore, they can be any one of the types we outlined earlier. Functions will be presented as just bits of code that operate over specified inputs to give specified outputs and can be invoked as needed to execute that code over and over again.  
 
     \section{Basic Control Flow}
 
-      At this point, hopefully computer science will seem a little less daunting. Now that they know the atoms of programs, the student should start messing around with it a little bit to see that ``hey this isn't so bad!''. In the process of doing so, teach them if-statements to use those booleans they learned about. Teach them about iteration to use those lists they learned about. And maybe if you included a section about functions, include an addendum about recursion to use the functions. 
-
-      \subsection{Iteration}
-
-        ``Keep doing it until''. For each element in a list. 
+      At this point, hopefully computer science will seem a little less daunting. Now that they know the atoms of programs, the student should start messing around with it a little bit to see that ``hey this isn't so bad!''. In the process of doing so, teach them if-statements to use those booleans they learned about. Teach them iteration to use those lists they learned about. Teach them recursion to use the functions they learned about. At this point, we might venture into the territory of teaching people how to program, rather than just about Computer Science, but it will be a worthy detour to tie everything together.  
 
       \subsection{If Statements}
 
-        Booleans can represent our world. From simple (is it past 5 o'clock) to complex (is a user logged in). 
+        Booleans can represent our world. From simple (is it past 5 o'clock) to complex (is a user logged in), often our world is binary. Since we've already shown the idea of boolean values, the student needs to know what they're good for. And the answer is naturally if-statements. The computer should do something different depending on what is going on in the world\footnote{Perhaps at this point we could take a detour to explain what ``state'' is. If we're doing so, we should explain why anything other than finite state is bad}.   
+
+      \subsection{Iteration}
+
+        After they understand boolean predicates, they can be introduced to while loops which use the same idea. The only difference is iteration allows you to tell a computer to just ``keep doing something over and over''. Since I'm guessing we're not going to just teach them functional programming, the ideas we want to introduce are while-loops and for-loops. Segway into this section by tying it to if-statements, and ultimately emphasize the importance of iterating over data structures.
 
       \subsection{Recursion}
 
-        Conversations are recursive. When you finish doing something, start over. 
+        Recursion is another one of those things that just keeps popping up all over the place (like types). For example, conversations are recursive: you might discover something else to talk about in the process of talking about something, and when you exhaust your detour you should go back to the original topic. So what we're going to explain is the idea that sometimes when you finish doing something, you want to start over from the beginning. Recursion can be daunting to some students, but there's really nothing to be scared of. And since we're not tying ourselves down to teaching students how to program in one language specifically, we can teach recursion without the shackles of a language that is no good at recursion. We could use the fibonacci example here, because that's what people are used to, but I think it is a bad example. I would much prefer introducing trees in the Data Structures portion, and then introducing tree searching or something at this point.  
 
     \section{Conclusion}
 
       I haven't hammered out the correct order yet, because should students learn functions first or data structures first? And should they start programming early or later? And should we integrate the iteration in more tightly with the lists and the trees with the recursion? There are just a lot of unanswered questions, and I think the biggest source of confusion for me is when should things be taught and what things should be taught together. 
 
-      Regardless, these are the bases that should be covered for so called ``computer-science literacy''. Just having a general sense about the words and what they mean can help the lay-person get their bearings in the Computer Science field and figure out if it is something they want to pursue further. 
+      Regardless, these are the bases that should be covered for so called ``computer-science literacy''. Just having a general sense about the words and what they mean can help the lay-person get their bearings in the Computer Science field and figure out if it is something they want to pursue further. It would help demystify the little bubble we've created for ourselves to the non-tech community. 
 \end{document}
