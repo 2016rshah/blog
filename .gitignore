@@ -227,3 +227,5 @@ cabal.config
 
 # Minted syntax coloring
 _minted*
+
+word_format/
