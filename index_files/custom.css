@@ -36,6 +36,10 @@ li a{
   fill: #44A340;
 }
 
+.posts {
+	padding-top:4rem;
+}
+
 .papercraft-front {
   fill: #D6E685;
 }
