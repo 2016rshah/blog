@@ -74,11 +74,11 @@ Blending what I was thinking earlier in the book with what I was thinking later 
 > "I don't want to be thought of as the 'girl who was shot by the Taliban' but 'the girl who fought for education'" 
 <br> (Epilogue)
 
-This lies in a stark juxtaposition with the front cover the tagline for the book that says
+As you can see from the picture this lies in a stark juxtaposition with the tagline on the front cover that says
 
 
 >I Am Malala <br>
 THE GIRL WHO STOOD UP FOR EDUCATION <br>
 AND WAS SHOT BY THE TALIBAN
 
-This dilemma is something I struggle with, too. How do you balance keeping it real and staying true to yourself with being realistic and doing what you need to do/saying what you need to say to get where you need to be? I think Malala genuinely wants to be remembered as "the girl who fought for education" but at the end of the day she doesn't necessarily get the final word. Although she can influence her legacy (the education thing was the first thing mentioned), she doesn't get to totally choose how she gets remembered. After all it would be unreasonable to not mention the fact that she was shot by the Taliban on the cover. But its still a damn shame that she doesn't get complete creative control over shaping her own narrative. 
+This dilemma is something I struggle with, too. How do you balance keeping it real and staying true to yourself with being realistic and doing what you need to do/saying what you need to say to get where you need to be? I think Malala genuinely wants to be remembered as "the girl who fought for education" but at the end of the day she doesn't necessarily get the final word. Although she can influence her legacy (the education thing was the first thing mentioned), she doesn't get to totally choose how she gets remembered. After all it would be unreasonable to not mention the fact that she was shot by the Taliban on the cover. But I still think its a damn shame that she doesn't get complete creative control over shaping her own narrative. 
