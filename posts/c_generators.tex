@@ -1,0 +1,66 @@
+%Preamb stuff that will be used for just about every post:
+
+%Decent margins, layout, and 12 pt font
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+%Syntax highlighting
+\usepackage{minted}
+
+%Images directory
+\usepackage{graphicx}
+\graphicspath{ {../resources/} }
+
+%Colored links
+\usepackage[colorlinks]{hyperref}
+\hypersetup{
+  urlcolor ={cyan},   
+  linkcolor={cyan},          % color of internal links (change box color with linkbordercolor)
+  citecolor={cyan},        % color of links to bibliography
+  filecolor={cyan}      % color of file links
+}
+
+\title{Abusing Multi-Threading \\ to Implement Generator Functions in C}
+\author{Rushi Shah}
+\date{\today}
+
+%Post specific stuff
+
+\usepackage{epigraph}
+\usepackage{textcomp}
+
+\begin{document}
+
+  \maketitle
+
+  Intro about what the project is 
+
+  \section{The typical way}
+
+  setjmp/longjmp won't work because
+
+  Manually flipping stacks for execution (in assembly). 
+
+  \section{Why threads are appealing}
+
+    Maintaining state among the different functions is a pain. Threads will manage that automatically, granted that you can get the right thread to run the right amount of code at the right time. 
+
+  \section{How I did it}
+    \subsection{Mutex}
+
+    \subsection{Conditional Variable}
+
+  \section{Why I didn't finish implementing it}
+    \subsection{Arbitrary amounts of generators}
+      My original implementation was sufficient for creating one iterator and bouncing control back and forth between the two routines. However, extending it to an arbitrary amount of threads would have been extremely difficult with the setup I had.  
+
+    \subsection{}
+
+    Since the project was due in a week I needed an easier method of doing things. Turns out we had already been provided with a method for switching the stacks which was the way we were expected to go about doing things. That way was , but it was a fun little experiment.
+
+  \section{Conclusion}
+
+    One of the reasons I chose to attend UT Austin (in the Turing Program) was because I knew that Edsger Dijkstra used to be a professor here so I knew it must be a serious research institution. I had always known Dijkstra as the guy who made Dijkstra's shortest path algorithm. But in researching for this project I learned that he was ALSO the dude who invented semaphores. Without him, concurrent programming would be useless because threads would not have an effective method for sharing resources and thus passing data back and forth between threads. AI and distributed computing are the two buzz-words nowadays, but they would be significantly further behind in their maturity if it wasn't for Dijkstra.
+    Edsger Dijkstra is a god. 
+      
+\end{document}
