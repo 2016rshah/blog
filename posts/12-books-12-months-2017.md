@@ -85,7 +85,7 @@ This dilemma is something I struggle with, too. How do you balance keeping it re
 
 ### *A Clockwork Orange* by Anthony Burgess (April Bonus Round!)
 
-<img style="max-width:40%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/acwo.jpg' />
+<img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/acwo.jpg' />
 
 I read the original version of this book and later found out about the contreversary surrounding the last chapter. When it was published in America the publisher thought the book would sell better without the last chapter so they convinved the author to cut it out. I think this reflects classic American cognitive dissonance: 
 
