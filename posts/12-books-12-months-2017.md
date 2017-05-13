@@ -34,7 +34,7 @@ In fact I think a central question of the book is "Is Mersault happy?". Most peo
 
 [^footnote]: It is possible that something just got lost in translation and I am completely misinterpreting the entire novel.
 
-### *Slaughterhouse-Five* by Kurt Vonnegut (Bonus Round!)
+### *Slaughterhouse-Five* by Kurt Vonnegut (February Bonus Round!)
 
 > "Over the years, people I’ve met have often asked me what I’m working on, and I’ve usually replied that the main thing was a book about Dresden. 
 <br> I said that to Harrison Starr, the movie-maker, one time, and he raised his eyebrows and inquired, ‘Is it an anti-war book?’
@@ -82,3 +82,13 @@ THE GIRL WHO STOOD UP FOR EDUCATION <br>
 AND WAS SHOT BY THE TALIBAN
 
 This dilemma is something I struggle with, too. How do you balance keeping it real and staying true to yourself with being realistic and doing what you need to do/saying what you need to say to get where you need to be? I think Malala genuinely wants to be remembered as "the girl who fought for education" but at the end of the day she doesn't necessarily get the final word. Although she can influence her legacy (the education thing was the first thing mentioned), she doesn't get to totally choose how she gets remembered. After all it would be unreasonable to not mention the fact that she was shot by the Taliban on the cover. But I still think its a damn shame that she doesn't get complete creative control over shaping her own narrative. 
+
+### *A Clockwork Orange* by Anthony Burgess (April Bonus Round!)
+
+<img style="max-width:40%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/acwo.jpg' />
+
+I read the original version of this book and later found out about the contreversary surrounding the last chapter. When it was published in America the publisher thought the book would sell better without the last chapter so they convinved the author to cut it out. I think this reflects classic American cognitive dissonance: 
+
+**This paragraph is about to contain spoilers so beware**. In a book that is about literal mind-control, they worry that readers won't be able to believe the protagonist ends the book as a "good-guy". The book is an inherently ridiculous work of fiction and THAT is the part that is unbelievable? Also the mindset that one can just entirely ignore chapters of a book if they don't like them, regardless of the role the chapters play in the overarching themes the author intended to convey. As my friend who recommended the book to me (Shamika Kurian) mentioned: taking out the last chapter turned the novel into just another (questionably) amusing sequence of events when it was really meant to be a coming-of-age story that explains the concept of growing up. **End spoilers**
+
+Anyways I really really disliked the book ultra-violence in the book, it made me very uncomfortable and I stopped reading the book for a few months the first time I read twelve pages. But it was all redeemed by the last chapter so in the end I was satisfied.
