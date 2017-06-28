@@ -30,9 +30,9 @@ There's a bit of contreversary around the translation but I remember the first t
 
 I was supposed to read this book junior year of high-school for my AP French class, but I pretty much just spark-noted it. To this day I've felt bad about that so I decided to go back and give it another swing and I'm glad I did. I feel like the general interpretation of the book is that Mersault, the main character, is this depressed existential dude. But when I read the book for real I didn't get that sense. 
 
-In fact I think a central question of the book is "Is Mersault happy?". Most people would say no, or at the very least would say he shouldn't be. But I really think he is. Perhaps he shouldn't be, but I just can't bring myself to blame him for being so happy-go-lucky all the damn time. To me he just seemed like the literary embodiment of ¯\\\_(ツ)\_/¯. He's just out here living his life and I respect him for that. In fact I relate to him more than I would like to admit, and that is a very scary thought. [^footnote]
+In fact I think a central question of the book is "Is Mersault happy?". Most people would say no, or at the very least would say he shouldn't be. But I really think he is. Perhaps he shouldn't be, but I just can't bring myself to blame him for being so happy-go-lucky all the damn time. To me he just seemed like the literary embodiment of ¯\\\_(ツ)\_/¯. He's just out here living his life and I respect him for that. In fact I relate to him more than I would like to admit, and that is a very scary thought. [^footnote1]
 
-[^footnote]: It is possible that something just got lost in translation and I am completely misinterpreting the entire novel.
+[^footnote1]: It is possible that something just got lost in translation and I am completely misinterpreting the entire novel.
 
 ### *Slaughterhouse-Five* by Kurt Vonnegut (February Bonus Round!)
 
@@ -103,9 +103,20 @@ Kind of like Anna Karenina I knew I wasn't going to pay as much attention to the
 
 This book was originally written in Spanish but I discovered a french translation (by Albert Bensoussan) in a hostel book exchange in Granada. It's a fascinating double-biography on Paul Gauguin (the famous painter) and his great-grandmother Flora Tristan (an early contributor to feminist theory). I am about half-way through it (~ page 300 out of ~ 600) and I completely understand how it earned the author the 2010 Nobel Prize in Literature. 
 
-Since its a double biography, the book is structured such that every other chapter is about one of the characters and covers a small event that happens in their life. For example, it describes Gauguins life-long quest to make a master-piece ("chef d'oeuvre") and how THE masterpiece is always just slightly out of reach. The works the book covers is: 
+Since its a double biography, the book is structured such that every other chapter is about one of the characters and covers a small event that happens in their life. For example, it describes Gauguins life-long quest to make a master-piece ("chef d'œuvre") and how THE masterpiece is always just slightly out of reach. The works the book covers are [^footnote2]: 
 
-- Portrait of Aline Tristan
-- Death watching
-- Where do we come from, who are we, where are we going
-- The mysterious waters 
+[^footnote2]: The pictures of Gauguin's work I posted are all from <a href="https://www.wikiart.org/en/paul-gauguin" style="font-size: 20px;">WikiArt</a>
+
+![Manao tupapau // Spirit of the Dead Watching (1892)](https://uploads1.wikiart.org/images/paul-gauguin/the-spirit-of-the-dead-watches-1892.jpg!Large.jpg)
+
+<hr>
+![Papa Moe // Mysterious Water (1893)](https://uploads5.wikiart.org/images/paul-gauguin/mysterious-water-1893.jpg!Large.jpg)
+
+<hr>
+![Nevermore (1897)](https://uploads7.wikiart.org/images/paul-gauguin/nevermore-1897.jpg!Large.jpg)
+
+<hr>
+![D'où venons-nous ? Que sommes-nous ? Où allons-nous ? // Where Do We Come From? What Are We? Where Are We Going? (1897)](https://uploads5.wikiart.org/images/paul-gauguin/where-do-we-come-from-what-are-we-where-are-we-going-1897.jpg!Large.jpg)
+
+<hr>
+A portrait of Aline 
