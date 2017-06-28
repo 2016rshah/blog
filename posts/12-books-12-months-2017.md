@@ -92,3 +92,20 @@ I read the original version of this book and later found out about the contrever
 **This paragraph is about to contain spoilers so beware**. In a book that is about literal mind-control, they worry that readers won't be able to believe the protagonist ends the book as a "good-guy". The book is an inherently ridiculous work of fiction and THAT is the part that is unbelievable? Also the mindset that one can just entirely ignore chapters of a book if they don't like them, regardless of the role the chapters play in the overarching themes the author intended to convey. As my friend who recommended the book to me (Shamika Kurian) mentioned: taking out the last chapter turned the novel into just another (questionably) amusing sequence of events when it was really meant to be a coming-of-age story that explains the concept of growing up. **End spoilers**
 
 Anyways I really really disliked the book ultra-violence in the book, it made me very uncomfortable and I stopped reading the book for a few months the first time I read twelve pages. But it was all redeemed by the last chapter so in the end I was satisfied.
+
+### *Jane Eyre* by Charlotte Brontë (May)
+
+Kind of like Anna Karenina I knew I wasn't going to pay as much attention to the details of this book if I didn't listen to it as an audiobook. Given a historical context for Charlotte Brontë's writing I suppose I shouldn't have been surprised, but I was underwhelmed with the feminist potential for the book. I have more thoughts (espeically about how frustrating St. John River's character was!), but I read this during my month-long backpacking trip through Spain, France, and Morrocco so I have not had much of a chance to write it all down.
+
+### *Le Paradis - un peu plus loin* by Mario Vargas Llosa (June, in progress)
+
+<img style="max-width:25%; float:right; margin:3px;" src="../resources/12-books-12-months-2017/paradis.jpg"></img>
+
+This book was originally written in Spanish but I discovered a french translation (by Albert Bensoussan) in a hostel book exchange in Granada. It's a fascinating double-biography on Paul Gauguin (the famous painter) and his great-grandmother Flora Tristan (an early contributor to feminist theory). I am about half-way through it (~ page 300 out of ~ 600) and I completely understand how it earned the author the 2010 Nobel Prize in Literature. 
+
+Since its a double biography, the book is structured such that every other chapter is about one of the characters and covers a small event that happens in their life. For example, it describes Gauguins life-long quest to make a master-piece ("chef d'oeuvre") and how THE masterpiece is always just slightly out of reach. The works the book covers is: 
+
+- Portrait of Aline Tristan
+- Death watching
+- Where do we come from, who are we, where are we going
+- The mysterious waters 
