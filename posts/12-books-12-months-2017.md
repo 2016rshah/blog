@@ -111,8 +111,8 @@ Since its a double biography, the book is structured such that every other chapt
 
 [^footnote2]: The pictures of Gauguin's work I posted are all from <a href="https://www.wikiart.org/en/paul-gauguin" style="font-size: 20px;">WikiArt</a>
 
-<!-- ![Manao tupapau // Spirit of the Dead Watching (1892)](https://uploads1.wikiart.org/images/paul-gauguin/the-spirit-of-the-dead-watches-1892.jpg!Large.jpg)
- -->
+![Manao tupapau // Spirit of the Dead Watching (1892)](https://uploads1.wikiart.org/images/paul-gauguin/the-spirit-of-the-dead-watches-1892.jpg!Large.jpg)
+
 <hr>
 ![Papa Moe // Mysterious Water (1893)](https://uploads5.wikiart.org/images/paul-gauguin/mysterious-water-1893.jpg!Large.jpg)
 
@@ -124,8 +124,8 @@ Since its a double biography, the book is structured such that every other chapt
 
 <hr>
 
-Flora Tristan, on the other hand, dreams even bigger. She dedicates her life to creating a utopian worker's union (l'Union Ouvrier) that will join the feminist cause with the worker's cause. In order to do so she writes a few books and travels through France meeting factory workers trying to drum up support and idenitify leaders for local committees within the union.
+Flora Tristan dreams even bigger. She dedicates her life to creating a utopian worker's union (l'Union Ouvrier) that will join the feminist cause with the worker's cause. In order to do so she writes a few books and travels through France meeting factory workers trying to drum up support and idenitify leaders for local committees within the union.
 
 Paul is the ultimate unredeemable character. He is so problematic I don't know where to begin. In fact, there's a whole book about how bad he is, in which you will find, among other things, tales of his numerous sexual escapades with 13 and 14 year old native girls. Although Paul isn't meant to be someone you respect at all, his character does offer one feel-good moral to the story. At 30 he had it all, a loving family, plenty of money, a stable job, etc. But he threw it all away when he discovered that the _only_ thing (other than drugs/sex/alcohol) he truly enjoyed was painting. Taking it to his extreme is definitely not the move, but his storyline certainly made me think about what it means to follow your passion.
 
-Flora, on the other hand, is the ultimate redeemable character. Its not that she never did anything wrong (she probably didn't really love her biological daughter), but her motivations were consistently pure. Life threw just about every curveball at her it possibly could. For example, it was legally impossible for her to escape her crazy husband (the one molesting her daughter) until he decided to shoot her. But she just kept chugging along trying to solve the world's problems and all you wanted was for her to succeed. Which is sad because you know (spoiler alert!) her work did not solve societal sexism. Her storyline left me conflicted: with a sense of purpose and direction and motivation to fix the world through a sheer force of will, but also with a sense of pessimism that at the end of the day a sheer force of will can't be enough and there's nothing you can do about it.
+Flora, in contrast, is the ultimate redeemable character. Its not that she never did anything wrong (she probably didn't really love her biological daughter), but her motivations were consistently pure. Life threw just about every curveball at her it possibly could. For example, it was legally impossible for her to escape her crazy husband (the one molesting her daughter) until he decided to shoot her. But she just kept chugging along trying to solve the world's problems and all you wanted was for her to succeed. Which is sad because you know (spoiler alert!) her work did not solve societal sexism. Her storyline left me conflicted: with a sense of purpose and direction and motivation to fix the world through a sheer force of will, but also with a sense of pessimism that at the end of the day a sheer force of will can't be enough and there's nothing you can do about it.
