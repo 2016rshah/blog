@@ -131,3 +131,20 @@ Paul is the ultimate unredeemable character. He is so problematic I don't know w
 Flora, in contrast, is the ultimate redeemable character. Its not that she never did anything wrong (she probably didn't really love her biological daughter), but her motivations were consistently pure. Life threw just about every curveball at her it possibly could. For example, it was legally impossible for her to escape her crazy husband (the one molesting her daughter) until he decided to shoot her. But she just kept chugging along trying to solve the world's problems and all you wanted was for her to succeed. Which is sad because you know (spoiler alert!) her work did not solve societal sexism. Her storyline left me conflicted: with a sense of purpose and direction and motivation to fix the world through a sheer force of will, but also with a sense of pessimism that at the end of the day a sheer force of will can't be enough and there's nothing you can do about it.
 
 <!-- https://www.theguardian.com/books/2003/nov/15/fiction.art -->
+
+### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July Bonus/Makup Round)
+
+Since I fell a bit behind with my June book I picked up an extended essay for what little remains of July. By the same author that brought you *Charlotte's Web* and *Stuart Little* this charming essay perfectly packages up what it's like to be in NYC. Even though it was written in 1949 it was frighteningly accurate (feat. scary foreshadowing for 9/11). White is a far more skilled writer than I am so I will let him speak for himself:
+
+<!-- I really appreciated two concepts in the book
+ - the peculiar loneliness of New York that is unlike the loneliness of any other place or situation.
+ - the sense of how one can find eighteen inches of privacy anywhere in the city
+ - what NYC provides for people who have no spirit -->
+
+ > "New York is peculiarly constructed to absorb almost anything that comes along (whether a thousand-foot liner out the East or a twenty-thousand-man convention out of the West) without inflicting the event on its inhabitants; so that every event is, in a sense, optional, and the inhabitant is in the happy posotion of being able to chose his spectacle and so conserve his soul."
+
+ New York, from an outside perspective seems overwhelming because of the sheer amount of stuff that is constantly going on. And yet when you actually get here you find yourself at a loss for what to do. Everything must be explicitly opted into -- no event is wholly thrust upon you. If it was not for a fear of missing out it would be far too easy to just not opt into anything. But since everybody around you seems to be moving so quickly you feel as though you're falling behind so you quicken your step. That pressure is what is valuable about New York (for a time, at least).
+
+> "Although New York often imparts a feeling of great forlornness or forsakenness, it seldom seems dead or unresourceful; and you always feel that either by shifting your location ten blocks or by reducing your fortune by five dollars you can experience rejuvenation"
+
+My New York experience has been the first time in my life I have ever felt \~loneliness\~. It has been an experience I appreciate, and my current position is unlike any other moment in my life. As White mentions, I could avoid this feeling by keeping myself so busy I don't have time to reflect on being alone. But I've realized that savoring this feeling might be part of the reason I'm here. I do not think I will seek out experiences like this in the future, so might as well enjoy this one while it lasts.
