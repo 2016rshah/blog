@@ -132,9 +132,11 @@ Flora, in contrast, is the ultimate redeemable character. Its not that she never
 
 <!-- https://www.theguardian.com/books/2003/nov/15/fiction.art -->
 
-### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July Bonus/Makup Round)
+### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July Makup Round)
 
-Since I fell a bit behind with my June book I picked up an extended essay for what little remains of July. By the same author that brought you *Charlotte's Web* and *Stuart Little* this charming essay perfectly packages up what it's like to be in NYC. Even though it was written in 1949 it was frighteningly accurate (feat. scary foreshadowing for 9/11). White is a far more skilled writer than I am so I will let him speak for himself:
+<img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/here_is_new_york.jpg' />
+
+Since I fell a bit behind with my June book I picked up an extended essay for what little remains of July as a makeup round. By the same author that brought you *Charlotte's Web* and *Stuart Little* this charming essay perfectly packages up what it's like to be in NYC. Even though it was written in 1949 it was frighteningly accurate (feat. scary foreshadowing for 9/11). White is a far more skilled writer than I am so I will let him speak for himself:
 
 <!-- I really appreciated two concepts in the book
  - the peculiar loneliness of New York that is unlike the loneliness of any other place or situation.
@@ -148,3 +150,19 @@ Since I fell a bit behind with my June book I picked up an extended essay for wh
 > "Although New York often imparts a feeling of great forlornness or forsakenness, it seldom seems dead or unresourceful; and you always feel that either by shifting your location ten blocks or by reducing your fortune by five dollars you can experience rejuvenation"
 
 My New York experience has been the first time in my life I have ever felt \~loneliness\~. It has been an experience I appreciate, and my current position is unlike any other moment in my life. As White mentions, I could avoid this feeling by keeping myself so busy I don't have time to reflect on being alone. But I've realized that savoring this feeling might be part of the reason I'm here. I do not think I will seek out experiences like this in the future, so might as well enjoy this one while it lasts.
+
+### *The Audacity of Hope* by Barack Obama (July Bonus Round!)
+
+<img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/audacity_of_hope.jpg' />
+
+Like I mentioned I'm staying in New York City this summer. My furnished apartment had a bookshelf upon which I found *Here is New York* which I finished in two sittings. I also found *The Audacity of Hope* on the bookshelf so with about a week left in July I picked it up unsure about whether it would be my July book or my August book. It is August 2nd and I finished it this morning so granted a day or two grace period I'm going to count this as a bonus round for July!
+
+I was hesitant when I started because I wondered how much Obama had actually written and how much had been ghost-written. But after I read a few chapters and thought about it a bit I realized it didn't matter who wrote the book. It was written when Obama was still a senator for Illinois but after he gave the speech that brought him into the public spotlight at the 2004 democratic national convention. This all meant that the book boiled down to long form campaign literature. It gave Obama an opportunity to outline his policy platform in a coherent and interesting format. I wasn't looking for genuine-ness, I wasn't looking for a memoir. By not wasting energy thinking about who was behind the book I was left alone with the content.
+
+The book made me feel conflicted. On one hand I was hit with regret that I am not actively pursuing policy. On the other hand just reading the book left me frustrated with how imprecise and hand-wavey and subjective policy intrinsically is. 
+
+Maybe this is just my ego talking but I've always been very curious about how I would fare in politics. Would I be able to handle it? When I think about it I imagine how bothered I would get that progress is so messy and unlike the black-and-white answers in CS. But then I consider that politics wouldn't be any neater when anybody else does it than it would be when I do it (in fact it could be significantly worse) so that can't be my excuse for not participating. I still haven't figured out whether or not its something I want to pursue at any point in my life. Who knows, but luckily nothing is stopping me from going into local policy making in the future so there's no need to get ahead of myself. 
+
+There were a couple of points in the book when I noticed how unexpectedly jarring it sounds to me when masculine pronouns are used as placeholders. More than once I noted that Obama said something along the lines of "when a senator does <blank> **he** has to <blank>". This can be contrasted with the language in academic papers that, by convention, use **she** instead (which tickled me pink the first time I saw it). Unconciously I usually end up using **they**, not because I'm policing my own language, but because it comes the most naturally to me (I'm talking about senators in general, why would I make the instance unnecessarily specific, singular, and gendered?). Do I think this is a big deal or speaks to how Obama is a closet sexist? No of course not. I'm not trying to overreact to his word choice. As I was reading the masculine pronouns just jumped out to me because I'm so unacustommed to them. I don't really know what else to say about it, but since I found myself thinking about more than once  I thought I should at least mention it here.
+
+Overall I thought the book was pretty standard. Not a waste of time or anything: I know more now about Indonesia than I did before. But nothing life changing. I'll happily discuss what I thought if it ever comes up in conversation, but I don't think it will be very high on my list of books I actively recommend to people when they ask for suggestions, you know? 
