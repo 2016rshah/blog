@@ -55,7 +55,7 @@ This clarifies exactly what matters to the organization and what they’re doing
 
 I personally know victims of rape. 
 
-Many of us probably do since every 98 seconds another person experiences sexual assault. Thus RAINN targets a problem we hear a lot about but rarely know what to do about. They have programs for public education, public policy, and most importantly victim services. 
+Many of us probably do since [every 98 seconds another person in the USA experiences sexual assault](https://www.rainn.org/statistics). Thus RAINN targets a problem we hear a lot about but rarely know what to do about. They have programs for public education, public policy, and most importantly victim services. 
 
 One of their initiatives I was most surprised to learn about addresses the backlog of forensic evidence kits:
 
