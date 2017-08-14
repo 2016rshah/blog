@@ -23,7 +23,7 @@ Also shameless plug -- I would really appreciate if you could like/share this po
 Without further ado here are the charities I feel strongly about:
 
 
-## <u>Helping the good become great</u>
+<!-- ## <u>Helping the good become great</u> -->
 
 ### *[She Should Run](http://www.sheshouldrun.org/)*
 
@@ -35,7 +35,7 @@ Right now only about 20% of our congressional representation is female, despite 
 
 > "[Our mission is to expand the talent pool of women running for office in the United States by providing community, resources, and growth opportunities for aspiring political leaders](http://www.sheshouldrun.org/)"
 
-## <u>Helping the ok become good</u>
+<!-- ## <u>Helping the ok become good</u> -->
 
 ### *[National Women's Law Center](https://nwlc.org/issues/)*
 
@@ -48,7 +48,7 @@ I appreciate how clearly this organization expresses their vision. [Their about 
 This clarifies exactly what matters to the organization and what they're doing about it. Such a powerful nonprofit needs a clearly defined plan for execution, and this gives me confidence that it is staying on task and maintains accountability. Classic lawyers with their organization and specificity.
 
 
-## <u>Helping the bad become ok</u>
+<!-- ## <u>Helping the bad become ok</u> -->
 
 ### *[Rape, Abuse & Incest National Network (RAINN)](https://www.rainn.org/)*
 
