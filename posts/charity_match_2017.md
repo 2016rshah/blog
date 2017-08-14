@@ -8,13 +8,13 @@
 
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
-I was fortunate enough to have a paid internship this summer, and I am planning to donate a portion of my salary. I’m hoping to encourage people in a similar position to do the same, so I've selected a list of charities I feel strongly about -- pick from my list of possible charities and I will match every dollar you donate (up to 10% of my summer income)! 
+I was fortunate enough to have a paid internship this summer, and I am planning to donate a portion of my salary. I'm hoping to encourage people in a similar position to do the same. I've selected a list of charities I feel strongly about and will match your donations to any of those organizations (up to 10% of my summer income)! 
 
-Also since I want people to pledge to do something similar to this I am setting aside an additional 5% of my income that I will give to a charity from your list if you decide to make a similar post. So if you list your favorite nonprofits and pledge to match my contribution, I will donate part of that 5% to a charity from your list.
+Also, since I want people to pledge to do something similar to this, I am setting aside an additional 5% of my income that I will give to a charity from your list if you decide to make a similar post. So if you list your favorite nonprofits and pledge to match my contribution, I will donate part of that 5% to a charity from your list.
 
-If you are at all interested in either plan please slide into my DMs. Message me if you're thinking about contributing, if you have ideas for charities that should definitely be on my list, if you were going to donate some of your internship earnings on your own, or even if you just miss me and want to catch up <3 . Alternatively if you want to participate anonymously just <a href="mailto:2016rshah@gmail.com">email me</a> a receipt of your contribution. 
+If you are at all interested in either plan, please slide into my DMs. Message me if you're thinking about contributing, if you have ideas for charities that should definitely be on my list, if you were going to donate some of your internship earnings on your own, or even if you just miss me and want to catch up <3 . Alternatively, if you want to participate anonymously, just email me a receipt of your contribution. 
 
-<!-- For my list of charities + rationale for each one check out rshah.org/blog/posts/charity-donations-2017-summer.html. Spoiler alert: the charities are She Should Run, National Women’s Law Center, RAINN, Rape Kit Action Program, National Coalition Against Domestic Violence, and Fistula Foundation. 
+<!-- For my list of charities + rationale for each one check out rshah.org/blog/posts/charity-donations-2017-summer.html. Spoiler alert: the charities are She Should Run, National Women's Law Center, RAINN and Fistula Foundation. 
 
 I am very blessed to be able to make this post and I acknowledge that not everybody has the same privilege I do. But the fact that I am in the position to contribute to charity is why I felt I needed to make this post. 
 
@@ -27,7 +27,7 @@ Without further ado here are the charities I feel strongly about:
 
 ### *[She Should Run](http://www.sheshouldrun.org/)*
 
-In the committee of thirteen senators in charge of replacing the AHCA, [not a single one is female](https://www.nytimes.com/2017/05/08/us/politics/women-health-care-senate.html?_r=0). Without any female perspective in the legislation it is hard to imagine the bill will suitably address (or even consider) women’s healthcare issues like maternity leave, let alone progressive reforms like [subsidies for menstrual hygiene products](https://www.theguardian.com/commentisfree/2014/aug/11/free-tampons-cost-feminine-hygiene-products). 
+In the committee of thirteen senators in charge of replacing the AHCA, [not a single one is female](https://www.nytimes.com/2017/05/08/us/politics/women-health-care-senate.html?_r=0). Without any female perspective in the legislation it is hard to imagine the bill will suitably address (or even consider) women's healthcare issues like maternity leave, let alone progressive reforms like [subsidies for menstrual hygiene products](https://www.theguardian.com/commentisfree/2014/aug/11/free-tampons-cost-feminine-hygiene-products). 
 
 The homogenous committee is just one instance of a larger, overarching problem. The fact that women are proportionally underrepresented in our government perpetuates the systematic obstacles that women face. Giving females a legislative voice is an important step towards addressing the plight of women.  
 
@@ -45,7 +45,7 @@ I appreciate how clearly this organization expresses their vision. [Their about 
 
 <img style="" src='../resources/charity_match_2017/NWLC.png' />
 
-This clarifies exactly what matters to the organization and what they’re doing about it. Such a powerful nonprofit needs a clearly defined plan for execution, and this gives me confidence that it is staying on task and maintains accountability. Classic lawyers with their organization and specificity.
+This clarifies exactly what matters to the organization and what they're doing about it. Such a powerful nonprofit needs a clearly defined plan for execution, and this gives me confidence that it is staying on task and maintains accountability. Classic lawyers with their organization and specificity.
 
 
 ## <u>Helping the bad become ok</u>
@@ -75,7 +75,7 @@ The Fistula Foundation has saved over 25,000 women from life as "modern-day lepe
  
 It is sickening that some communities shove victims of physical and emotional trauma to the fringes of society. Women in cash-poor areas of the world should not lose access to education, work, and human interaction because of a medical complication with a frustratingly simple solution.
 
-ALSO, if you donate to the Fistula Foundation’s campaign to build a new facility in DRC before August 31, an anonymous donor will match your donation, which means your contribution will be quadrupled!
+ALSO, if you [donate](https://fundraise.fistulafoundation.org/campaign/heal-hospital-august-2017/c134408) to the Fistula Foundation's campaign to build a new facility in DRC before August 31, an anonymous donor will match your donation, which means your contribution will be quadrupled!
 
 ## <u>Conclusion</u>
 
