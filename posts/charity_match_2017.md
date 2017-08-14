@@ -8,8 +8,7 @@
 
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
-
-Like many of you I've earned a bit of money this summer at my internship, and hopefully like many of you I am planning to donate a chunk of it. To that end I've selected a list of charities I feel strongly about -- pick from my list of possible charities and I will match every dollar you donate (up to 10% of my summer income)! 
+I was fortunate enough to have a paid internship this summer, and I am planning to donate a portion of my salary. I’m hoping to encourage people in a similar position to do the same, so I've selected a list of charities I feel strongly about -- pick from my list of possible charities and I will match every dollar you donate (up to 10% of my summer income)! 
 
 Also since I want people to pledge to do something similar to this I am setting aside an additional 5% of my income that I will give to a charity from your list if you decide to make a similar post. So if you list your favorite nonprofits and pledge to match my contribution, I will donate part of that 5% to a charity from your list.
 
@@ -34,13 +33,13 @@ The homogenous committee is just one instance of a larger, overarching problem. 
 
 Right now only about 20% of our congressional representation is female, despite the fact that [women win elections in the same proportion as men when they run](https://www.politicalparity.org/research-inventory/women-candidates-and-their-campaigns/). So if we want more female representation the first step is clear: get more female candidates.
 
-> “[Our mission is to expand the talent pool of women running for office in the United States by providing community, resources, and growth opportunities for aspiring political leaders](http://www.sheshouldrun.org/)”
+> "[Our mission is to expand the talent pool of women running for office in the United States by providing community, resources, and growth opportunities for aspiring political leaders](http://www.sheshouldrun.org/)"
 
 ## <u>Helping the ok become good</u>
 
 ### *[National Women's Law Center](https://nwlc.org/issues/)*
 
-As I mentioned briefly in the *She Should Run* pitch, I think legislation is the most influential tool we have to dismantle systemic sexism and discrimination, especially for “[women who are low income and those who face multiple forms of discrimination](https://nwlc.org/)”. The lawyers and advocates at NWLC leverage that opportunity and “[have been on the frontlines of virtually every advance for women for more than 40 years](https://nwlc.org/)”. 
+As I mentioned briefly in the *She Should Run* pitch, I think legislation is the most influential tool we have to dismantle systemic sexism and discrimination, especially for "[women who are low income and those who face multiple forms of discrimination](https://nwlc.org/)". The lawyers and advocates at NWLC leverage that opportunity and "[have been on the frontlines of virtually every advance for women for more than 40 years](https://nwlc.org/)". 
 
 I appreciate how clearly this organization expresses their vision. [Their about us page](https://nwlc.org/issues/) contains links to category pages that each link to issue pages with information about the problem and their solutions. It creates a tree structure like the graphic. 
 
@@ -59,7 +58,7 @@ Many of us probably do since [every 98 seconds another person in the USA experie
 
 One of their initiatives I was most surprised to learn about addresses the backlog of forensic evidence kits:
 
-> “[more than 100,000 sexual assault forensic evidence kits (“rape kits”) are unaccounted for and untested. Each of these kits represents a victim seeking justice](https://everykitcounts.org/)”
+> "[more than 100,000 sexual assault forensic evidence kits ("rape kits") are unaccounted for and untested. Each of these kits represents a victim seeking justice](https://everykitcounts.org/)"
 
 There are [numerous reasons](https://www.rainn.org/articles/addressing-rape-kit-backlog) this backlog is growing, and RAINN is working to fix that because by neglecting the backlog of forensic evidence, we fail victims of sexual assault.
 
@@ -68,13 +67,15 @@ There are [numerous reasons](https://www.rainn.org/articles/addressing-rape-kit-
 
 (This section is courtesy of the lovely [Madalyn Marabella](https://www.linkedin.com/in/madalyn-marabella-8a6658129), who was invaluable in making this whole thing actually happen)
 
-You probably haven’t heard of obstetric fistulas -- they were eradicated in the U.S. and Europe more than a century ago. Although a simple treatment exists, over one million women in sub-Saharan Africa and Asia live with untreated fistulas, tears in the vagina and internal organs that usually develop during obstructed labor or sexual violence.
+You probably haven't heard of obstetric fistulas -- they were eradicated in the U.S. and Europe more than a century ago. Although a simple treatment exists, over one million women in sub-Saharan Africa and Asia live with untreated fistulas, tears in the vagina and internal organs that result from obstructed labor or sexual violence.
  
-The internal tear causes “permanent incontinence of urine and/or feces,” which leads to physical discomfort, an unpleasant smell, and leaking bodily fluids. Because of the stigma surrounding these symptoms, women with fistulas are often “abandoned by their husbands and ostracized by their communities.”
+The internal tear causes "permanent incontinence of urine and/or feces," which leads to physical discomfort, an unpleasant smell, and leaking bodily fluids. Because of the stigma surrounding these symptoms, women with fistulas are often "abandoned by their husbands and ostracized by their communities."
  
-The Fistula Foundation has saved over 25,000 women from life as “modern-day lepers.” Charity Navigator, Charity Watch, and The Life You Can Save recommend this organization to donors because it completely changes women’s lives using a relatively cheap medical procedure.
+The Fistula Foundation has saved over 25,000 women from life as "modern-day lepers." Charity Navigator, Charity Watch, and The Life You Can Save recommend this organization to donors because it completely changes women's lives using a relatively cheap medical procedure.
  
-I chose this charity because women in cash-poor areas of the world should not lose access to education, work opportunities, and FREAKING HUMAN INTERACTION because of a medical complication with a frustratingly simple solution.
+It is sickening that some communities shove victims of physical and emotional trauma to the fringes of society. Women in cash-poor areas of the world should not lose access to education, work, and human interaction because of a medical complication with a frustratingly simple solution.
+
+ALSO, if you donate to the Fistula Foundation’s campaign to build a new facility in DRC before August 31, an anonymous donor will match your donation, which means your contribution will be quadrupled!
 
 ## <u>Conclusion</u>
 
