@@ -132,7 +132,7 @@ Flora, in contrast, is the ultimate redeemable character. Its not that she never
 
 <!-- https://www.theguardian.com/books/2003/nov/15/fiction.art -->
 
-### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July Makup Round)
+### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July Makeup Round)
 
 <img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/here_is_new_york.jpg' />
 
@@ -176,3 +176,8 @@ I have the privelege to travel a lot. Every time I visit a new country (even if 
 This book shattered that illusion. Mori lived her first 20 years in Japan and her latter 20 years in the American Midwest so in her book she explores the similarities and differences between the two societies. Coming to America to study was nothing short of an escape for her from her life in Japan so the book was openly critical of aspects of Japanese society. Reading the book made me realize that there is (surprise!) no such thing as an enlightened society. I was forced to consider that the "courtesy" I witnessed in Japan stifles individuals who actually live with it and is merely a veneer as part of an elaborate hoax that every member of society is pushed to be in on.
 
 The author faced hard times in Japan, which the book describes. I experienced nothing but vacation in Japan. It is hard to read criticism of something you originally admired, but it was valuable to hear a perspective that I did not have access to as a tourist. The book did not completely villainize Japan in my mind, but it definitely knocked it off whatever pedestel I had put Japan on before. As cliché as it may sound I now have a nuanced view somewhere in the middle, which I guess is what growing up is all about. This was an important book for me personally to read.
+
+### *Alice's Adventures in Wonderland* and *Through the Looking-Glass* by Lewis Carroll (August Bonus Rounds)
+
+
+
