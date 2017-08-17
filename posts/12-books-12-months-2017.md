@@ -179,5 +179,12 @@ The author faced hard times in Japan, which the book describes. I experienced no
 
 ### *Alice's Adventures in Wonderland* and *Through the Looking-Glass* by Lewis Carroll (August Bonus Rounds)
 
+<img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/alice.jpg' />
 
+This book was hard to decipher. The sentences were awkward, the punctuation felt odd, and there were italics and emphasis in all the wrong places. And overwhelmingly I just felt like I was missing something. I suppose that is the point of surrealism: you're not supposed to just get it. What would be the fun in that?
 
+My trouble reading it got in my way of enjoying these books, especially at first. But by the end of the second book I had gotten the hang of the writing style, just in time for there to be nothing left to read. Although it was frustrating to read at the time, in retrospect I remember enjoying parts of the book. Once or twice I found myself smiling at the book, like after I read the footnote for [the joke about the different tenses for the word "jam" in latin](https://en.wikipedia.org/wiki/Jam_tomorrow). 
+
+A close friend I made while spending the summer in NYC suggested this book to me. *Through the Looking-Glass* was one of her favorite books, and although I don't think I liked it quite as much as she did, I'm glad I branched out a bit. It was a pleasant and welcome change of pace from the more traditional books I usually end up reading.
+
+Once I finished the book I read the Introduction (how's that for a contradiction), which I appreciated. If only other confusing things (like abstract art) came with an explanation all spelled out for me. But then again, maybe it's the not knowing that counts. 
