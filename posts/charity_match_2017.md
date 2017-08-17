@@ -12,9 +12,9 @@ I was fortunate enough to have a paid internship this summer, and I am planning 
 
 Also, since I want people to pledge to do something similar to this, I am setting aside an additional 5% of my income that I will give to a charity from your list if you decide to make a similar post. So if you list your favorite nonprofits and pledge to match my contribution, I will donate part of that 5% to a charity from your list.
 
-If you are at all interested in either plan, please slide into my DMs. Message me if you're thinking about contributing, if you have ideas for charities that should definitely be on my list, if you were going to donate some of your internship earnings on your own, or even if you just miss me and want to catch up <3 . Alternatively, if you want to participate anonymously, just email me a receipt of your contribution. 
+If you are at all interested in either plan, please slide into my DMs. Message me if you're thinking about contributing, if you have ideas for charities that should definitely be on my list, if you were going to donate some of your internship earnings on your own, or even if you just miss me and want to catch up <3 . Alternatively, if you want to participate anonymously, just [email me](mailto:2016rshah@gmail.com) a receipt of your contribution. 
 
-<!-- For my list of charities + rationale for each one check out rshah.org/blog/posts/charity-donations-2017-summer.html. Spoiler alert: the charities are She Should Run, National Women's Law Center, RAINN and Fistula Foundation. 
+<!-- For my list of charities + rationale for each one check out rshah.org/blog/posts/charity-donations-2017-summer.html. Spoiler alert: the charities are She Should Run, National Women's Law Center, Rape, Abuse & Incest National Network, and Fistula Foundation. 
 
 I am very blessed to be able to make this post and I acknowledge that not everybody has the same privilege I do. But the fact that I am in the position to contribute to charity is why I felt I needed to make this post. 
 
@@ -79,4 +79,4 @@ ALSO, if you [donate](https://fundraise.fistulafoundation.org/campaign/heal-hosp
 
 ## <u>Conclusion</u>
 
-Like I said, I will match your donations to any of these charities. I'm hoping to reach 10% of my summer income, so any donation on your part (small or large) is much appreciated -- I can take venmo or cash or a receipt of your donation, whatever is convenient for you! Just reach out to me if you want to contribute :)
+Like I said, I will match your donations to any of these charities. I'm hoping to reach 10% of my summer income, so any donation on your part (small or large) is much appreciated. I can take venmo (@ rushisshah) or cash or a receipt of your donation (which you can message me on Facebook, or <a href="mailto:2016rshah@gmail.com">email me</a> at 2016rshah [at] gmail [dot] com), whatever is convenient for you! Just reach out to me if you want to contribute :)
