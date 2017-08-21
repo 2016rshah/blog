@@ -188,3 +188,36 @@ My trouble reading it got in my way of enjoying these books, especially at first
 A close friend I made while spending the summer in NYC suggested this book to me. *Through the Looking-Glass* was one of her favorite books, and although I don't think I liked it quite as much as she did, I'm glad I branched out a bit. It was a pleasant and welcome change of pace from the more traditional books I usually end up reading.
 
 Once I finished the book I read the Introduction (how's that for a contradiction), which I appreciated. If only other confusing things (like abstract art) came with an explanation all spelled out for me. But then again, maybe it's the not knowing that counts. 
+
+### *The Fountainhead* by Ayn Rand (August Bonus Round #3)
+
+Yet another obnoxiously long audiobook. I had downloaded it onto my phone from my local library long ago but only gotten about halfway through it. After I finished *Through the Looking Glass* I wanted to consume more literature but it was late at night. I spark-noted to refresh my memory up to where I had stopped, redownloaded the book, and started listening. 
+
+In the process of exploring NYC I went into two or three bookstores. Everytime I asked the clerk where to find *The Fountainhead* in the store because I was hunting for a cheap physical copy. But I felt a little embarassed everytime I had to say what book I was looking for. I also told two of my friends I was listening to it. Neither had read it before but they both had strong reactions. One jokingly asked "oh are you a libertarian now?". The other said "don't waste your time on a book like that". I thought about their comments when the first bookstore pointed me to the "banned books" shelf. 
+
+Around the time Gail Wynand was introduced (3/4 of the way through the book) I was really enjoying the writing. I felt very guilty about it. I knew I was supposed to hate the book and I noted every time the book raised a red flag about how problematic it was. I also saw exactly why some people loved the book so much. It made them feel like they were one of the select few who was a real special snowflake in the world. I just liked the writing and thought it was an amusing and intriguing story. The book was structured as follows:
+
+Part 1: Peter Keating
+
+Part 2: Ellsworth Toohey
+
+Part 3: Gail Wynand
+
+Part 4: Howard Roark
+
+I don't remember parts 1 and 2 well enough to say much about them. They were good enough to remind me to pick up the book again after all these months, but they were bad enough to allow me to put down the book in the first place. Part 3 is where I think this book really shined. More than once I found myself appreciating Rand's skill as a writer: not just about the story she crafted but about the way she had with words. She wrote the book to make people see themselves in Roark. I never did but absolutely saw how others could. Instead I saw myself in Gail Wynand [^footnote3]. 
+
+It wasn't until the fourth part of the book that I finally had the visceral reaction to the book that liberals usually do. I was so satisfied with the book up until this part. Parts 1, 2, and 3 were a beautifully written exposé glorifying an opinion I might not have shared, but could have at least respected. In part 4, however, Rand threw away such a good setup for some weak attempt at libertarian pathos. The ending didn't try. It felt lazy. It felt like she was a writer for the Banner paid off by the libertarian version of Toohey to plug this whole individualistic thing. Just plug it well enough to sound good until you really thought about it, with the expectation that no one would ever really think about it. 
+
+I was afraid I was gonna end up being one of those people that really liked the Fountainhead. I'm glad Part 4 saved me from having that opinion. 
+
+With that being said I think there were still really interesting parts of the book! I think there is a wealth of analysis to be had on Wynand's character, mainly because of how closesly I related to him. This is one of the reasons I'm still impressed by Ayn Rand, irrespective of the ending: she has a peculiarly effective way of writing characters that makes you really feel like you *get* them. If I still had humanities classes to take I would have written a bomb literary essay on Wynand and maybe even what qualities of myself I see in him. 
+
+I was scared by my hesitation to like the book and my friend's reactions about it. In transcribing their quotes I am sure I blew what they were saying out of proportion, and my hesitation with the book clerks is just a personal fear that they would go back to their cool liberal friends and paint a caricature of the entitled Indian boy who came into the store today only asking for an Ayn Rand book. And I get the complaints with the book, along with dissapointment in the subtly flawed viewpoints of Ayn Rand. I also see where liberal frustration comes into play: it basically tells libertarians that they are justified but don't have to justify themselves to anyone else. It just gives them permission to go about their daily lives with a false sense of superiority. 
+
+But I don't think reading the book was a waste of time. Of all the books on I've read so far this year I think I would recommend this one to my friends the quickest. Not because I am or think they should become libertarians, but because I think this is one of the books I got the most out of in an intellectual sense. Regardless of whether you agree with the characters, you can value the book as a piece of literature. It was well written, it brought up interesting (read: contreversial) viewpoints, and it gave me insight into a perspective that wouldn't have been immediately obvious to me otherwise. 
+
+I guess what I'm trying to say, to justify to you as much as myself, is this: I dig this book, but that doesn't make me problematic. 
+
+[^footnote3]: There's a high chance someone will throw that comparison in my face at some point 
+
