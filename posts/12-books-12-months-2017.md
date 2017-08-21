@@ -191,7 +191,7 @@ Once I finished the book I read the Introduction (how's that for a contradiction
 
 ### *The Fountainhead* by Ayn Rand (August Bonus Round #3)
 
-Yet another obnoxiously long audiobook. I had downloaded it onto my phone from my local library long ago but only gotten about halfway through it. After I finished *Through the Looking Glass* I wanted to consume more literature but it was late at night. I spark-noted to refresh my memory up to where I had stopped, redownloaded the book, and started listening. 
+Yet another obnoxiously long audiobook. I had downloaded it onto my phone from my local library long ago but only gotten about halfway through it. After I finished *Through the Looking Glass* I wanted to consume more literature but it was late at night. I spark-noted to refresh my memory up to where I had stopped, redownloaded *The Fountainhead*, and started listening. 
 
 In the process of exploring NYC I went into two or three bookstores. Everytime I asked the clerk where to find *The Fountainhead* in the store because I was hunting for a cheap physical copy. But I felt a little embarassed everytime I had to say what book I was looking for. I also told two of my friends I was listening to it. Neither had read it before but they both had strong reactions. One jokingly asked "oh are you a libertarian now?". The other said "don't waste your time on a book like that". I thought about their comments when the first bookstore pointed me to the "banned books" shelf. 
 
