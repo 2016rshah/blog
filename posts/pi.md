@@ -116,8 +116,7 @@ what and you can see this lovely branch history:
 Our team also had a ton of fun and composed this poem to express our feelings:
 
 ```
-team hot pi 
-more like team not high 
+team hot pi more like team not high amirite
 more like team thought die
 but then team fought rye
 and then team shot high
