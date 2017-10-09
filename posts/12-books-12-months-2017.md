@@ -111,10 +111,12 @@ Since its a double biography, the book is structured such that every other chapt
 
 [^footnote2]: The pictures of Gauguin's work I posted are all from <a href="https://www.wikiart.org/en/paul-gauguin" style="font-size: 20px;">WikiArt</a>
 
-![Manao tupapau // Spirit of the Dead Watching (1892)](https://uploads1.wikiart.org/images/paul-gauguin/the-spirit-of-the-dead-watches-1892.jpg!Large.jpg)
+
+![Papa Moe // Mysterious Water (1893)](https://uploads5.wikiart.org/images/paul-gauguin/mysterious-water-1893.jpg!Large.jpg)
+
 
 <hr>
-![Papa Moe // Mysterious Water (1893)](https://uploads5.wikiart.org/images/paul-gauguin/mysterious-water-1893.jpg!Large.jpg)
+![Manao tupapau // Spirit of the Dead Watching (1892)](https://uploads1.wikiart.org/images/paul-gauguin/the-spirit-of-the-dead-watches-1892.jpg!Large.jpg)
 
 <!-- <hr>
 ![Nevermore (1897)](https://uploads7.wikiart.org/images/paul-gauguin/nevermore-1897.jpg!Large.jpg)
