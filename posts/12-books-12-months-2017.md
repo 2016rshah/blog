@@ -219,5 +219,28 @@ But I don't think reading the book was a waste of time. Of all the books on I've
 
 I guess what I'm trying to say, to justify to you as much as myself, is this: I dig this book, but that doesn't make me problematic. 
 
+### *Mere Christianity* by C.S. Lewis (September)
+
+I'm not Christian, and so a lot of what I know about Christianity comes second- or third-hand, often from people who are trying to refute some claim of what Christianity supposedly teaches. This book (written by the dude that wrote the Chronicles of Narnia) was valuable for me to read because it presented the core ideals of Christianity in a well thought out and approachable way, by a Christian for a non-Christian. 
+
+Overall the book made some intriguing points. CS Lewis is an incredibly talented writer, and so it was enjoyable to see his arguments play out. 
+
+However, there were points in the book where I became angry at what was being said. On some things I just had to recognize the book was written in a different era, so I can't hold it to current societal standards. However, in other parts I felt like his reasoning was intrinsically flawed and the flaw seemed so obvious to me it was hard for me to wrap my head around someone else not seeing it. In particular, the chapter on chastity and the chapter on Christian marriage were both very frustrating. His argument for why the man should be the head of a marriage was along the lines that every marriage must have a leader and it should be the man because the leader needs to be considerate of people outside the family, which women are too family-oriented to be able to do. When I encounter people with opinions like that I don't even know where to start because our viewpoints are so diametrically opposed. 
+
+In retrospect those two chapters are the most clear in my head because of how vehemently I disagreed with them. But I took notes as I listened to the audiobook, and looking back over my notes I am reminded of points in the book that impressed me. For example, his viewpoint on charity resonated with me:
+
+> "There ought to be things we should like to do and cannot do because our charitable expenditure excludes them."
+
+I was intrigued by his chapter on pride. My pride has always been a large source of motivation for me. I often govern my actions by convincing myself that because of the person I am I *should* or *should not* do them. However, he paints this trading of one sin for another sin as a deal with the devil. I kind of see where he's coming from. His advice for addressing one's pride is giving oneself up to god, which I certainly won't be doing anytime soon, but the book has convinced me that I should more carefully examine my pride with a more critical eye. 
+
+Finally, one example he kept pointing to was math. One of his arguments went something like this: just because humans teach us math doesn't mean that math is a human construct; 2 + 2 = 4 regardless of whether or not humans recognize it. That brought a smile to my face because as I take more and more math classes I'm starting to think of *Math with a capital M*. I'm repeatedly awe struck by how intricately tied together all the math concepts are [^footnote4]. I guess what I keep coming back to is that I can't even begin to wrap my head around how everything works out so elegantly in Math. You can't just pull stuff like that out of thin air, right? If put on the spot I'm pretty sure my most honest answer to "what religion are you" would have to be Math [^footnote5]. 
+
+### *Dreamers of a New Day: Women Who Invented the Twentieth Century* by Sheila Rowbotham (September Bonus Round ish?)
+
+I read this book for my Women and Gender Studies class, so it doesn't really count as a book I read for myself. I'm only including it on this list for completeness sake; I think this series of blog posts will start becoming a catalogue for all the books I read in the near future.
+
 [^footnote3]: There's a high chance someone will throw that comparison in my face at some point 
 
+[^footnote4]: The most recent example was when my homework asked me to provide an isomorphism between the additive group of polynomials and the multiplicative group of positive rationals. I was baffled that there could possibly be a bijection between these two seemingly unrelated sets defined on seemingly unrelated operations. I went into office hours and my professor showed me the inextricable link that lies in prime numbers. You can't make this stuff up. I'm telling you, man, Math is wild. 
+
+[^footnote5]: I should probably make a longer post about this, because this paragraph is ripe for misunderstanding. My opinion on this matter can be very easily misconstrued and I haven't even entirely figured out what I'm thinking yet. Before you read too far into this outrageous claim please recognize that I'm probably only like 40% serious about this.
