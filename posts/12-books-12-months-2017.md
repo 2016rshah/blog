@@ -191,7 +191,7 @@ A close friend I made while spending the summer in NYC suggested this book to me
 
 Once I finished the book I read the Introduction (how's that for a contradiction), which I appreciated. If only other confusing things (like abstract art) came with an explanation all spelled out for me. But then again, maybe it's the not knowing that counts. 
 
-### *The Fountainhead* by Ayn Rand (August Bonus Round #3)
+### *The Fountainhead* by Ayn Rand (August Bonus Round #3!)
 
 Yet another obnoxiously long audiobook. I had downloaded it onto my phone from my local library long ago but only gotten about halfway through it. After I finished *Through the Looking Glass* I wanted to consume more literature but it was late at night. I spark-noted to refresh my memory up to where I had stopped, redownloaded *The Fountainhead*, and started listening. 
 
@@ -237,12 +237,26 @@ I was intrigued by his chapter on pride. My pride has always been a large source
 
 Finally, one example he kept pointing to was math. One of his arguments went something like this: just because humans teach us math doesn't mean that math is a human construct; 2 + 2 = 4 regardless of whether or not humans recognize it. That brought a smile to my face because as I take more and more math classes I'm starting to think of *Math with a capital M*. I'm repeatedly awe struck by how intricately tied together all the math concepts are [^footnote4]. I guess what I keep coming back to is that I can't even begin to wrap my head around how everything works out so elegantly in Math. You can't just pull stuff like that out of thin air, right? If put on the spot I'm pretty sure my most honest answer to "what religion are you" would have to be Math [^footnote5]. 
 
-### *Dreamers of a New Day: Women Who Invented the Twentieth Century* by Sheila Rowbotham (September Bonus Round ish?)
+### *The Merchant of Venice* by William Shakespeare (October)
 
-I read this book for my Women and Gender Studies class, so it doesn't really count as a book I read for myself. I'm only including it on this list for completeness sake; I think this series of blog posts will start becoming a catalogue for all the books I read in the near future.
+Like [L'Étranger](https://www.rshah.org/blog/posts/12-books-12-months-2017.html#létranger-by-albert-camus-february) I was assigned this book in high-school but never read it. I was supposed to read it four years ago in my sophomore year high school english class [^footnote6] and I never returned the book because I felt bad about not reading it. I told myself I would read it someday and I finally did! 
+
+I was surprised with how much I liked it! It was short and amusing and I was tickled pink by the gender dynamics.
+
+With my modern sensibilities I definitely cringed at the Christianity versus Judaism conflict in the book. One thing I do remember from English class was Shylock, and many Jews, were money lenders because they were not allowed to own property. Obviously I don't agree with Shylock's quest for vengence, but I don't consider it particularly merciful of Antonio to strong-arm Shylock into converting to Christianity by sparing him from his sentence at the end of the play. I am a little dissappointed that he took the offer: I understand why Shakespeare made Shylock a weak and cowardly character in the end, but I think that if Shylock was written true to form he would have chosen death over Christianity. The more I think about it the less I think I would like Antonio and his friends if it wasn't for the natural affinity a reader has for protagonists. 
+
+Portia, one of the main heroines of the book, was far and away my favorite character (I distinctly recall my English teacher mentioning how everybody always loves Portia). She is a total baller and (along with Nerissa) she almost literally runs circles around the other characters while saving the day. Typical. 
+
+### *Yonnondio: From the Thirties* by Tillie Olsen (October Bonus Round (ish?)!)
+
+I am currently in a Women and Gender Studies class (WGS 345: Women Radicals and Reformers) and I was assigned this book for that class. Because it is required reading I don't think it should count towards my goal of 12 books in 12 months (thus the "ish?" in the title). But that brings up a good point about this blog post in general. The whole 12 books in 12 months thing started when I was inspired by a friend who was reading a book a week for a year. 52 books seemed too ambitious and unsustainable for me, especially because I didn't want to flake on the goal after I had set it. So I settled on a book a month. As demonstrated by all the bonus rounds, I quickly noticed that I actually read about two books (+/- 1) a month, so in the back of my head 25 books a year has been the real goal. But since then I've also really started to appreciate this blog post about as much as I've appreciated the readings. Thus, I am including *Yonnondio* (even though it was required reading) in my list of books for this year for completeness' sake. 
+
+
 
 [^footnote3]: There's a high chance someone will throw that comparison in my face at some point 
 
 [^footnote4]: The most recent example was when my homework asked me to provide an isomorphism between the additive group of polynomials and the multiplicative group of positive rationals. I was baffled that there could possibly be a bijection between these two seemingly unrelated sets defined on seemingly unrelated operations. I went into office hours and my professor showed me the inextricable link that lies in prime numbers. You can't make this stuff up. I'm telling you, man, Math is wild. 
 
 [^footnote5]: I should probably make a longer post about this, because this paragraph is ripe for misunderstanding. My opinion on this matter can be very easily misconstrued and I haven't even entirely figured out what I'm thinking yet. Before you read too far into this outrageous claim please recognize that I'm probably only like 40% serious about this.
+
+[^footnote6]: I did very few of the readings this year even though we read really cool books (*Hard Times* by Charles Dickens, *The Epic of Gilgamesh*, *The Glass Palace* by Amitav Ghosh, etc.). Towards the end of the year I started to realize just how much I missed out on and pulled off a major heist of multiple books I had failed to read. They are still on my shelf and I am making my way through them, but I really feel bad that I didn't more fully appreciate the class at the time because I could have gotten a lot out of it. Since then (with one or two exceptions here or there) I have religously read every book I have been assigned from cover to cover (and I have kept track of the ones I didn't so I can get back to them later). We are all foolish in our youth but at least the class taught me one good lesson ¯\\\_(ツ)\_/¯
