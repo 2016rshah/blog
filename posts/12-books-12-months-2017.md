@@ -223,7 +223,7 @@ I guess what I'm trying to say, to justify to you as much as myself, is this: I 
 
 ### *Mere Christianity* by C.S. Lewis (September)
 
-I'm not Christian, and so a lot of what I know about Christianity comes second- or third-hand, often from people who are trying to refute some claim of what Christianity supposedly teaches. This book (written by the dude that wrote the Chronicles of Narnia) was valuable for me to read because it presented the core ideals of Christianity in a well thought out and approachable way, by a Christian for a non-Christian. 
+I'm not Christian, and so a lot of what I know about Christianity comes second- or third-hand, often from people who are trying to refute some claim of what Christianity supposedly teaches. This book (written by the dude that wrote the Chronicles of Narnia) was valuable for me to read because it presented the core ideals of Christianity in a well thought out and approachable way, by a Christian for a non-Christian. The book was recommended to me by a friend I made in New York City (<a href="https://www.linkedin.com/in/christina-plakas-a81651112/">Christina Plakas</a>) whose opinion I highly respect, so I'm glad I got a chance to read it!
 
 Overall the book made some intriguing points. CS Lewis is an incredibly talented writer, and so it was enjoyable to see his arguments play out. 
 
@@ -251,6 +251,29 @@ Portia, one of the main heroines of the book, was far and away my favorite chara
 
 I am currently in a Women and Gender Studies class (WGS 345: Women Radicals and Reformers) and I was assigned this book for that class. Because it is required reading I don't think it should count towards my goal of 12 books in 12 months (thus the "ish?" in the title). But that brings up a good point about this blog post in general. The whole 12 books in 12 months thing started when I was inspired by a friend who was reading a book a week for a year. 52 books seemed too ambitious and unsustainable for me, especially because I didn't want to flake on the goal after I had set it. So I settled on a book a month. As demonstrated by all the bonus rounds, I quickly noticed that I actually read about two books (+/- 1) a month, so in the back of my head 25 books a year has been the real goal. But since then I've also really started to appreciate this blog post about as much as I've appreciated the readings. Thus, I am including *Yonnondio* (even though it was required reading) in my list of books for this year for completeness' sake. 
 
+### *Demain J'aurai Vingt Ans* by Alain Mabanckou (November (unfinished))
+
+<img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/demain.jpg' />
+
+Failure! I broke my monthly streak and decided to return my November book to the library before I finished it. 
+
+The title of the book translates to *tomorrow I will be twenty years old* and so my thought process went something like this: "hey this book will be about 19 year old, I'm 19, and so this would be a good book for me to read!". Turns out the book is actually about a 10 year old? I finished about 200 pages of it but unfortunately couldn't bring myself to finish the last hundred. I'm empty handed for November, but I'll cut myself some slack because of my bonus rounds in other months. C'est la vie...
+
+### *Hard Choices* by Hillary Rodham Clinton (December)
+
+<img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/hard_choices.jpg' />
+
+When I started this book I expected something along the lines of <a href="the-audacity-of-hope-by-barack-obama-july-bonus-round">Obama's *The Audacity of Hope*</a> that I read back in July: long form campaign literature written in 2014 for Clinton's upcoming 2016 presidential election. The world map that precedes the first chapter was my first clue that I was mistaken and as I settled into reading I was pleasantly surprised with what I found.
+
+This book is a massive 600 page treatise on US foreign policy during HRC's tenure as Secretary of State. I really enjoyed reading this book and since it's winter break I was able to leisurely google all those conflicts, places, and events I only vaguely knew about (+ consult actual maps of the regions being discussed) to shore up my understanding. 
+
+Books like this have to manage three competing qualities: completeness, specificity, and length. Obama's book was complete (in the topics covered) and a palatable length, but was frustratingly hand-wavey and vague. In characteristic HRC style, this book refused to compromise on completeness or specificity. It might have been a drag to carry around everywhere in my backpack, but I definitely prefer the focus on breadth and depth because it made the book so much more engaging and fulfilling to read. Obama's book was in no small part about Obama. That's cool and all, but Clinton's book was about the whole damn world. 
+
+In general, I'm a pretty optimistic dude. Whether its about my own life, domestic policy, or just about the future in general I'm confident that at the end of the day things are gonna turn out just splendidly. But for some reason my outlook is unconsciously fatalistic when it comes to foreign affairs. The world's problems just seem so insurmountable. And in some ways they certainly are, which is why this book is titled *Hard Choices*. But having Clinton walk through the State department's response to a variety of the individual issues they dealt with made everything seem a lot more down to earth. And it also made me realize that there is so much depth to foreign affairs that has went (and continues to go) completely over my head (even when I read high-quality journalism about it). There is so much more to know! 
+
+Speaking of world-shakers, change-makers, and ground-breakers, I borrowed this book from the indefatigable and inspiring [Maya Patel](https://www.linkedin.com/in/maya-m-patel/) right before we both left campus for break. In exchange, I lent her another refreshing book -- *The Humane Economy* by Wayne Pacelle -- which I also highly recommend. I really like people like Hillary Clinton, Maya Patel, and Wayne Pacelle because they are good reminders that I can't(/shouldn't/won't) let my day-to-day life get in the way of my responsibility to the world around me [^footnote7]. 
+
+In retrospect I think I saved the best for last. Maybe this lengthy, dense, and wonky book wouldn't be everybody's cup of tea, but I think it was probably my favorite book I read this year. Here's to the books that shaped my 2017, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
 
 [^footnote3]: There's a high chance someone will throw that comparison in my face at some point 
 
@@ -259,3 +282,5 @@ I am currently in a Women and Gender Studies class (WGS 345: Women Radicals and 
 [^footnote5]: I should probably make a longer post about this, because this paragraph is ripe for misunderstanding. My opinion on this matter can be very easily misconstrued and I haven't even entirely figured out what I'm thinking yet. Before you read too far into this outrageous claim please recognize that I'm probably only like 40% serious about this.
 
 [^footnote6]: I did very few of the readings this year even though we read really cool books (*Hard Times* by Charles Dickens, *The Epic of Gilgamesh*, *The Glass Palace* by Amitav Ghosh, etc.). Towards the end of the year I started to realize just how much I missed out on and pulled off a major heist of multiple books I had failed to read. They are still on my shelf and I am making my way through them, but I really feel bad that I didn't more fully appreciate the class at the time because I could have gotten a lot out of it. Since then (with one or two exceptions here or there) I have religously read every book I have been assigned from cover to cover (and I have kept track of the ones I didn't so I can get back to them later). We are all foolish in our youth but at least the class taught me one good lesson ¯\\\_(ツ)\_/¯
+
+[^footnote7]: Sounds like a New Year's resolution to me!
