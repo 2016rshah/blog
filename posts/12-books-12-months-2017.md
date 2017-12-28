@@ -263,7 +263,7 @@ The title of the book translates to *tomorrow I will be twenty years old* and so
 
 <img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/hard_choices.jpg' />
 
-When I started this book I expected something along the lines of <a href="the-audacity-of-hope-by-barack-obama-july-bonus-round">Obama's *The Audacity of Hope*</a> that I read back in July: long form campaign literature written in 2014 for Clinton's upcoming 2016 presidential election. The world map that precedes the first chapter was my first clue that I was mistaken and as I settled into reading I was pleasantly surprised with what I found.
+When I started this book I expected something along the lines of <a href="https://www.rshah.org/blog/posts/12-books-12-months-2017.html#the-audacity-of-hope-by-barack-obama-july-bonus-round">Obama's *The Audacity of Hope*</a> that I read back in July: long form campaign literature written in 2014 for Clinton's upcoming 2016 presidential election. The world map that precedes the first chapter was my first clue that I was mistaken and as I settled into reading I was pleasantly surprised with what I found.
 
 This book is a massive 600 page treatise on US foreign policy during HRC's tenure as Secretary of State. I really enjoyed reading this book and since it's winter break I was able to leisurely google all those conflicts, places, and events I only vaguely knew about (+ consult actual maps of the regions being discussed) to shore up my understanding. 
 
