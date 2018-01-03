@@ -4,7 +4,28 @@
 
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
-#(At Least) 12 Books in 12 Months - 2017
+# (At Least) 12 Books in 12 Months - 2017
+
+```
+Anna Karenina by Leo Tolstoy (January)
+L'Étranger by Albert Camus (February)
+Slaughterhouse-Five by Kurt Vonnegut (February Bonus Round!)
+Partials by Dan Wells (March)
+I Am Malala by Malala Yousafzai (April)
+A Clockwork Orange by Anthony Burgess (April Bonus Round!)
+Jane Eyre by Charlotte Brontë (May)
+Le Paradis - un peu plus loin by Mario Vargas Llosa (June/July)
+Here is New York by E. B. White (July Makeup Round)
+The Audacity of Hope by Barack Obama (July Bonus Round!)
+Polite Lies by Kyoko Mori (August)
+Alice's Adventures in Wonderland and Through the Looking-Glass by Lewis Carroll (August Bonus Rounds)
+The Fountainhead by Ayn Rand (August Bonus Round #3!)
+Mere Christianity by C.S. Lewis (September)
+The Merchant of Venice by William Shakespeare (October)
+Yonnondio: From the Thirties by Tillie Olsen (October Bonus Round (ish?)!)
+Demain J'aurai Vingt Ans by Alain Mabanckou (November (unfinished))
+Hard Choices by Hillary Rodham Clinton (December)
+```
 
 ### *Anna Karenina* by Leo Tolstoy (January)
 
