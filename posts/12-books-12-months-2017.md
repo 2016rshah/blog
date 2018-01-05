@@ -27,6 +27,8 @@ Demain J'aurai Vingt Ans by Alain Mabanckou (November (unfinished))
 Hard Choices by Hillary Rodham Clinton (December)
 ```
 
+See also: [(At Least) 12 Books in 12 Months - 2018](https://www.rshah.org/blog/posts/12-books-12-months-2018.html)
+
 ### *Anna Karenina* by Leo Tolstoy (January)
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2017/anna_karenina.png' />
