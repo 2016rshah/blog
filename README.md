@@ -1,7 +1,7 @@
-#My thoughts
+# My thoughts
 Mostly in the form of beautiful LaTeX generated, Heckle compiled PDFs.
 
-#Start your own Heckle blog with this theme
+# Start your own Heckle blog with this theme
 
  - Install [Heckle](https://github.com/2016rshah/heckle)
  - Fork and clone this repo (not the Heckle repo, this one!)
