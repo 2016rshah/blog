@@ -1,0 +1,45 @@
+% Charity Match 2017 Retrospective
+% Rushi Shah
+% 15 January 2018
+
+# Charity Match 2017 Retrospective
+*Rushi Shah on 15 January 2018*
+<!-- ### Started: 15 January 2018 -->
+
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+
+<img style="max-width:50%; margin:3px;" src='../resources/charity_match_2017_retrospective/donations.png' />
+
+Back in August 2017 I published the following post on my blog and facebook: [TLDR: I'll match your donations to charity](https://www.rshah.org/blog/posts/charity_match_2017.html). The idea was simple: I wanted to donate money I earned at my internship to charity and I wanted my peers to do something similar. 
+
+Overall we raised close to a total of $2,2780 for *[She Should Run](http://www.sheshouldrun.org/)*, *[The Fistula Foundation](https://www.thelifeyoucansave.org/Where-to-Donate/Fistula-Foundation)*, *[The Rape, Abuse & Incest National Network (RAINN)](https://www.rainn.org/)*, and *[The National Women's Law Center](https://nwlc.org/issues/)*. Depending on who you are, $2.2k might sound like a lot for charity or might sound like a drop in the bucket. I'm a 19 year old sophomore in college, so to me that sounds like "HELL YEAH 🚀"!
+
+Grass-roots doesn't even begin to describe this effort. 
+```
+ - The average donation was about $50. 
+ - 13 out of the 17 donors may not legally consume alcohol in the US. 
+ - Out of my ~1,000 facebook friends
+	- ~10% of them liked the post
+	- ~1% of them shared my post to their own timelines. 
+ - At least three of my friends pledged to similarly match their friend's donations. 
+```
+
+### Acknowledgements
+
+There are a ton of people who came together to make this happen:
+
+First and foremost, the 17 donors who put their cash where there mouth is. 
+
+Madalyn Marebella was the moral compass, north star, and ultimate partner-in-crime for this whole project. Logistics wise: she eloquently pitched the Fistula Foundation, dug up high-quality research about charities and their efficacy that I could not have found in a million years, provided a cogent voice for the messaging of the project, and really helped craft the vision. Personally she also helped me formulate what I wanted to do into a real plan, provided a friendly ear for my ramblings, and kept me honest in following through with the pipe-dream. 
+
+I am in no way financially independent, so obviously I call my parents about any large financial commitment like this. I want to thank them first for the shocked silence when I pitched the idea to them, and thank them second for their incredible support in encouraging me to pursue this opportunity.
+
+This was pretty much all I could think of towards the end of the summer, so I also need to make a blanket thank you to everybody who humored me in brainstorming with them when we had a conversation. 
+
+And finally I want to pre-emptively thank everyone who participates in future internship charity matches like this. This isn't over!
+
+### Onwards and Upwards
+
+I was pleasantly surprised with how this year went to say the least. In one of our many conversations about best/worst case scenarios, I told Madalyn that I would consider the entire thing a success if we even managed to raise $100 of outside money. My condition in the back of my head was that if we did manage to meet that tiny goal, I would commit to doing the same thing after every one of my summer internships. Here we are a few months later, more than $2,000 over the goal, and I am beyond pumped to keep my word.  
+
+This was an experiment that I was very nervous about, and I am so proud of how far it came. I have big plans for my charity match in 2018. Now that I can point to a successful instance of something like this, I want to get more of my friends to pledge their internship earnings towards matching their friends. That is the biggest way this phenomenon will grow and persist even after I've lost my youthful naïveté and optimism. Say what you will about "kids these days", but I have high hopes that we want to (and will!) help the world around us. 
