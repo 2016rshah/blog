@@ -44,6 +44,8 @@ In general, I think I agree with most of the specific things Henry David Thoreau
 
 ### *A River Runs Through It & Other Stories* by Norman Maclean (January Bonus Rounds!)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/river-runs-through-it.jpg' />
+
 <!-- Recommended to me by Connor Chewning; Avni Nandu said it was like a great book she really liked. -->
 
 These stories are about Montana, and fly fishing, and having a preacher for a father, and whores, and the US Forest Service. As a affluent Indian kid attending college in the middle of a big city, I can relate to approximately none of those subjects. Obviously there is value to reading stories outside of your sphere of knowledge and yadda yadda. But I still almost quit after the first short story, not wanting to read the other two. 
