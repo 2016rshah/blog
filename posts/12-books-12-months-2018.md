@@ -104,6 +104,8 @@ I am a part of a non-partisan civic engagement organization called TX Votes, whi
 
 <!-- Recommended by Audrey -->
 
+<!-- page 141: Prince Jones went to TAMS -->
+
 > "[...] exulting non-violence for the weak and the biggest guns for the strong" <br> Page 131
 
 The last book I read was *The New Jim Crow*, which gave me mountains of cold, hard facts and evidence about the effect of racism in America today on a macroscopic scale. *Between the World and Me* was a short memoir that helped me form a more complete image by providing insight on a personal scale from someone's lived experience.
