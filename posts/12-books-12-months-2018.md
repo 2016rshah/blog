@@ -10,6 +10,8 @@
 The Importance of Being Earnest by Oscar Wilde (January)
 On Civil Disobedience by Henry David Thoreau (January Bonus Round!)
 A River Runs Through It & Other Stories by Norman Maclean (January Bonus Rounds!)
+The New Jim Crow by Michelle Alexander (February)
+Between the World and Me by Ta-Nehisi Coates (March)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -56,5 +58,58 @@ We were also required to read a remarkable amount of what I can best classify as
 
 Because of reading *Where the Red Fern Grows* I know more about 'coon hunting than you would expect someone in my demographic to know. Similarly, now that I've read this book I guess I know a surprising amount about fly fishing for the fact that I have never (and will never) go fishing. But also just like *Where the Red Fern Grows*, this book wasn't just about killing animals. It was about a boy growing up in the presence of nature. And I like to think that is something I can identify with. 
 
+
+### *The New Jim Crow* by Michelle Alexander (February)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/the-new-jim-crow.jpg' />
+
+<!-- Recommended by Jo Bridgewater -->
+
+> "The unfortunate reality we must face is that racism manifests itself not only in individual attitudes and stereotypes, but also in the basic structure of society" <br> Page 184
+
+On a surface level, I knew America had obviously not vanquished the racism that has perennialy plagued us. But until I read this book I did not truly appreciate the magnitude to which racism permeates the very fabric of society today. The book outlined the ways in which our current criminal justice system is inexcusably structured to oppress communities of color, and demonstrated the broader impact this has on every aspect of life in America. 
+
+I only had a hazy understanding of the following concepts before this book, but now I can clearly articulate what each one is really about: 
+
+ - Mandatory minimum drug sentences  
+ <!-- I had heard the tag-line "mandatory minimums are racist" from the West Wing. I agreed that the statistics presented seemed pretty damning. I was able to register that fact in my brain, ignore it, and continue with my day-to-day life. But then this book really drove the point home. Here's a quick rundown. Crack cocaine and powder cocaine are chemically the same drug. The difference is how they are ingested (injected versus snorted, respectively). Because they are (chemically speaking) the same drug, they have the same effect on the body. Traditionally, crack cocaine was primarily used by communities of color and powder cocaine was primarily used by caucasians. It takes 100 times the amount of  -->
+ - For-profit prisons  
+ - The unfairness of plea "bargains"  
+ - Disenfranchisement of communities of color  
+ - The War on Drugs  
+
+I tried to tie each of these concepts together into a quick overview for people unfamiliar (or only vaguely familiar) with the topic. I stopped because I kept remembering connected concepts that I would also need to add for context. Pretty quickly I realized that I would need an entire book to survey everything wrong with the current situation, and that whole book was sitting on the table right in front of me. I can't recommend this book highly enough. Read this book. Trust me. 
+
+As I read the book I was mainly just angry. Not sad or disappointed, but angry and frustrated. The most frustrating part was that the system is *not* unfair to me, or even to anyone I know for that matter. If I hadn't read this book, I would be able to live my whole life living in blissful ignorance of how dire the situation is. I feel tricked. 
+
+I am a part of a non-partisan civic engagement organization called TX Votes, which basically just registers people to vote and distributes non-partisan voting information in my area. *The New Jim Crow* has convinced me that TX Votes should concentrate some amount of effort to registering ex-felons to vote. For context, felons lose the right to vote in Texas, and only regain it after they have completed their sentence. There is a process to get re-registered (filling out a form), and I'm guessing no one reminds them to do so, which leads me to believe the voter registration rates for ex-felons is pretty low. This low rate is a tool of voter disenfranchisement, which hopefully I can help combat with this new project idea. Everything is still very much in the planning/research stage, but I've taken a few steps to get the ball rolling and hopefully we can get the plan implemented. It would be really valuable, so I really hope I follow through with this idea. 
+
+<!-- Reading this book made me angry that the system is so unfair. What made me particularly angry was that the system is *not* unfair to me, or even to anyone I know for that matter. -->
+
+<!-- things I needed to add  -->
+
+<!-- racism this book exposes is not just the obvious actions of racist people, but rather the type of racism that permeates every aspect of many people's lives. -->
+
+<!-- I don't just understand sexism, I *understand* sexism. I understand how sexism permeates every aspect of many people's lives and is not just reflected in the actions of explicitly misogynistic people. I understood racism, but this book helped me really *understand* racism. It outlined the ways in which our current criminal justice system is inexcusably structured to oppress communities of color. The racism this book exposes is not just the obvious actions of racist people, but rather the type of racism that permeates every aspect of many people's lives. -->
+
+<!-- The strength of this book is in its effective use of logos. There are 33 pages filled with reference after reference to reputable sources to support the claims made in the body of the book. This is helpful because some of the claims are unbelievable. Unfortunately, the claims are indeed true, and things really are that bad.  -->
+<!-- http://politics-reader.blogspot.com/2012/11/mandatory-minimums-west-wing-us.html -->
+<!-- https://americanaddictioncenters.org/cocaine-treatment/differences-with-crack/ -->
+
+<!-- Black history month -->
+
+### *Between the World and Me* by Ta-Nehisi Coates (March)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/between-the-world-and-me.jpg' />
+
+<!-- Recommended by Audrey -->
+
+> "[...] exulting non-violence for the weak and the biggest guns for the strong" <br> Page 131
+
+The last book I read was *The New Jim Crow*, which gave me mountains of cold, hard facts and evidence about the effect of racism in America today on a macroscopic scale. *Between the World and Me* was a short memoir that helped me form a more complete image by providing insight on a personal scale from someone's lived experience.
+
+I really enjoyed reading the book, and was very impressed with the writing. Coates structured the book as a letter to his son about his life as a black man in America. It was a good supplement to *The New Jim Crow* so I'm really glad I read them back-to-back. 
+
+Once again, I'm having trouble summarizing what I liked about the book without just rewriting the whole book on this page. I really did think it was a good book, though, and it was pretty small so it is definitely worth the read if you're interested in memoir style books or race relations. 
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
