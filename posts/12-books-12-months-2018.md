@@ -12,6 +12,7 @@ On Civil Disobedience by Henry David Thoreau (January Bonus Round!)
 A River Runs Through It & Other Stories by Norman Maclean (January Bonus Rounds!)
 The New Jim Crow by Michelle Alexander (February)
 Between the World and Me by Ta-Nehisi Coates (March)
+The Kite Runner by Khaled Hosseini (March Bonus Round!)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -114,4 +115,23 @@ I really enjoyed reading the book, and was very impressed with the writing. Coat
 
 Once again, I'm having trouble summarizing what I liked about the book without just rewriting the whole book on this page. I really did think it was a good book, though, and it was pretty small so it is definitely worth the read if you're interested in memoir style books or race relations. 
 
+### *The Kite Runner* by Khaled Hosseini (March Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/kite-runner.jpg' />
+
+> "You probably lived in a big two- or three-story house with a nice back yard that your gardener filled with flowers and fruit trees. All gated, of course. Your father drove an American car. You had servants, probably Hazaras. Your parents hired workers to decorate the house for the fancy *mehmanis* they threw, so their friends would come over to drink and boast about their travels to Europe or America." [...] He pointed to an old man dressed in ragged clothes trudging down a dirt path, a large burlap pack filled with scrub grass tied to his back. "That's the real Afghanistan, Agha sahib. That's the Afghanistan I know. You? You've always been a tourist here, you just didn't know it." <br> (Chapter 19)
+
+I'm glad I read this book because I think it was an important part of pop-culture that I no longer feel excluded from. FOMO [^footnote2] is an interesting motive for reading: is it a good utilization of the cultural phenomenon of FOMO or is it a bastardization of reading as a tool for fulfillment? 
+
+I did not enjoy reading this book. Maybe this isn't the type of book you're supposed to enjoy reading. But speaking more broadly, I don't really like fiction books. Terrible things happened to the characters of this book, and in turn they did terrible things. Stories like this are meant to reflect life's unfortunate realitites, and the characters are just a vessel for the story. But I had trouble finding empathy for the scenarios because it was easy for me to dismiss them as contrived. 
+
+<!-- World-building is not interesting to me, even though it is supposed to be the most intriguing part of sci-fi books. In the same way, I have trouble investing myself in the characters of this book because I know they don't exist.  -->
+
+<!-- This book is supposed to be powerful. Moving, even. And sure, it was cool to read. But there were times when I would read about actions the main character would take and it would just make me feel sick. Stories are meant to teach you something about life, but I felt like when I was reading this book I was just reading the story to entertain rather than to learn. And I wasn't even being entertained, so like what's the point?  -->
+
+<!-- The quote about "you never really lived in Afghanistan because of your walled house, etc" -->
+
+<!-- Send this to Emily Tallman when you're done -->
+
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
+[^footnote2]: FOMO: fear of missing out
