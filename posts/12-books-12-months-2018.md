@@ -66,7 +66,7 @@ Because of reading *Where the Red Fern Grows* I know more about 'coon hunting th
 
 <!-- Recommended by Jo Bridgewater -->
 
-> "The unfortunate reality we must face is that racism manifests itself not only in individual attitudes and stereotypes, but also in the basic structure of society" <br> Page 184
+> "The unfortunate reality we must face is that racism manifests itself not only in individual attitudes and stereotypes, but also in the basic structure of society" <br> (Page 184)
 
 On a surface level, I knew America had obviously not vanquished the racism that has perennialy plagued us. But until I read this book I did not truly appreciate the magnitude to which racism permeates the very fabric of society today. The book outlined the ways in which our current criminal justice system is inexcusably structured to oppress communities of color, and demonstrated the broader impact this has on every aspect of life in America. 
 
@@ -107,7 +107,7 @@ I am a part of a non-partisan civic engagement organization called TX Votes, whi
 
 <!-- page 141: Prince Jones went to TAMS -->
 
-> "[...] exulting non-violence for the weak and the biggest guns for the strong" <br> Page 131
+> "[...] exulting non-violence for the weak and the biggest guns for the strong" <br> (Page 131)
 
 The last book I read was *The New Jim Crow*, which gave me mountains of cold, hard facts and evidence about the effect of racism in America today on a macroscopic scale. *Between the World and Me* was a short memoir that helped me form a more complete image by providing insight on a personal scale from someone's lived experience.
 
