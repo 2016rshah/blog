@@ -14,6 +14,7 @@ The New Jim Crow by Michelle Alexander (February)
 Between the World and Me by Ta-Nehisi Coates (March)
 The Kite Runner by Khaled Hosseini (March Bonus Round!)
 En Attendant Godot by Samuel Beckett (April)
+The Martian by Andy Weir (May)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -155,6 +156,20 @@ This book was so ridiculous. On one hand I just want to leave it at that. On the
 But the status quo is so much easier. Finding a rope to go with the tree is so much effort. It is so much more convenient to just keep waiting. Right?
 
 With that being said, I have no idea what Pozzo and Lucky represent. Maybe nothing. Maybe they were just the elements of randomness in our day to day lives. The whole point is life is pretty weird. It doesn't really make sense. It doesn't really have to. It's the not knowing that counts. 
+
+### *The Martian* by Andy Weir (May)
+
+> "We can rescue him with Ares 4. It's very risky. We ran the idea by the Ares 4 crew. Not only are they willing to do it, but now they're really pushing hard for it."
+> "Naturally," Teddy said. "Astronauts are inherently insane. And really noble. What's the idea?"
+
+For the next three months, I will be interning with Amazon in their Tokyo office. I don't speak any Japanese, I can't eat at most restaurants here because I'm vegetarian, and I don't know a soul in this timezone. I started and finished this book on my flight from USA to Japan. Oddly fitting, hmm.  
+
+The book itself is a work of fiction about a NASA astronaut who gets stranded on Mars when his crew accidentally vacates the planet without him. The tale catalogues the steps he takes (by combining his background as a botanist and a mechanical engineer) to try to survive long enough for someone to rescue him. 
+
+I've talked before about how I'm not really a science fiction kind of guy. But this book struck a chord with me. It gave me a vessel with which I was able to explore my thoughts/feelings/nerves about my impending summer in Japan. Loneliness. Hunger. Isolation. Exhilaration. Homesickness. The planets aligned and I read this book at exactly when I needed to.
+
+<!-- Emily recommended it -->
+<!-- Quotes from kindle -->
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out

@@ -12,16 +12,16 @@
 
 Back in August 2017 I published the following post on my blog and facebook: [TLDR: I'll match your donations to charity](https://www.rshah.org/blog/posts/charity_match_2017.html). The idea was simple: I wanted to donate money I earned at my internship to charity and I wanted my peers to do something similar. 
 
-Overall, we raised close to a total of $2,780 for *[She Should Run](http://www.sheshouldrun.org/)*, *[The Fistula Foundation](https://www.thelifeyoucansave.org/Where-to-Donate/Fistula-Foundation)*, *[The Rape, Abuse & Incest National Network (RAINN)](https://www.rainn.org/)*, and *[The National Women's Law Center](https://nwlc.org/issues/)*. $2.2k might not sound like a lot compared to the amount these charities raise every year. But, I'm a 19 year old sophomore in college, so to me $2.2k sounds like "HELL YEAH 🚀"!
+Overall, we raised around $2,279 for *[She Should Run](http://www.sheshouldrun.org/)*, *[The Fistula Foundation](https://www.thelifeyoucansave.org/Where-to-Donate/Fistula-Foundation)*, *[The Rape, Abuse & Incest National Network (RAINN)](https://www.rainn.org/)*, and *[The National Women's Law Center](https://nwlc.org/issues/)*. $2.2k might not sound like a lot compared to the amount these charities raise every year. But, I'm a 19 year old sophomore in college, so to me $2.2k sounds like "HELL YEAH 🚀"!
 
 "Grassroots" doesn't even begin to describe this effort. 
 ```
- - The average donation was about $50. 
- - 13 out of the 17 donors may not legally consume alcohol in the US. 
+ - The average donation was about $50
+ - 13 out of the 17 donors may not legally consume alcohol in the US 
  - Out of my ~1,000 facebook friends
 	- ~10% of them liked the post
-	- ~1% of them shared my post to their own timelines. 
- - At least three of my friends pledged to similarly match their friend's donations. 
+	- ~1% of them shared my post to their own timelines
+ - At least three of my friends pledged to similarly match their friend's donations
 ```
 
 ### Acknowledgements
