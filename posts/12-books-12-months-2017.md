@@ -126,7 +126,7 @@ Kind of like Anna Karenina I knew I wasn't going to pay as much attention to the
 
 <img style="max-width:25%; float:right; margin:3px;" src="../resources/12-books-12-months-2017/paradis.jpg"></img>
 
-Mario Vargas Llosa (the 2010 Nobel Laureate for Literature) originally wrote this book in Spanish. I happened to stumble upon a French translation (by Albert Bensoussan) in a hostel book exchange in Granada. It's a fascinating double-biography on Paul Gauguin (the famous painter) and his great-grandmother Flora Tristan (an early contributor to feminist theory).
+Mario Vargas Llosa (the 2010 Nobel Laureate for Literature) originally wrote this book in Spanish. I happened to stumble upon a French translation (by Albert Bensoussan) in a hostel book exchange in Granada. It's a fascinating double-biography on [Paul Gauguin](https://www.artsy.net/artist/paul-gauguin) (the famous painter) and his great-grandmother Flora Tristan (an early contributor to feminist theory).
 
 This was far-and-away the most challenging book I have ever read -- I picked it up honestly not expecting to finish it. Even in english it would be close to the top of my reading level (about 600 pages of biographical non-fiction literature) and on top of that I read it in a language that I don't natively speak. It is one of those books that would have been very easy for me to accidentally put down for a week only to never return to it. Around the turn of the month I was only about 300 pages through it so there was no way I could stay on track to complete it in the month of June. I decided that come hell or high water I was going to finish it anyways and decided to make it my June/July book to make sure I didn't rush through it. It is now July 21st and I am proud to say that I just finished the book last night <i class="em em-blush"></i>
 
@@ -230,7 +230,7 @@ Part 3: Gail Wynand
 
 Part 4: Howard Roark
 
-I don't remember parts 1 and 2 well enough to say much about them. They were good enough to remind me to pick up the book again after all these months, but they were bad enough to allow me to put down the book in the first place. Part 3 is where I think this book really shined. More than once I found myself appreciating Rand's skill as a writer: not just about the story she crafted but about the way she had with words. She wrote the book to make people see themselves in Roark. I never did but absolutely saw how others could. Instead I saw myself in Gail Wynand [^footnote3]. 
+I don't remember parts 1 and 2 well enough to say much about them. They were good enough to remind me to pick up the book again after all these months, but they were bad enough to allow me to put down the book in the first place. Part 3 is where I think this book really shined. More than once I found myself appreciating Rand's skill as a writer: not just about the story she crafted but about the way she had with words. She wrote the book to make people see themselves in Roark. I never did but absolutely saw how others could. Instead I saw myself in Gail Wynand. 
 
 It wasn't until the fourth part of the book that I finally had the visceral reaction to the book that liberals usually do. I was so satisfied with the book up until this part. Parts 1, 2, and 3 were a beautifully written exposé glorifying an opinion I might not have shared, but could have at least respected. In part 4, however, Rand threw away such a good setup for some weak attempt at libertarian pathos. The ending didn't try. It felt lazy. It felt like she was a writer for the Banner paid off by the libertarian version of Toohey to plug this whole individualistic thing. Just plug it well enough to sound good until you really thought about it, with the expectation that no one would ever really think about it. 
 
@@ -298,7 +298,6 @@ Speaking of world-shakers, change-makers, and ground-breakers, I borrowed this b
 
 In retrospect I think I saved the best for last. Maybe this lengthy, dense, and wonky book wouldn't be everybody's cup of tea, but I think it was probably my favorite book I read this year. Here's to the books that shaped my 2017, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
 
-[^footnote3]: There's a high chance someone will throw that comparison in my face at some point 
 
 [^footnote4]: The most recent example was when my homework asked me to provide an isomorphism between the additive group of polynomials and the multiplicative group of positive rationals. I was baffled that there could possibly be a bijection between these two seemingly unrelated sets defined on seemingly unrelated operations. I went into office hours and my professor showed me the inextricable link that lies in prime numbers. You can't make this stuff up. I'm telling you, man, Math is wild. 
 
