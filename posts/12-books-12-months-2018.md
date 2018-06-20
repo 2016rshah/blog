@@ -159,7 +159,8 @@ With that being said, I have no idea what Pozzo and Lucky represent. Maybe nothi
 
 ### *The Martian* by Andy Weir (May)
 
-> "We can rescue him with Ares 4. It's very risky. We ran the idea by the Ares 4 crew. Not only are they willing to do it, but now they're really pushing hard for it."
+> "We can rescue him with Ares 4. It's very risky. We ran the idea by the Ares 4 crew. Not only are they willing to do it, but now they're really pushing hard for it." 
+<br>
 > "Naturally," Teddy said. "Astronauts are inherently insane. And really noble. What's the idea?"
 
 For the next three months, I will be interning with Amazon in their Tokyo office. I don't speak any Japanese, I can't eat at most restaurants here because I'm vegetarian, and I don't know a soul in this timezone. I started and finished this book on my flight from USA to Japan. Oddly fitting, hmm.  
