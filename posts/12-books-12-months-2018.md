@@ -15,6 +15,7 @@ Between the World and Me by Ta-Nehisi Coates (March)
 The Kite Runner by Khaled Hosseini (March Bonus Round!)
 En Attendant Godot by Samuel Beckett (April)
 The Martian by Andy Weir (May)
+Pride and Prejudice by Jane Austen (June)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -172,6 +173,33 @@ I've talked before about how I'm not really a science fiction kind of guy. But t
 <!-- Emily recommended it -->
 <!-- Quotes from kindle -->
 
+### *Pride and Prejudice* by Jane Austen (June)
+
+<!-- > "There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of either merit or sense." <br> Volume II, Chapter I, Page 133 -->
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/pride-and-prejudice.jpg' />
+
+> "[...] where other powers of entertainment are wanting, the true philosopher will derive benefit from such as are given." <br> Volume II, Chapter XIX, Page 228
+
+I hate to embody a trope, but the beginning of this book was *so boring*. As the storyline was being set up, I felt like I knew exactly how everything would play out and I was dreading the process of trudging through the remaining 250 or so pages. I understood how some of the dialogue was clever, but couldn't see what all the hype was about. Namely, I borrowed this book from the "stubborn and prejudiced", but "independent and confident" Avni Nandu who said it was her favorite book[^footnote4]. Not only that, but on two occassions I complained to two people about how boring the book was, and they both cited it as one of their favorite stories, too.
+
+As soon as I was ready to give up, the book got good. Everything completely turned around when a major plot twist ignited the story-line. From there, the book was a delight to read. I was eating cheesecake at a swanky restaurant in the Roppongi District of Japan on a Friday night and couldn't help but laughing from joy when I finished it. 
+
+<img src='../resources/12-books-12-months-2018/pride-and-prejudice-finis.jpg' style="max-width:50%; margin:3px; margin-left: auto; margin-right: auto" />
+
+The book itself is about some English family and their marriage prospects. Like I said, it's entertaining to read once you get into it. You know how its going to end, it's just fun to read about all the drama along the way. 
+
+Here are some cool quotes that stuck out to me as I was reading:
+
+> "Upon the whole, therefore, she found, what had been sometimes found before, that an event to which she had looked forward with impatient desire, did not in taking place, bring all the satisfaction she had promised herself. It was consequently necessary to name some other period for the commencement of actual felicity; to have some other point on which her wishes and hopes might be fixed, and by again enjoying the pleasure of anticipation, console herself for the present, and prepare for another disappointment." <br> Volume II, Chapter XIX, Page 229
+
+That's what happened to me when I moved to Tokyo. It was supposed to be everything anyone has ever dreamed of -- the culmination of my life thus far. I don't know how to explain how I felt, but basically after I got here I just felt really lonely, lost, and overwhelmingly sad. 
+
+> "You must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure." <br> Volume III, Chapter XVI, Page 348
+
+With that being said, things are better now! When I look through my photos I realize all the cool things I've done here that seemed so normal at the time. I'm twenty years old. And living in Tokyo. Like living, breathing, sleeping, and existing in one of the most unique societies in the world. When I describe my life to myself in my head I can't even believe it. I certainly won't forget the ways in which I was unhappy here. But I think I'll probably just condense all my negative thoughts into one summary of how I felt, acknowledge it, and move on. From there, I'll concentrate so much more on remembering the parts of my experience that give me pleasure (like this book! and cheesecake!).
+
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
 [^footnote3]: Fun fact: "fouet" is the french word for the noun "whip".
+[^footnote4]: Judging from the cover, this absolutely didn't strike me as her type of book. In retrospect, she shares numerous traits with the main character, so I admit I judged too soon. But hey, that sounds like a theme to me!
