@@ -203,6 +203,27 @@ That's what happened to me when I moved to Tokyo. It was supposed to be everythi
 
 With that being said, things are better now! When I look through my photos I realize all the cool things I've done here that seemed so normal at the time. I'm twenty years old. And living in Tokyo. Like living, breathing, sleeping, and existing in one of the most unique societies in the world. When I describe my life to myself in my head I can't even believe it. I certainly won't forget the ways in which I was unhappy here. But I think I'll probably just condense all my negative thoughts into one summary of how I felt, acknowledge it, and move on. From there, I'll concentrate so much more on remembering the parts of my experience that give me pleasure (like this book! and cheesecake!).
 
+### *Kitchen* & *Moonlight Shadow* by Banana Yoshimoto (June Bonus Rounds!)
+
+### *After Dark* by Haruki Murakami (July)
+
+### *Shoe Dog* by Phil Knight (July Bonus Round!)
+
+### *The Setting Sun* by Osamu Dazai (July Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/setting-sun.jpg' />
+
+> "'Last year nothing happened // <br> The year before nothing happened // <br> And the year before that nothing happened.'
+<br>
+An amusing poem to this effect appeared in a newspaper just after the war ended. Of course all kinds of things actually did take place, but when I try to recall them now, I experience that same feeling that nothing happened."
+<br>(Page 37)
+
+The title of this book refers to the decline of the Japanese aristocracy as World War II draws to a close. The book itself follows the life of a formerly-wealthy family: the elegant but dying mother, the aimless son, and the steeled daughter.
+
+Japan during the war seems a world away from the Japan I see today. Because of my history lessons in school, I know what to imagine when I think of how America transformed itself for the war effort. But I can't similarly project the change Japanese society must have undergone to mount their attempted imperialism. I liked reading this book because it doesn't speak of the Japan of old (samurai and the like), nor does it speak of the Japan of today (love-hotels, salarymen, and the like). It speaks to a time that is rarely brought up in pleasant conversation. 
+
+It is worth noting that although my primary takeaways from the book were about the war, Dazai treats this theme with a very light hand. I'm not even sure this book was about the war (I think it was primarily about the futility of existence?). But this style seems representative of a traditional Japanese mindset. The theme is only alluded to, but the details that are selected are meant to speak volumes. 
+
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
 [^footnote3]: Fun fact: "fouet" is the french word for the noun "whip".
