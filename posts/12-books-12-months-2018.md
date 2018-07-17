@@ -209,6 +209,18 @@ With that being said, things are better now! When I look through my photos I rea
 
 ### *Shoe Dog* by Phil Knight (July Bonus Round!)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/shoe-dog.jpg' />
+
+I took a break in between reading Japanese authors to read a book that I expected to be wholly American: a memoir by the founder of Nike, Phil Knight. I quickly realized that the book actually stayed consistent with my Japanese theme because Nike started as an effort to import low-cost shoes manufactured from Japan into American markets. The book was obviously about a lot more than that, but Japan did come up a good number of times, which I found amusing. 
+
+I also realized that I really enjoy reading memoirs. I can't think of a single time I've been impressed with the quality of the writing in a memoir, but they always seem to move me in a way no other genre can. Fiction seems to far away, and I can't emotionally connect to any non-fiction book that centers on a subject rather than a person. It is cool to hear from someone about something they've dedicated their whole lives to. The book can dive deeply into a niche topic, while also letting the reader breathe every so often as it describes the drama of a person's day-to-day life.
+
+One cool thing I appreciated about Knight's writing was the way he incorporated quotes that influenced his life into his book. He is a well-read dude, so he introduced a few quotes early in the book and weaved them into the rest of his tale. For example, he often agonized over MacArthur's claim that "You are remembered for the rules you break". He found hometown pride as a descendant of the the Oregon trail in saying that "The cowards never started and the weak died along the way -- that leaves us."
+
+One thing I couldn't shake when I was reading this was the influence of privilege in success. Sometimes he acknowledged his privilege, but mostly it was just woven into his story as seamlessly as it was woven into his life. In the early chapters he describes where he was when he was my age; I noted that I'm starting out at basically the same place as him in terms of privilege. Which is to say I am rather privileged, but I'll still get to claim any of my success is ostensibly "self-made". I don't know what my conclusion of this train of thought is, but I've been thinking about stuff like this for a while. How can I do right by my privilege? What can the path of other privileged people teach me? Does privilege tinge success? How much credit can the privileged reasonably take for their success? Where do I think he lived up to his responsibilities, and when do I think he should have done more?  
+
+<!-- travel, reading, state school then prestigous grad-school, school snobbery, "finding yourself" -->
+
 ### *The Setting Sun* by Osamu Dazai (July Bonus Round!)
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/setting-sun.jpg' />
@@ -218,7 +230,7 @@ With that being said, things are better now! When I look through my photos I rea
 An amusing poem to this effect appeared in a newspaper just after the war ended. Of course all kinds of things actually did take place, but when I try to recall them now, I experience that same feeling that nothing happened."
 <br>(Page 37)
 
-The title of this book refers to the decline of the Japanese aristocracy as World War II draws to a close. The book itself follows the life of a formerly-wealthy family: the elegant but dying mother, the aimless son, and the steeled daughter.
+The title of this novel refers to the decline of the Japanese aristocracy as World War II draws to a close. The book itself follows the life of a formerly-wealthy family: the elegant but dying mother, the aimless son, and the steeled daughter.
 
 Japan during the war seems a world away from the Japan I see today. Because of my history lessons in school, I know what to imagine when I think of how America transformed itself for the war effort. But I can't similarly project the change Japanese society must have undergone to mount their attempted imperialism. I liked reading this book because it doesn't speak of the Japan of old (samurai and the like), nor does it speak of the Japan of today (love-hotels, salarymen, and the like). It speaks to a time that is rarely brought up in pleasant conversation. 
 
