@@ -16,6 +16,10 @@ The Kite Runner by Khaled Hosseini (March Bonus Round!)
 En Attendant Godot by Samuel Beckett (April)
 The Martian by Andy Weir (May)
 Pride and Prejudice by Jane Austen (June)
+Kitchen & Moonlight Shadow by Banana Yoshimoto (June Bonus Rounds!)
+After Dark by Haruki Murakami (July)
+Shoe Dog by Phil Knight (July Bonus Round!)
+The Setting Sun by Osamu Dazai (July Bonus Round!)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
