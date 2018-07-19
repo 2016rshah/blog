@@ -16,6 +16,12 @@ The Kite Runner by Khaled Hosseini (March Bonus Round!)
 En Attendant Godot by Samuel Beckett (April)
 The Martian by Andy Weir (May)
 Pride and Prejudice by Jane Austen (June)
+Kitchen & Moonlight Shadow by Banana Yoshimoto (June Bonus Rounds!)
+After Dark by Haruki Murakami (July)
+Shoe Dog by Phil Knight (July Bonus Round!)
+The Setting Sun by Osamu Dazai (July Bonus Round!)
+No Longer Human by Osamu Dazai (July Bonus Round!)
+
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -198,6 +204,66 @@ That's what happened to me when I moved to Tokyo. It was supposed to be everythi
 > "You must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure." <br> Volume III, Chapter XVI, Page 348
 
 With that being said, things are better now! When I look through my photos I realize all the cool things I've done here that seemed so normal at the time. I'm twenty years old. And living in Tokyo. Like living, breathing, sleeping, and existing in one of the most unique societies in the world. When I describe my life to myself in my head I can't even believe it. I certainly won't forget the ways in which I was unhappy here. But I think I'll probably just condense all my negative thoughts into one summary of how I felt, acknowledge it, and move on. From there, I'll concentrate so much more on remembering the parts of my experience that give me pleasure (like this book! and cheesecake!).
+
+### *Kitchen* by Banana Yoshimoto (June Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/kitchen.jpg' />
+
+ - My place is so small I can reach out from my bed and touch my stove
+ - Could have picked up a Murakami book at Book Off, but cross listed with Japanese authors on Google and saw this so I thought it would be better to read this. Elevate female voices! I went back for the Murakami book after I finished this in a week. 
+
+> "Now only the kitchen and I are left. It's just a little nicer than being all alone." (Part I, page 4)
+
+> "For a very long time there was something I wanted to say in a novel, and I wanted, no matter what it took, to continue writing until I got the saying of it out of my system. This book is what resulted from that history of persistance." (Preface, page vii)
+
+ > "Her power was the brilliance of her charm and it had brought her to where she was now. I had the feeling that neither her wife nor her son could diminish it. That quality must have condemned her to an ice-cold loneliness." (Part I, page 19)
+
+ > "As we decided where to meet, I looked up at the window. The sky outside was a dull gray. Waves of clouds were being pushed around by the wind with amazing force. In this world there is no place for sadness. No place; not one." (Part I, page 23)
+
+ > "After this you and I may end up seeing nothing but suffering, difficulty, and ugliness, but if only you'll agree to it, I want for us to go on to more difficult places, happier places, whatever comes, together." (Part III, page 101)
+
+### *After Dark* by Haruki Murakami (July)
+
+This book catalogued the events of one night in modern-day Tokyo from the perspective of two or three characters. It was cool because each of the chapters were specific times in the night, and each chapter heading had a drawing of a clock with the corresponding times. There was a touch of supernatural here and there. Not sure what to think about the book as a whole. 
+
+Things about Japanese culture:
+ - trains stop at midnight and don't start until 5am. Since they are the dominating form of transport, you're pretty much stuck to walking distance in between that time. That makes going out a very all-or-nothing deal. I've taken the "all" option a couple of times here. It's a vibe. 
+ - organized crime is centered on the sex trade rather than drug usage
+
+There is nowhere to go to just *be*. You always have to be doing something or paying someone. No park benches, etc. I wanted to read, but all the cafes in my area were closing. The metro near my house is the Yamanote line, which just makes a big circle through the main parts of Tokyo. One loop takes about one hour. So I just got on, found a seat, and made a big loop. That felt very Tokyo. 
+
+I should read more by Murakami before I judge, but I wasn't blown away by this piece. 
+
+### *Shoe Dog* by Phil Knight (July)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/shoe-dog.jpg' />
+
+Quoted in Shoe Dog
+
+> "The man who moves a mountain begins by carrying away small stones" analects of Confucius, first quoted in Shoe Dog on page 31
+
+> "You are remembered for the rules you break." MacArthur, first quoted in Shoe Dog on page 32
+
+> "Lead me from the unreal to the real" The Upanishads, first quoted in Shoe Dog on page 33
+
+> "Don't go to sleep one night, what you most want will come to you then." Rūmī, first quoted in Shoe Dog on page 34
+
+> "Don't tell people how to do things, tell them what to do and let them surprise you with their results." Patton, first quoted in Shoe Dog on page 36
+
+>  "The cowards never started and the weak died along the way -- that leaves us." 
+
+> "From the profane to the sacred" talking about tori gates
+
+Quotes from Shoe Dog
+
+> "It's simply not right, he insisted, or feasible, that a shoe worker makes more than a medical doctor".
+
+Indicative of a rigid class system that is geographically segregated. 
+
+Quotes about Shoe Dog
+
+> "I look inside the mirror and think Phil Knight tricked us all" Wing$ by Macklemore & Ryan Lewis
+
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
