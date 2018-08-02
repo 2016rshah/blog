@@ -21,7 +21,6 @@ After Dark by Haruki Murakami (July)
 Shoe Dog by Phil Knight (July Bonus Round!)
 The Setting Sun by Osamu Dazai (July Bonus Round!)
 No Longer Human by Osamu Dazai (July Bonus Round!)
-
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -205,40 +204,52 @@ That's what happened to me when I moved to Tokyo. It was supposed to be everythi
 
 With that being said, things are better now! When I look through my photos I realize all the cool things I've done here that seemed so normal at the time. I'm twenty years old. And living in Tokyo. Like living, breathing, sleeping, and existing in one of the most unique societies in the world. When I describe my life to myself in my head I can't even believe it. I certainly won't forget the ways in which I was unhappy here. But I think I'll probably just condense all my negative thoughts into one summary of how I felt, acknowledge it, and move on. From there, I'll concentrate so much more on remembering the parts of my experience that give me pleasure (like this book! and cheesecake!).
 
-### *Kitchen* by Banana Yoshimoto (June Bonus Round!)
+### *Kitchen* & *Moonlight Shadow* by Banana Yoshimoto (June Bonus Rounds!)
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/kitchen.jpg' />
 
- - My place is so small I can reach out from my bed and touch my stove
- - Could have picked up a Murakami book at Book Off, but cross listed with Japanese authors on Google and saw this so I thought it would be better to read this. Elevate female voices! I went back for the Murakami book after I finished this in a week. 
+> "For a very long time there was something I wanted to say in a novel, and I wanted, no matter what it took, to continue writing until I got the saying of it out of my system. This book is what resulted from that history of persistance." (Preface, page vii)
 
 > "Now only the kitchen and I are left. It's just a little nicer than being all alone." (Part I, page 4)
 
-> "For a very long time there was something I wanted to say in a novel, and I wanted, no matter what it took, to continue writing until I got the saying of it out of my system. This book is what resulted from that history of persistance." (Preface, page vii)
+> "Her power was the brilliance of her charm and it had brought her to where she was now. I had the feeling that neither her wife nor her son could diminish it. That quality must have condemned her to an ice-cold loneliness." (Part I, page 19)
 
- > "Her power was the brilliance of her charm and it had brought her to where she was now. I had the feeling that neither her wife nor her son could diminish it. That quality must have condemned her to an ice-cold loneliness." (Part I, page 19)
+> "As we decided where to meet, I looked up at the window. The sky outside was a dull gray. Waves of clouds were being pushed around by the wind with amazing force. In this world there is no place for sadness. No place; not one." (Part I, page 23)
 
- > "As we decided where to meet, I looked up at the window. The sky outside was a dull gray. Waves of clouds were being pushed around by the wind with amazing force. In this world there is no place for sadness. No place; not one." (Part I, page 23)
+> "After this you and I may end up seeing nothing but suffering, difficulty, and ugliness, but if only you'll agree to it, I want for us to go on to more difficult places, happier places, whatever comes, together." (Part III, page 101)
 
- > "After this you and I may end up seeing nothing but suffering, difficulty, and ugliness, but if only you'll agree to it, I want for us to go on to more difficult places, happier places, whatever comes, together." (Part III, page 101)
+I wanted to read Japanese literature while I was in Japan. I went to a used book store chain called Book Off, and they had a whole section on their english shelf with books by Japanese authors. I had heard an author called Haruki Murakami existed and he was Japanese. But other than that I didn't really know where to start. So I googled "Japanese authors" and cross-listed the authors there with the authors on the shelf. I narrowed it down to this book and *After Dark* by Haruki Murakami. Short of any other reason to pick one over the other, I opted for *Kitchen* by Banana Yoshimoto first in an effort to elevate female voices. 
+
+That Friday night, I went to a cafe, ordered some cheesecake (subpar, unfortunately), and cracked open the book. I finished it within 24 hours. It hit the spot. Since it is such a short book, saying anything about the plot is essentially a spoiler. I really appreciated a few quotes in particular, which I highlighted above. 
+
+The book is small and mighty, which is why I think it is definitely worth taking a crack at if you're looking for a book. I think I'll go back and read it again soon to see what else I get out of it. When I try to think back to the book now, the most overwhelming memory I have isn't about the story itself, but the very specific feeling I felt when I was reading it. The feeling is hard to capture and describe, but the quotes I selected come the closest I think I'm gonna get. 
 
 ### *After Dark* by Haruki Murakami (July)
 
-This book catalogued the events of one night in modern-day Tokyo from the perspective of two or three characters. It was cool because each of the chapters were specific times in the night, and each chapter heading had a drawing of a clock with the corresponding times. There was a touch of supernatural here and there. Not sure what to think about the book as a whole. 
+This book catalogued the events of one night in modern-day Tokyo from the perspective of two or three characters. It was cool because each of the chapters were specific times in the night, and each chapter heading had a drawing of a clock with the corresponding times. The book was interesting, but I was surprised this was the author I had heard such a fuss about. 
 
-Things about Japanese culture:
- - trains stop at midnight and don't start until 5am. Since they are the dominating form of transport, you're pretty much stuck to walking distance in between that time. That makes going out a very all-or-nothing deal. I've taken the "all" option a couple of times here. It's a vibe. 
- - organized crime is centered on the sex trade rather than drug usage
+In Tokyo, the trains stop at midnight and don't start again until 5am. Since they are the dominating form of transport (no ride-sharing, and taxis don't feel worth it), you're pretty much stuck to walking distance in between that time. Going clubbing becomes an all-or-nothing affair. And even tame socializing events face an early demise. One time I thought I was safe because I made it on my last train, but the train stopped for the night three stations away from where I needed to go, so I had to walk the rest of the way home. 
 
-There is nowhere to go to just *be*. You always have to be doing something or paying someone. No park benches, etc. I wanted to read, but all the cafes in my area were closing. The metro near my house is the Yamanote line, which just makes a big circle through the main parts of Tokyo. One loop takes about one hour. So I just got on, found a seat, and made a big loop. That felt very Tokyo. 
+This combines with the fact that there is nowhere to go to just *be*. You always have to be doing something or paying someone. There aren't park benches everywhere like there were in NYC last summer. Things also close pretty early. I wanted to read this book, but all the cafes in my area were closing. The metro near my house is the Yamanote line, which just makes a big circle through the main parts of Tokyo. One loop takes about one hour. So I just got on, found a seat, and made a big loop. That mirrored the experience of the main character in this novel: the story opens on her posted up at a 24 hour cafe with her nose in a book because she doesn't want to go home that night.
 
 I should read more by Murakami before I judge, but I wasn't blown away by this piece. 
 
-### *Shoe Dog* by Phil Knight (July)
+### *Shoe Dog* by Phil Knight (July Bonus Round!)
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/shoe-dog.jpg' />
 
-Quoted in Shoe Dog
+I took a break in between reading Japanese authors to read a book that I expected to be wholly American: a memoir by the founder of Nike, Phil Knight. I quickly realized that the book actually stayed consistent with my Japanese theme because Nike started as an effort to import low-cost shoes manufactured from Japan into American markets. The book was obviously about a lot more than that, but Japan did come up a good number of times, which I found amusing. 
+
+I also realized that I really enjoy reading memoirs. I can't think of a single time I've been impressed with the quality of the writing in a memoir, but they always seem to move me in a way no other genre can. Fiction seems to far away, and I can't emotionally connect to any non-fiction book that centers on a subject rather than a person. It is cool to hear from someone about something they've dedicated their whole lives to. The book can dive deeply into a niche topic, while also letting the reader breathe every so often as it describes the drama of a person's day-to-day life.
+
+One cool thing I appreciated about Knight's writing was the way he incorporated quotes that influenced his life into his book. He is a well-read dude, so he introduced a few quotes early in the book and weaved them into the rest of his tale. For example, he often agonized over MacArthur's claim that "You are remembered for the rules you break". He found hometown pride as a descendant of the the Oregon trail in saying that "The cowards never started and the weak died along the way -- that leaves us."
+
+One thing I couldn't shake when I was reading this was the influence of privilege in success. Sometimes he acknowledged his privilege, but mostly it was just woven into his story as seamlessly as it was woven into his life. In the early chapters he describes where he was when he was my age; I noted that I'm starting out at basically the same place as him in terms of privilege. Which is to say I am rather privileged, but I'll still get to claim any of my success is ostensibly "self-made". I don't know what my conclusion of this train of thought is, but I've been thinking about stuff like this for a while. How can I do right by my privilege? What can the path of other privileged people teach me? Does privilege tinge success? How much credit can the privileged reasonably take for their success? Where do I think he lived up to his responsibilities, and when do I think he should have done more?  
+
+<!-- travel, reading, state school then prestigous grad-school, school snobbery, "finding yourself" -->
+
+
+<!-- Quoted in Shoe Dog
 
 > "The man who moves a mountain begins by carrying away small stones" analects of Confucius, first quoted in Shoe Dog on page 31
 
@@ -262,8 +273,28 @@ Indicative of a rigid class system that is geographically segregated.
 
 Quotes about Shoe Dog
 
-> "I look inside the mirror and think Phil Knight tricked us all" Wing$ by Macklemore & Ryan Lewis
+> "I look inside the mirror and think Phil Knight tricked us all" Wing$ by Macklemore & Ryan Lewis -->
 
+### *The Setting Sun* by Osamu Dazai (July Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/setting-sun.jpg' />
+
+> "'Last year nothing happened // <br> The year before nothing happened // <br> And the year before that nothing happened.'
+<br>
+An amusing poem to this effect appeared in a newspaper just after the war ended. Of course all kinds of things actually did take place, but when I try to recall them now, I experience that same feeling that nothing happened."
+<br>(Page 37)
+
+The title of this novel refers to the decline of the Japanese aristocracy as World War II draws to a close. The book itself follows the life of a formerly-wealthy family: the elegant but dying mother, the aimless son, and the steeled daughter.
+
+Japan during the war seems a world away from the Japan I see today. Because of my history lessons in school, I know what to imagine when I think of how America transformed itself for the war effort. But I can't similarly project the change Japanese society must have undergone to mount their attempted imperialism. I liked reading this book because it doesn't speak of the Japan of old (samurai and the like), nor does it speak of the Japan of today (love-hotels, salarymen, and the like). It speaks to a time that is rarely brought up in pleasant conversation. 
+
+It is worth noting that although my primary takeaways from the book were about the war, Dazai treats this theme with a very light hand. I'm not even sure this book was about the war (I think it was primarily about the futility of existence?). But this style seems representative of a traditional Japanese mindset. The theme is only alluded to, but the details that are selected are meant to speak volumes. 
+
+### *No Longer Human* by Osamu Dazai (July Bonus Round!)
+
+I cannot relate to the main character of this book. My friend who recommended it to me did so precisely she they didn't think I would be able to. The book catalogues the actions and feelings of a troubled Japanese man in three stages in his life. As I was reading I constantly felt like I was missing something because his perspective is so foreign to me. I think that is partially the point of the book, because that is how the narrator feels about the world around him and all his friends. 
+
+I liked *The Setting Sun* better, but they both felt like very different types of books. *The Setting Sun* took a much more high level view of the events it described. It gave overarching symbolism and motifs throughout the book. It described the network of characters and fleshed out their interactions and hopes and dreams and actions and feelings. *No Longer Human* explicitly did not do that. It described one character's thought, and highlighted his failure to comprehend the people around him, their interactions, their hopes, their dreams, their actions, and their feelings. 
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
