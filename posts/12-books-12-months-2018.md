@@ -21,6 +21,7 @@ After Dark by Haruki Murakami (July)
 Shoe Dog by Phil Knight (July Bonus Round!)
 The Setting Sun by Osamu Dazai (July Bonus Round!)
 No Longer Human by Osamu Dazai (July Bonus Round!)
+Stories of Your Life and Others by Ted Chiang (August)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -295,6 +296,30 @@ It is worth noting that although my primary takeaways from the book were about t
 I cannot relate to the main character of this book. My friend who recommended it to me did so precisely she they didn't think I would be able to. The book catalogues the actions and feelings of a troubled Japanese man in three stages in his life. As I was reading I constantly felt like I was missing something because his perspective is so foreign to me. I think that is partially the point of the book, because that is how the narrator feels about the world around him and all his friends. 
 
 I liked *The Setting Sun* better, but they both felt like very different types of books. *The Setting Sun* took a much more high level view of the events it described. It gave overarching symbolism and motifs throughout the book. It described the network of characters and fleshed out their interactions and hopes and dreams and actions and feelings. *No Longer Human* explicitly did not do that. It described one character's thought, and highlighted his failure to comprehend the people around him, their interactions, their hopes, their dreams, their actions, and their feelings. 
+
+### *Stories of Your Life and Others* by Ted Chiang (August)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/stories-of-your-life.jpg' />
+
+This is a collection of eight short stories, most with a realistic science-fiction theme. I read a PDF of the most famous one ([*Story of Your Life*](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf)) on Monday because a friend of mine sent it to me. Then I was perusing my local used book store on Tuesday when I coincidentally came across this collection. I sat at the bookstore for a few hours and finished five of the stories. I bought the book, and just finished the other two today (Wednesday).
+
+*Tower of Babylon* - hate to bring up spoilers, but the ending of this story reminds me of the ending of Paulo Coelho's *The Alchemist*. 
+
+*Understand* - this one made me face my superiority complex. Scary, and not a good look. Reminds me of [the thoughts I had on pride as my cardinal sin](https://www.rshah.org/blog/posts/12-books-12-months-2017.html#mere-christianity-by-c.s.-lewis-september) when I was reading *Mere Christianity* last year. 
+
+*Division by Zero* - this story also brought me back to *Mere Christianity*, and the way that ["Math with a capital M"](https://www.rshah.org/blog/posts/12-books-12-months-2017.html#mere-christianity-by-c.s.-lewis-september) is the most divine thing I've come across in this lifetime. 
+
+*Story of Your Life* - this is the story that started it all when my fascinating friend Mindy Chi recommended it to me. I'll just reproduce my Facebook messenger conversation I had with her (ommitting the spoilers, where two slashes represent a new message):
+
+> It is making me uncomfortable and I don't know why // I don't like how [REDACTED] // That creeps me out // Also I'm reading this at home alone at night so it feels like it is supposed to be a scary story so I'm like bracing myself for [REDACTED] or [REDACTED] or something terrible // Dude // That was so trippy // I just finished it // <i class="em em-crescent_moon"></i> // I can't sleep now <i class="em em-grimacing"></i>
+
+*Seventy-Two Letters* - this story was a weird mix of murder-mystery, illuminati-vibes, hebrew-mysticism, class-struggle, and industrial-revolution. My conclusion: it was just kind of a weird story. 
+
+*The Evolution of Human Science* - I didn't really care much for this one, until I read the author's note in the back. It mentioned the quote by William Gibson that inspired this story "The future is already here; it's just not evenly distributed". 
+
+*Hell Is the Absense of God* - In this story and in *Tower of Bablyon* I feel like people in the story give the God of their story too much credit. That God seems to be just kind of doing their thing, and the characters use their human ingenuity to assign divine meaning to the mundane design decisions of their creator. 
+
+*Liking What You See: A Documentary* - this one was probably my favorite story. It imagines a world in which we could program our brains to ignore an individuals beauty (or lack thereof). It asks whether or not the benefits of beauty (aesthetic pleasure, personal satisfaction, and the status quo), outweigh the cons of beauty (what the story refers to as "lookism", and the commercialization of beauty). I liked how the story gave a glimpse of a dozen or so perspectives, rather than considering the two fundamental sides of controversy in depth. I personally would never turn off my ability to perceive attractiveness, but I enjoyed the thought experiment. 
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
