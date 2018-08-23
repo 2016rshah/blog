@@ -22,6 +22,8 @@ Shoe Dog by Phil Knight (July Bonus Round!)
 The Setting Sun by Osamu Dazai (July Bonus Round!)
 No Longer Human by Osamu Dazai (July Bonus Round!)
 Stories of Your Life and Others by Ted Chiang (August)
+Hiroshima Mon Amour by Marguerite Duras (August Bonus Round!)
+In Fed We Trust by David Wessel (August Bonus Round!)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -320,6 +322,30 @@ This is a collection of eight short stories, most with a realistic science-ficti
 *Hell Is the Absense of God* - In this story and in *Tower of Bablyon* I feel like people in the story give the God of their story too much credit. That God seems to be just kind of doing their thing, and the characters use their human ingenuity to assign divine meaning to the mundane design decisions of their creator. 
 
 *Liking What You See: A Documentary* - this one was probably my favorite story. It imagines a world in which we could program our brains to ignore an individuals beauty (or lack thereof). It asks whether or not the benefits of beauty (aesthetic pleasure, personal satisfaction, and the status quo), outweigh the cons of beauty (what the story refers to as "lookism", and the commercialization of beauty). I liked how the story gave a glimpse of a dozen or so perspectives, rather than considering the two fundamental sides of controversy in depth. I personally would never turn off my ability to perceive attractiveness, but I enjoyed the thought experiment. 
+
+### *Hiroshima Mon Amour* by Marguerite Duras (August Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/hiroshima-mon-amour.jpg' />
+
+This is the screenplay for a movie of the same name, and earned Marguerite Duras an Oscar nomination for Best Original Screenplay. The story is set in the years just after WWII and follows the conversation between a Japanese man and a French actress as they have an affair. I stumbled on the book at my favorite used book store by my apartment in Tokyo (Book Off Gotanda). 
+
+I wasn't really sure what the screenplay was when I bought it. I got home around midnight and googled the title, etc. I found the original movie online, and used the book to catch any dialogue I missed as I watched the movie. I decided to start that night with the expectation that I would stop halfway through when I got tired and finish later. I ended up finishing it all in one sitting, and didn't go to sleep until 2AM even though it was a weeknight. It was good practice for improving my French listening skills, because usually when I read books in French I only hear my own flawed pronunciation reading out loud. 
+
+It was a heavy topic (WWII as experienced by a French person and a Japanese person), I had to strain to comprehend the French dialogue, and I ended up staying up pretty late. I was glad I did it. But I went to sleep absolutely exhausted that night. 
+
+### *In Fed We Trust* by David Wessel (August Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/in-fed-we-trust.jpg' />
+
+I love non-fiction. Every time I read a non-fiction book, I'm reminded how much I love non-fiction. Non-fiction books can have all the drama of fiction books, but the cool thing is you're not just reading about someone else's imagination. It took millions and millions of people operating independently to act out the story in this book about the 2008 financial panic. You literally can't make this stuff up, because it actually happened. 
+
+I took AP Microeconomics and AP Macroeconomics in high school. I went into the classes thinking I would love econ. I came out of the classes thinking the subjects were too vague and hand-wavey for my taste. I always felt like economics got the worst of both worlds when it came to theoretical versus applied studies. It is too applied to lead to an elegant theoretical formulation, but it's not enough of an applied science for us to make consistent empirical assertions. 
+
+Reading this book casually was fun, though! I love public policy, so hearing about the nitty-gritty of macroeconomic policy was fascinating. I was glad I had a strong foundation of knowledge from my classes so I could understand most of the jargon, and the book filled in the gaps in my knowledge well. I decided I like hearing from experts about economics and all and think it is plenty interesting, but I am really glad I will never be more involved than just listening to the experts. 
+
+The book also raised important political science questions. When we have a smart Fed chairperson, the Fed as a whole operates smoothly and can address important economic issues. This autonomy is valuable in reacting quickly to possible crises. But how do we ensure that we have a smart Fed chairperson? The book claims that in our current economic system, the Fed chairperson heads a fourth branch of government without explicit checks and balances with the other three branches of government. That is a scary thought. 
+
+
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
