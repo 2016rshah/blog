@@ -24,6 +24,8 @@ No Longer Human by Osamu Dazai (July Bonus Round!)
 Stories of Your Life and Others by Ted Chiang (August)
 Hiroshima Mon Amour by Marguerite Duras (August Bonus Round!)
 In Fed We Trust by David Wessel (August Bonus Round!)
+The Samurai's Garden by Gail Tsukiyama (September)
+Naruto by Masashi Kishimoto (October/November)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -345,7 +347,13 @@ Reading this book casually was fun, though! I love public policy, so hearing abo
 
 The book also raised important political science questions. When we have a smart Fed chairperson, the Fed as a whole operates smoothly and can address important economic issues. This autonomy is valuable in reacting quickly to possible crises. But how do we ensure that we have a smart Fed chairperson? The book claims that in our current economic system, the Fed chairperson heads a fourth branch of government without explicit checks and balances with the other three branches of government. That is a scary thought. 
 
+### *The Samurai's Garden* by Gail Tsukiyama (September)
 
+This was a surprisingly melancholic novel about a Chinese boy sent to a quiet seaside Japanese town during WWII. It was the last book I got from my local used book store in Japan (Book Off Gotanda) and I finished it after I got back to school. 
+
+### *Naruto* by Masashi Kishimoto (October/November)
+
+I had started this manga series when I was in elementary school, but it wasn't even close to being completed by then. Nostalgia made me revisit it, so I read all 700 chapters. It was cute and entertaining -- I was glad to tie up that loose end. 
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
