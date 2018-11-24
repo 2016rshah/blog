@@ -26,6 +26,7 @@ Hiroshima Mon Amour by Marguerite Duras (August Bonus Round!)
 In Fed We Trust by David Wessel (August Bonus Round!)
 The Samurai's Garden by Gail Tsukiyama (September)
 Naruto by Masashi Kishimoto (October/November)
+Negroes With Guns by Robert F. Williams (November)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -355,7 +356,22 @@ This was a surprisingly melancholic novel about a Chinese boy sent to a quiet se
 
 I had started this manga series when I was in elementary school, but it wasn't even close to being completed by then. Nostalgia made me revisit it, so I read all 700 chapters. It was cute and entertaining -- I was glad to tie up that loose end. 
 
+### *Negroes With Guns* by Robert F. Williams (November)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/negroes-with-guns.jpg' />
+
+> "[Martin Luther King Jr.] quotes approvingly certain remarks of Gandhi which are as repulsive as any made by the most jingoistic of sword-rattling generals, calling for sacrifice and death. 'Rivers of blood may have to flowe before we gain our freedom, but it must be our blood,' says Gandhi. 
+<br>
+I find this utterly disgusting. Why should Gandhi, or any other human being, throw a whole people, bound and gagged against physical resistance, into the slaughter pen to submit and bleed until the slaughterer gets tired and puts off his killing clothes and goes about some other business, unpunished, even unquestioned, for his shedding of innocent blood. Who is Gandhi to decide whose blood is to be expendable?" (page 24)
+
+In this book, the president of NAACP in Monroe, North Carolina in the 1950s describes how his community was forced to militarize to protect itself from the attacks of the Ku Klux Klan when the local and state police refused to defend blacks. Williams rebuts the case for pacifism and claims that self-defense is necessary and justified for blacks in the US in light of racist violence and lynchings.
+
+The second amendment protects a well regulated militia because it is neccessary for the security of a free State. This story seems like the most straightforward application of the second amendment I've ever come across. The black community's safety and freedom was threatened, the State refused to intervene, and only a well regulated militia was able to discourage further bloodshed by the KKK. And yet, I doubt the average campus-carry frat brother in Texas is invested in protecting the rights of *Negroes With Guns*.    
+
+I was raised in a household where non-violence was a huge family value. My family is culturally [Jain](https://en.wikipedia.org/wiki/Jainism), but we aren't particularly religious. The only one of the three pillars of our religion I was really taught as I was growing up was non-violence. For example, we are all vegetarian and when we see bugs in our house we capture and release them into the wild rather than kill them. But we have used insecticide for wasp's nests, called exterminators, and I am not even close to being vegan yet. So I guess my morality is partially parameterized on its convenience. As I was reading this book, I was forced to acknowledge that I identify more closesly with the ideology of self-defense than I do with pacifism. I hark back to my thoughts from when I read [*On Civil Disobedience*](https://www.rshah.org/blog/posts/12-books-12-months-2018.html#on-civil-disobedience-by-henry-david-thoreau-january-bonus-round) "I think I'm pretty dovish, but in my short life I've never been directly faced with the realities of international military conflict; I can't definitively say one way or the other how hawkish I really am."[^footnote5]
+
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
 [^footnote3]: Fun fact: "fouet" is the french word for the noun "whip".
 [^footnote4]: Judging from the cover, this absolutely didn't strike me as her type of book. In retrospect, she shares numerous traits with the main character, so I admit I judged too soon. But hey, that sounds like a theme to me!
+[^footnote5]: Williams was a big fan of Thoreau and says "Henry David Thoreau is idealized as an apostle of non-violence, the writer who influenced Gandhi, and through Gandhi, Martin Luther King, Jr. But Thoreau was not dogmatic; his eyes were open and he saw clearly." (page 122). Personally, I respect Thoreau's moral consistency, but don't see him as a significant role-model for my world view. 

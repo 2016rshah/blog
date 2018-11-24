@@ -15,10 +15,10 @@ I Am Malala by Malala Yousafzai (April)
 A Clockwork Orange by Anthony Burgess (April Bonus Round!)
 Jane Eyre by Charlotte Brontë (May)
 Le Paradis - un peu plus loin by Mario Vargas Llosa (June/July)
-Here is New York by E. B. White (July Makeup Round)
+Here is New York by E. B. White (July)
 The Audacity of Hope by Barack Obama (July Bonus Round!)
 Polite Lies by Kyoko Mori (August)
-Alice's Adventures in Wonderland and Through the Looking-Glass by Lewis Carroll (August Bonus Rounds)
+Alice's Adventures in Wonderland and Through the Looking-Glass by Lewis Carroll (August Bonus Rounds!)
 The Fountainhead by Ayn Rand (August Bonus Round #3!)
 Mere Christianity by C.S. Lewis (September)
 The Merchant of Venice by William Shakespeare (October)
@@ -157,7 +157,7 @@ Flora, in contrast, is the ultimate redeemable character. Its not that she never
 
 <!-- https://www.theguardian.com/books/2003/nov/15/fiction.art -->
 
-### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July Makeup Round)
+### *[Here is New York](http://www.travel-studies.com/sites/default/files/White,%20Here%20Is%20New%20York.pdf)* by E. B. White (July)
 
 <img style="max-width:25%; margin:3px; float:right;" src='../resources/12-books-12-months-2017/here_is_new_york.jpg' />
 
