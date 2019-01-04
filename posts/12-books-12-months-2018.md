@@ -27,6 +27,7 @@ In Fed We Trust by David Wessel (August Bonus Round!)
 The Samurai's Garden by Gail Tsukiyama (September)
 Naruto by Masashi Kishimoto (October/November)
 Negroes With Guns by Robert F. Williams (November)
+A Little Life by Hanya Yanagihara (December)
 ```
 
 See also: [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)
@@ -369,6 +370,26 @@ In this book, the president of NAACP in Monroe, North Carolina in the 1950s desc
 The second amendment protects a well regulated militia because it is neccessary for the security of a free State. This story seems like the most straightforward application of the second amendment I've ever come across. The black community's safety and freedom was threatened, the State refused to intervene, and only a well regulated militia was able to discourage further bloodshed by the KKK. And yet, I doubt the average campus-carry frat brother in Texas is invested in protecting the rights of *Negroes With Guns*.    
 
 I was raised in a household where non-violence was a huge family value. My family is culturally [Jain](https://en.wikipedia.org/wiki/Jainism), but we aren't particularly religious. The only one of the three pillars of our religion I was really taught as I was growing up was non-violence. For example, we are all vegetarian and when we see bugs in our house we capture and release them into the wild rather than kill them. But we have used insecticide for wasp's nests, called exterminators, and I am not even close to being vegan yet. So I guess my morality is partially parameterized on its convenience. As I was reading this book, I was forced to acknowledge that I identify more closesly with the ideology of self-defense than I do with pacifism. I hark back to my thoughts from when I read [*On Civil Disobedience*](https://www.rshah.org/blog/posts/12-books-12-months-2018.html#on-civil-disobedience-by-henry-david-thoreau-january-bonus-round) "I think I'm pretty dovish, but in my short life I've never been directly faced with the realities of international military conflict; I can't definitively say one way or the other how hawkish I really am."[^footnote5]
+
+### *A Little Life* by Hanya Yanagihara (December)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2018/a-little-life.jpg' />
+
+<!-- > "Did *real* Haitians have studio space? Would it even occur to *real* Haitians to leave their large rent-free apartment, where they could have theoretically carved out their own corner to paint and doodle, only to get on a subway and travel half an hour (think how much work could be accomplished in those thirty minutes!) to a sunny dirty space? No, of course not. To conceive of such a luxury, you needed an American mind." (page 32) -->
+
+> "the only trick of friendship, I think, is to find people who are better than you are -- not smarter, not cooler, but kinder, and more generous, and more forgiving -- and then to appreciate them for what they can teach you, and to try to listen to them when they tell you something about yourself, no matter how bad -- or good -- it might be, and to trust them, which is the hardest thing of all. But the best, as well." (page 240)
+
+<!-- > "he knew JB was lonely, and unhappy, and uncertain, and that none of those sensations were familiar ones to him. He sensed that JB -- who had so loved college, its structures and hierarchies and micro-societies that he had known how to navigate so well -- was trying with every party to re-create the easy, thoughtless companinoship they had once had, when their professional identities were still foggy to them and they were united by their aspirations instead of divided by their daily realities." (page 253) -->
+
+<!-- > "But how was one to be an adult? Was couplehood truly the only appropriate option? (But then, a sole option was no option at all.) 'Thousands of years of evolutionary and social development and this is our only choice?'" (page 256) -->
+
+<!-- > "at the time, everything really did seem possible: he was twenty-three and everyone was young and attractive and smart and glamorous. Everyone though they would be friends for decades, forever. But for most people, of course, that hadn't happened. As you got older, you realized that the qualities you valued in people you slept with or dated weren't necessarily the ones you wanted to live with, or be with, or plod through your days with." (page 643) -->
+
+My most enigmatic and intriguing friend <a href="https://www.linkedin.com/in/alec-blair-705a58172/">Alec Blair</a> let me borrow this behemoth of a novel (clocking in at a staggering 814 pages). It is a work of realistic fiction that follows the entire troubled life of Jude St. Francis and the peaks and troughs of the relationships he forms with the people around him. The book is hella sad. But I'm really glad I read it because it brought me closer to my friend. 
+
+Here's to the books that shaped my 2018, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+
+<!-- It was an emotionally exhausting book to read, heavily featuring themes of trauma, rape, abuse, self-harm, and suicide.  -->
 
 [^footnote1]: I never did win, but I remember one of my three best friends won our school's contest and went on to win the whole regional contest or something. 
 [^footnote2]: FOMO: fear of missing out
