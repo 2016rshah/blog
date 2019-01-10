@@ -16,7 +16,11 @@ See also:
 
 ### *Things I've Been Silent About* by Azar Nafisi (January)
 
+<!-- > "While she was alive I was too busy evading her and resenting her to understand how disappointed and alone she must have felt, how she was like so many other women about whom her best friend, Mina, used to say, with an ironic smile: 'Another intelligent woman gone to waste.'" -->
+
 This book can best be described as a family memoir. It covered the author's life, the life of her father, and the life of her mother against the backdrop of Tehran, Iran. 
+
+> "I do not mean this book to be a political or social commentary, or a useful life story. I want to tell the story of a family that unfolds against the backdrop of a turbulent era in Iran's political and cultural history. There are many stories about these times, between the birth of my grandmother at the start of the twentieth century and my daughter's birth at it's end, marked by the two revolutions that shaped Iran, causing so many divisions and contradictions that transient turbulence became the only thing of permanence." (Page xviii)
 
 The book paints a nuanced picture of Tehran and Iranian politics in the mid to late 1900s. I could feel Nafisi's patriotism through her writing: when her country faltered, her heart broke, but she didn't let that diminish her criticism. 
 
