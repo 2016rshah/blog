@@ -9,6 +9,9 @@
 ```
 Things I've Been Silent About by Azar Nafisi (January)
 Citizen: An American Lyric by Claudia Rankine (January Bonus Round!)
+The Nest by Cynthia D'Aprix Sweeney (February)
+Becoming by Michelle Obama (February Bonus Round!)
+Smiles to Go by Jerry Spinelli (March)
 ```
 
 See also:  
@@ -50,3 +53,43 @@ I really liked how **deliberate** and **non-conformist** the work is.
 Rankine's brilliance was not an accident. Rankine intentionally conducted this experiment. The effect of this work produces is due to Rankine's authorial control. 
 
 And Virginia Woolf's *A Room of One's Own* made me consider how **non-conformist** the work is: Woolf wrote about the importance of creating a (perhaps literal, but also definitely figurative) space for women in literature. She posits that the format of writing that can best express what women writers have to say might not have even been explored yet. Traditional writing formats, like the novel, may be insufficient. I like to think that Rankine's work is an important exploration of the space that Woolf was referring to.  
+
+### *The Nest* by Cynthia D'Aprix Sweeney (February)
+
+I was flying to Philadelphia with my competitive Bollywood-fusion dance team and looking through my library's online offerings for an audiobook to listen to on the plane. My good friend <a href="https://www.linkedin.com/in/tara-kuruvilla/">Tara Kuruvilla</a> recommended this work of modern fiction, which was short and entertaining. 
+
+The book follows a family of four adult siblings who are planning to inherit a lump of money ("the nest") on their youngest sibling's fortieth birthday. I liked the book for how well it tied together a variety of characters; I didn't feel like any one of them was underdeveloped. But there were two storylines in particular (Bee's ultimate love interest, and the waitress Melinda's life after Leo) that I felt the author got lazy with. 
+
+The book touched on themes of privilege, entitlement, and negotiations within a family structure. It seemed like the moral of the story was that if you stay reasonable, money stuff should just work itself out. That claim sounds nice, but I wonder how true it is? This seems like a fair assertion for a semi-successful NYC family: they really just need to make sure they are fiscally responsible enough to not blow their privilege.
+
+One of the characters found happiness after their partner left them by learning to be alone. That was uncharacteristically mature of them. I don't want to live the trope of an individual who can't survive without a significant other, but I wonder if I've got that maturity myself yet?
+
+One of the characters is a writer, and this book made it seem like such a sexy and glamarous profession. Maybe I'd like to write something some day. What would I even write about? 
+
+**This paragraph is about to contain spoilers so beware.** In the end, the family's problems all seemed to be solved when Leo just left. (On a side note: Stephanie found happiness by taking what she needed from Leo, namely his family and his sperm, and then kicking him to the curb; good for her!) But what does that say about the family bonds if the only way to resolve their collective issues was to count Leo out of their family calculus? **End spoilers.**
+
+### *Becoming* by Michelle Obama (February Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/becoming.jpg' />
+
+> "I grew up with a disabled dad in a too-samll house with not much money in a starting-to-fail neighborhood, and I also grew up surrounded by love and music in a diverse city in a country where an education can take you far. I had nothing or I had everything. It depends on which way you want to tell it." (Page 416)
+
+An ambitious friend of mine, <a href="https://www.linkedin.com/in/hubbul-rizvi/">Hubbul Rizvi</a>, let me borrow her copy of *Becoming*. It was interesting for me to compare Michelle Obama's book with Barrack Obama's and Hillary Clinton's books, both of which <a href="https://www.rshah.org/blog/posts/12-books-12-months-2017.html">I read back in 2017</a>. Overall, Michelle Obama lived a comparitively tame life, which makes sense because she has never been an elected official. This book was not a stump speech like Barrack's book, and was not a treatise on foreign policy like Hillary's book. Instead, it was a peek into Michelle's origin story and a peek into the life of a modern first family. 
+
+I was struck most by how overwhelmingly normal the book made the Obamas seem. This makes sense. As they craft their legacy, it makes sense they would like to leave behind something to paint them in a personal light, rather than a strictly political light. And Michelle is uniquely positioned to tell this story with the perspective of an outsider who just happened to be along for the ride. 
+
+When she spoke about her role as Executive Director for the non-profit Public Allies, she had something insightful to say about the privilege to be generous ("virtue discreetly underwritten by privilege"):
+
+> "[...] Which led to a second revelation about certain nonprofits, especially young-person-driven start-ups like Public Allies, and many of the bighearted, tirelessly passionate people who work in them: Unlike me, it seemed they could actually afford to be there, their virtue discreetly underwritten by privilege, whether it was that they didn't have student loans to pay off or perhaps had an inheritance to someday look forward to and thus weren't worried about saving for the future." (Page 177)
+
+I was brought back to a question I've been turning over in my head for a while now. Consider the following thought experiment: you are a puppetmaster who can directly control the actions of one privileged person. What actions do you have that person take? 
+
+<!-- > "As long as I've known him, [Barrack]'s been this way: extra-vigilant when it comes to matters of money and ethics, holding himself to a higher standard than even what's dictated by law. There's an age-old maxim in the black community: *You've got to be twice as good to get half as far*." (Page 295) -->
+
+### *Smiles to Go* by Jerry Spinelli (March)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/smiles-to-go.jpg' />
+
+> "It's the _not_ knowing that counts."
+
+I got this book from a book fair in like fifth grade of elementary school. This year I came home for spring break, and found it on my childhood bookshelf. The cover has the quote "it's the not knowing that counts", even though that quote is nowhere to be found in the book itself. I'm not a huge fan of the book, which is just a meandering story about middle-class childhood angst meant to keep ten year olds busy. But for some reason, that one quote has really stuck with me all these years. 
