@@ -12,6 +12,7 @@ Citizen: An American Lyric by Claudia Rankine (January Bonus Round!)
 The Nest by Cynthia D'Aprix Sweeney (February)
 Becoming by Michelle Obama (February Bonus Round!)
 Smiles to Go by Jerry Spinelli (March)
+The Love and Lies of Rukhsana Ali by Sabina Khan (March Bonus Round!)
 ```
 
 See also:  
@@ -93,3 +94,7 @@ I was brought back to a question I've been turning over in my head for a while n
 > "It's the _not_ knowing that counts."
 
 I got this book from a book fair in like fifth grade of elementary school. This year I came home for spring break, and found it on my childhood bookshelf. The cover has the quote "it's the not knowing that counts", even though that quote is nowhere to be found in the book itself. I'm not a huge fan of the book, which is just a meandering story about middle-class childhood angst meant to keep ten year olds busy. But for some reason, that one quote has really stuck with me all these years. 
+
+### *The Love and Lies of Rukhsana Ali* by Sabina Khan (March Bonus Round!)
+
+This is a short work of fiction about a lesbian Muslim high schooler and her experience getting outed by her parents + their Bangladeshi culture's backlash. The work started out a little elementary with a young adult fiction writing style (which is totally fine! Just not what I was looking for.). As soon as I was about to give up on the book, about 25% of the way through when the ball dropped and the book got really intense. I read the next 25% in one sitting because it was a real page turner. Overall, the first 25% was a little underwhelming; I really enjoyed the section from 25%-75%; and I felt a little let down by the last 25% because it took the easy way out on resolving a few of the plotlines. 
