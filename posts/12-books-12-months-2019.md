@@ -13,6 +13,9 @@ The Nest by Cynthia D'Aprix Sweeney (February)
 Becoming by Michelle Obama (February Bonus Round!)
 Smiles to Go by Jerry Spinelli (March)
 The Love and Lies of Rukhsana Ali by Sabina Khan (March Bonus Round!)
+Like Water for Chocolate by Laura Esquivel (April)
+The Joy Luck Club by Amy Tan (May)
+The Essence of Jainism by Kumarpal Desai + Pure Freedom: The Jain Way of Self Reliance by Amar Salgia (June)
 ```
 
 See also:  
@@ -98,3 +101,43 @@ I got this book from a book fair in like fifth grade of elementary school. This 
 ### *The Love and Lies of Rukhsana Ali* by Sabina Khan (March Bonus Round!)
 
 This is a short work of fiction about a lesbian Muslim high schooler and her experience getting outed by her parents + their Bangladeshi culture's backlash. The work started out a little elementary with a young adult fiction writing style (which is totally fine! Just not what I was looking for.). As soon as I was about to give up on the book, about 25% of the way through when the ball dropped and the book got really intense. I read the next 25% in one sitting because it was a real page turner. Overall, the first 25% was a little underwhelming; I really enjoyed the section from 25%-75%; and I felt a little let down by the last 25% because it took the easy way out on resolving a few of the plotlines. 
+
+### *Like Water for Chocolate* by Laura Esquivel (April)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/like-water-for-chocolate.jpg' />
+
+The full title of this book is *Like Water for Chocolate: A Novel in Monthly Installments with Recipes, Romances and Home Remedies*. It uses magical realism to describe the life of a Mexican family and their ranch. The primary focus of the book is on the protagonist, Tita, who was born in (and seldom leaves) the kitchen. 
+
+I like the subtle elements of magical realism: for example, the emotions of the chef are cooked into the food they serve. Food is my family's way of showing love, and I appreciate this consistency across cultures. 
+
+### *The Joy Luck Club* by Amy Tan (May)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/joy-luck-club.jpg' />
+
+> "Now the woman was old. And she had a daughter who grew up speaking only English and swallowing more Coca-Cola than sorrow. For a long time now the woman had wanted to give her daughter the single swan feather and tell her. 'This feather may look worthless, but it comes from afar and carries with it all my good intentions.' And she waited, year after year, for the day she could tell her daughter this in perfect American English" (Preface to Feathers From a Thousand Li Away)
+
+> "I saw what I had been fighting for: It was for me, a scared child, who had run away a long time ago to what I had imagined was a safer place. And hiding in this place, behind my invisible barriers, I knew what lay on the other side: Her side attacks. Her secret weapons. Her uncanny ability to find my weakest spots. But in the brief instant that I had peered over the barriers I could finally see what was really there: an old woman, a wok for her armor, a knitting kneedle for her sword, getting a little crabby as she waited patiently for her daughter to invite her in." (Waverly Jong // Four Directions, Page 204)
+
+This book is split into four sections each with four chapters all of which follow four pairs of Chinese mothers and daughters and recounts vignettes from their life. I really liked it. 
+
+I tried to get my mother to read the book, so I let her borrow my copy. She got almost exactly halfway through the book and gave up. When I asked her why she said "I don't want to spend my time reading depressing things". Which is fair. This book has its dark moments for sure. But I think it also speaks to the immigrant experience in a way that I haven't read before. It captures the ways in which a parent's immigration to America is felt by their American children and the things about their parent's flight they will never fully comprehend.
+
+The alternation between mother and daugther perspectives said interesting things about the mother-daughter family dynamic. What thoughts, feelings, and emotions don't need words to convey between a mother and her daughter because of their shared experiences? Conversely, what thoughts, feelings, and emotions get lost in translation between a mother and daughter despite their best efforts? 
+
+### *The Essence of Jainism* by Kumarpal Desai + *Pure Freedom: The Jain Way of Self Reliance* by Amar Salgia (June)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/jainism.jpg' />
+
+I'm gonna be honest with you. I didn't really sit down and read an entire book this month. That's not to say I didn't read. I just started and subsequently abandoned a lot of books: *Dark Matters* by Simone Browne which was too heavy for my headspace at the time but to which I'm hoping to return someday; *Triumph of Justice* by Daniel Petrocelli which was a second-rate OJ Simpson book because it was about the civil trial rather than the criminal trial; *The God of Small Things* by Arundhati Roy which was not clicking for me as an audiobook but might work better if I hunt down a physical copy. 
+
+I also read a lot of things that were not books. Among others things I read a lot of blog posts about how to apply to CS PhD programs, and this cool long-form article called [Behold, The Millenial Nuns](https://www.huffpost.com/highline/article/millennial-nuns/) by Eve Fairbanks (who is an alum of my high school!). 
+
+I also have a lot of life updates in this month that justify my lack of focus. I traveled to Phoenix for Programming Languages Design and Implementation (PLDI 2019) where [I co-authored a paper](http://www.cs.utexas.edu/~isil/pldi19b.pdf). I traveled to the bay area to visit friends and literally ran into some high school friends while I was walking down the street. I traveled to LA for a convention on Jainism, which ended up being 100\% a social event for anyone under the age of 27 rather than even remotely related to spiritualism. And finally, I got a breath-taking [girlfriend](https://www.linkedin.com/in/naoko-susan-ward) so I've been spending a lot of time on adventures with her rather than just reading.
+
+With that being said, I am making up for my failure by reading a series of pamphlets on Jainism. As I mentioned when I read [Negroes With Guns](https://www.rshah.org/blog/posts/12-books-12-months-2018.html#negroes-with-guns-by-robert-f.-williams-november), my family is culturally Jain but not particularly religious. I've spent some time reading about other religions (for example, [Mere Christianity](https://www.rshah.org/blog/posts/12-books-12-months-2017.html#mere-christianity-by-c.s.-lewis-september)), so I wanted to do the same for Jainism, and an aunt gave me some reading material from a previous Jainism convention. What I learned is that Jainism as it has been popularly described to me is pretty different from the traditional teachings of Jainism. The pop-culture jainism, (with its non-violence, vegetarianism, and particular dietary restrictions) is all together pretty palatable. The traditional jainism, though, (with its karmic particles, and soteriological reflections) is a pretty radical metaphysical theory. 
+
+The pamphlets I read really focused on how the soul is shrouded by karmic particles and needs to be liberated from its worldly body by steadily reducing your attachment to this physical world. This contrasted from the much more tame view of jainism I had been taught growing up: just kind of like be a good person and don't hurt animals and stuff and you're good. From what I understand based on these readings, nonviolence ([ahimsa](https://en.wikipedia.org/wiki/Ahimsa)) is much less of a pillar in traditional jainism than the actual pillar of jainism which is non-attachmentedness ([aparigraha](https://en.wikipedia.org/wiki/Aparigraha)).
+
+I think it is important to recognize that these pamphlets may be unnecessarily focused on specific aspects of Jainism that are interesting to the authors rather than providing a wholesome view of the entire religion. I will continue learning, but I definitely saw a new side of Jainism through these readings, one that I didn't find particularly compelling. With that being said, I did learn a lot of factual information about my cultural relgion, which was valuable! For example, I learned the extent to which the actions of monks and nuns are more strictly determined than the actions of laypeople (for example celibacy, as defined for laypeople, is basically just avoiding adultery). 
+
+I practiced a multiplicity of viewpoints ([anekantavada](https://en.wikipedia.org/wiki/Anekantavada)) when reading these pamphlets and was able to find the grains of truth interspersed within the pages. 
