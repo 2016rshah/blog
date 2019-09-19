@@ -16,6 +16,9 @@ The Love and Lies of Rukhsana Ali by Sabina Khan (March Bonus Round!)
 Like Water for Chocolate by Laura Esquivel (April)
 The Joy Luck Club by Amy Tan (May)
 The Essence of Jainism by Kumarpal Desai + Pure Freedom: The Jain Way of Self Reliance by Amar Salgia (June)
+Interpreter of Maladies by Jhumpa Lahiri (July)
+Song of Solomon by Toni Morrison (August)
+When Breath Becomes Air by Paul Kalanithi (September)
 ```
 
 See also:  
@@ -90,6 +93,8 @@ I was brought back to a question I've been turning over in my head for a while n
 
 <!-- > "As long as I've known him, [Barrack]'s been this way: extra-vigilant when it comes to matters of money and ethics, holding himself to a higher standard than even what's dictated by law. There's an age-old maxim in the black community: *You've got to be twice as good to get half as far*." (Page 295) -->
 
+<!-- > "a surreal pause between everything that's happened and whatever lies ahead. You've leaped but you haven't landed." (Page 274) -->
+
 ### *Smiles to Go* by Jerry Spinelli (March)
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/smiles-to-go.jpg' />
@@ -141,3 +146,34 @@ The pamphlets I read really focused on how the soul is shrouded by karmic partic
 I think it is important to recognize that these pamphlets may be unnecessarily focused on specific aspects of Jainism that are interesting to the authors rather than providing a wholesome view of the entire religion. I will continue learning, but I definitely saw a new side of Jainism through these readings, one that I didn't find particularly compelling. With that being said, I did learn a lot of factual information about my cultural relgion, which was valuable! For example, I learned the extent to which the actions of monks and nuns are more strictly determined than the actions of laypeople (for example celibacy, as defined for laypeople, is basically just avoiding adultery). 
 
 I practiced a multiplicity of viewpoints ([anekantavada](https://en.wikipedia.org/wiki/Anekantavada)) when reading these pamphlets and was able to find the grains of truth interspersed within the pages even if I didn't agree with everything. 
+
+### *Interpreter of Maladies* by Jhumpa Lahiri (July)
+
+*A Temporary Matter* - young married couple deals with a stillborn baby and begins to speak to each other again in the romanticism of nightly electrical blackouts of their neighbourhood. Ends with divorce. 
+
+*When Mr. Pirzada Came to Dine* - Pakistani man comes to dine repeatedly with Indian family in America to reminisce and watch the news as a war rages between India and Pakistan. He misses his seven daughters he left behind. He's eventually reunited, and the two families never see each other again. 
+
+*Interpreter of Maladies* - driver for tourists in India is infatuated with tourist wife, who is intrigued by his job as translator (Gujarati!) for a doctor. Wife confesses third son is illegitimate but they all save him from a monkey.
+
+*A Real Durwan* - Poor old lady in flat sweeps and speaks of a time when she was rich. Family gets wealthy, others get jealous and buy things, stuff gets stolen and old lady gets blamed. 
+
+*Sexy* - from perspective of the mistress of a husband. Her friend's cousin is also being cheated on. Mistress babysits the son and realizes she doesn't need the man. 
+
+*Mrs. Sen's* - South Indian babysitter, husband is a math professor. She misses home and loves fish. No autonomy, tries and fails to drive to fish market. Mom doesn't allow kid to go back after that. 
+
+*This Blessed House* - young wealthy bachelor gets arranged marriage because he has more money than he can spend himself. Couple moves into fancy house and discovers a ton of Christian paraphanelia. They're Hindu, so he's annoyed, but she loves the stuff, which reveals rifts in the relationship. 
+
+*The Treatment of Bibi Haldar* - girl plauged by seizures can't get married because of her condition, but someone predicts she just needs to have sex. Her life detioriates until one day she's revealed to be pregnant despite no one coming forward as the father. She no longer has seizures. 
+
+*The Third and Final Continent* - immigrant from India comes to Boston and works at a library at MIT. Starts renting apartment with an old white lady the day we walk on the moon for the first time. She's obsessed, and he goes out of his way to be nice to her. He moves out when his wife arrives in America, but that apartment is the first time he started to love his wife. Modern day and his son goes to Harvard, and he is sentimental about everything on this planet and beyond.  
+
+I found the first and last stories particularly moving. The stories are oddly unsatisfying because they describe rather mundane scenarios in the most depressing way possible. Even when the stories make you happy you're just happy because the sadness and hurt of the world can occasionally be beautifully portrayed in literature. 
+
+This book came recommended to me by the lovely [Michelle Ma](https://michellema1208.github.io/), who has been a valuable friend ever since we were both interns in New York City during the Summer of 2017. We would philosophize together and she gave me the push I needed to finally publish [this blog post](https://www.rshah.org/blog/posts/charity_match_2017.html). 
+
+### *Song of Solomon* by Toni Morrison (August)
+
+
+
+### *When Breath Becomes Air* by Paul Kalanithi (September)
+
