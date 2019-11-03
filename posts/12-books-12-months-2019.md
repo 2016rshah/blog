@@ -19,6 +19,9 @@ The Essence of Jainism by Kumarpal Desai + Pure Freedom: The Jain Way of Self Re
 Interpreter of Maladies by Jhumpa Lahiri (July)
 Song of Solomon by Toni Morrison (August)
 When Breath Becomes Air by Paul Kalanithi (September)
+Dark Matters: On the Surveillance of Blackness by Simone Browne (October)
+Talent by Juliet Lapidos (October Bonus Round!)
+The Librarian's Guide to Homelessness by Ryan Dowd (October Bonus Round!)
 ```
 
 See also:  
@@ -149,6 +152,8 @@ I practiced a multiplicity of viewpoints ([anekantavada](https://en.wikipedia.or
 
 ### *Interpreter of Maladies* by Jhumpa Lahiri (July)
 
+This collection of short stories came recommended to me by the lovely [Michelle Ma](https://michellema1208.github.io/), who has been a valuable friend ever since we were both interns in New York City during the Summer of 2017. We would philosophize together and she gave me the push I needed to finally publish [this blog post](https://www.rshah.org/blog/posts/charity_match_2017.html). I 
+
 *A Temporary Matter* - young married couple deals with a stillborn baby and begins to speak to each other again in the romanticism of nightly electrical blackouts of their neighbourhood. Ends with divorce. 
 
 *When Mr. Pirzada Came to Dine* - Pakistani man comes to dine repeatedly with Indian family in America to reminisce and watch the news as a war rages between India and Pakistan. He misses his seven daughters he left behind. He's eventually reunited, and the two families never see each other again. 
@@ -159,21 +164,52 @@ I practiced a multiplicity of viewpoints ([anekantavada](https://en.wikipedia.or
 
 *Sexy* - from perspective of the mistress of a husband. Her friend's cousin is also being cheated on. Mistress babysits the son and realizes she doesn't need the man. 
 
-*Mrs. Sen's* - South Indian babysitter, husband is a math professor. She misses home and loves fish. No autonomy, tries and fails to drive to fish market. Mom doesn't allow kid to go back after that. 
+*Mrs. Sen's* - South Indian babysitter, husband is a math professor. She misses home and loves fish. No autonomy, tries and fails to drive to fish market. Mom doesn't allow kid to go back after that. Excellent representation of the feeling of being trapped as a housewife. 
 
-*This Blessed House* - young wealthy bachelor gets arranged marriage because he has more money than he can spend himself. Couple moves into fancy house and discovers a ton of Christian paraphanelia. They're Hindu, so he's annoyed, but she loves the stuff, which reveals rifts in the relationship. 
+*This Blessed House* - young wealthy bachelor gets arranged marriage because he has more money than he can spend himself. Couple moves into fancy house and discovers a ton of Christian paraphanelia. They're Hindu, so he's annoyed, but she loves the stuff, which reveals rifts in the relationship. Solid representation of the danger of marrying someone for status, with no understanding of who the both of you are. 
 
 *The Treatment of Bibi Haldar* - girl plauged by seizures can't get married because of her condition, but someone predicts she just needs to have sex. Her life detioriates until one day she's revealed to be pregnant despite no one coming forward as the father. She no longer has seizures. 
 
 *The Third and Final Continent* - immigrant from India comes to Boston and works at a library at MIT. Starts renting apartment with an old white lady the day we walk on the moon for the first time. She's obsessed, and he goes out of his way to be nice to her. He moves out when his wife arrives in America, but that apartment is the first time he started to love his wife. Modern day and his son goes to Harvard, and he is sentimental about everything on this planet and beyond.  
 
-I found the first and last stories particularly moving. The stories are oddly unsatisfying because they describe rather mundane scenarios in the most depressing way possible. Even when the stories make you happy you're just happy because the sadness and hurt of the world can occasionally be beautifully portrayed in literature. 
-
-This book came recommended to me by the lovely [Michelle Ma](https://michellema1208.github.io/), who has been a valuable friend ever since we were both interns in New York City during the Summer of 2017. We would philosophize together and she gave me the push I needed to finally publish [this blog post](https://www.rshah.org/blog/posts/charity_match_2017.html). 
+I found the first and last stories particularly moving. All the stories are oddly unsatisfying because they describe rather mundane scenarios in the most depressing way possible. Even when the stories make you happy you're just happy because the sadness and hurt of the world can occasionally be beautifully portrayed in literature. 
 
 ### *Song of Solomon* by Toni Morrison (August)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/song_of_solomon.jpg' />
 
+> "Truly landlocked people know they are." (Page 162)
+
+Toni Morrison passed away August 5th, 2019. I found this book on a shelf at the public library honoring her significant contributions to literature. It was my first time reading her work, and I really appreciated it. I bookmarked places in the book that had quotes that particularly resonated with me (of which there were a good number). Unfortunately, I returned the book before recording them in this blog post and taking a picture of the cover (like I usually do before returning books).
+
+The book follows a black man from his birth to his death, as he seeks his place in the world and deals with family issues, friendship, and love in many of its forms. Along the way you meet a variety of characters, all of whom have something to say. I really enjoyed reading it, and I wish I still had my notes from when I did.
 
 ### *When Breath Becomes Air* by Paul Kalanithi (September)
 
+This book came recommended to me by the indefatigable and inspiring [Maya Patel](https://www.linkedin.com/in/maya-m-patel/), who you may recall let me borrow [*Hard Choices* back in December 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html#hard-choices-by-hillary-rodham-clinton-december). This memoir was written by a Stanford neurosurgeon diagnosed at a relatively young age with fatal lung cancer. I found the end of the book and the afterword, written by his wife and fellow doctor Lucy Goddard Kalanithi, to be particularly moving. My favorite parts of the book were the parts that explored what it means to keep striving at different points in your life. 
+
+### *Dark Matters: On the Surveillance of Blackness* by Simone Browne (October)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/dark_matters.jpg' />
+
+This book was written by Professor Simone Browne at UT who teaches a sociology class I considered taking called "Race, Gender, and Surveillance". The class conflicted with my Cybersecurity Law and Policy class I needed to take, so I wasn't able to register for it. Considering that class and this book has led me to question how technology influences state surveillance, especially within an intersectional framework. However, I was dissapointed with the scope of this book. It was more of a historical survey rather than a characterization of the problem. Furthermore, it was really packed with jargon that made it hard to decipher what the author was trying to get at, which was frustrating. 
+
+With that being said, I saw Professor Browne moderate a really incredible panel at a [Prison Abolition conference at UT's law school](https://law.utexas.edu/prison-abolition/). The conference was personally really life-changing, right up there with [reading *The New Jim Crow* back in February 2018](https://www.rshah.org/blog/posts/12-books-12-months-2018.html#the-new-jim-crow-by-michelle-alexander-february).
+
+### *Talent* by Juliet Lapidos (October Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/talent.jpg' />
+
+> "One of the problems with graduate school, generally, was that we didn't have an obvious model for what a good time should look like [...] We doctoral candidates were left more at sea, which was to say, more at liberty to create our own version of fun, and left at liberty, we floundered." (Page 111)
+
+This was an entertaining novel I picked up at the library about a PhD student at Yale (I mean Collegiate) in New Haven (I mean New Harbor). She starts researching an enigmatic author after meeting his niece and drama ensues. One of my favorite parts of the book was excerpts from the fictional author's personal notes in which he jots potential story ideas. Consider this one:
+
+> "Alana catches the train from Boston to Cincinnati, snagging a window seat. Deborah sits next to her and strikes up a conversation about fur coats. It's as good a topic as any. War. Peace. Life. Death. Fur coats. When Deborah exits the train, Eleanor takes her place. Eleanor's topic is animal cruelty. After Eleanor, Francine talks pet insurance, and Georgina talks vegetarianism. Alana politely plays her part, never acknowledging the alphabetical chain or thematic connections, which, anyway, never amount to anything. Not only is there no climax, there is no sense of building, of anything wagered or gained. Each conversation, each story, is as meaningless and effervescent as the last. If there's any point at all it's to show my hand." (Page 28)
+
+### *The Librarian's Guide to Homelessness* by Ryan Dowd (October Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/homelessness.jpg' />
+
+I was at the library one day and saw a (presumably homeless) black man being spoken to and eventually escorted out by two white police officers and three security guards. Everybody around them acted like nothing was happening. I didn't know what led up to this moment, but I observed from a distance with a morbid curiosity.
+
+This event struck me, and I didn't know what to do so I tried to find a book on the subject of homelessness. The catalog recommended this book, which was in some ways exactly what I was looking for and in some ways completely useless. The parts of the book I liked were at the beginning and end when it emphasized compassion towards the homeless population and explained the function of libraries in a community as complementary to the function of homeless shelters. However, the bulk of the book was not actually about helping homeless patrons, it was a guide on how to enforce library rules effectively against homeless patrons. It included some context about why those enforcement strategies would be particularly effective against homeless individuals. Although perhaps informative, the book was ultimately unsatisfying. 
