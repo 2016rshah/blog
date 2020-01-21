@@ -236,6 +236,8 @@ One thing I found notable was how the two main characters (Ifemelu and Obinze) a
 
 Another thing I found notable was the distinction Ifemelu highlights between the recent African immigrant experience in America and the Black experience in America (that of individuals whose families have been in America for many generations). I've thought about how the Black American experience is different from the experience of other minorities before, but this book gave more detail to those thoughts. 
 
-In retrospect, I wish Dike's storyline had been a little bit more fleshed out. But I suppose this was intentional: I'm sure Ifemelu wished she knew more about Dike's storyline, too. 
+I wish Dike's storyline had been a little bit more fleshed out. But I suppose this was intentional: I'm sure Ifemelu wished she knew more about Dike's storyline, too.
 
-Here's to the books that shaped my 2019, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+<hr>
+
+In retrospect: I think my favorite books this year were *Things I've Been Silent About* by Azar Nafisi (January), *The Joy Luck Club* by Amy Tan (May), *Song of Solomon* by Toni Morrison (August), and *A Raisin in the Sun* by Lorraine Hansberry (November). Here's to the books that shaped my 2019, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
