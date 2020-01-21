@@ -22,6 +22,9 @@ When Breath Becomes Air by Paul Kalanithi (September)
 Dark Matters: On the Surveillance of Blackness by Simone Browne (October)
 Talent by Juliet Lapidos (October Bonus Round!)
 The Librarian's Guide to Homelessness by Ryan Dowd (October Bonus Round!)
+The Education of an Idealist by Samantha Power (November)
+A Raisin in the Sun by Lorraine Hansberry (November Bonus Round!)
+Americanah by Chimamanda Ngozi Adichie (December)
 ```
 
 See also:  
@@ -213,3 +216,26 @@ This was an entertaining novel I picked up at the library about a PhD student at
 I was at the library one day and saw a (presumably homeless) black man being spoken to and eventually escorted out by two white police officers and three security guards. Everybody around them acted like nothing was happening. I didn't know what led up to this moment, but I observed from a distance with a morbid curiosity.
 
 This event struck me, and I didn't know what to do so I tried to find a book on the subject of homelessness. The catalog recommended this book, which was in some ways exactly what I was looking for and in some ways completely useless. The parts of the book I liked were at the beginning and end when it emphasized compassion towards the homeless population and explained the function of libraries in a community as complementary to the function of homeless shelters. However, the bulk of the book was not actually about helping homeless patrons, it was a guide on how to enforce library rules effectively against homeless patrons. It included some context about why those enforcement strategies would be particularly effective against homeless individuals. Although perhaps informative, the book was ultimately unsatisfying. 
+
+### *The Education of an Idealist* by Samantha Power (November)
+
+This book was pretty good, but I repeatedly found myself comparing it to [Hillary Clinton's book *Hard Choices*](https://www.rshah.org/blog/posts/12-books-12-months-2017.html#hard-choices-by-hillary-rodham-clinton-december). I preferred *Hard Choices* because I felt that it was more substantive about the issues it mentioned, rather than just serving as propaganda for why decisions were made the way they were. I found Samantha Power's earlier anti-genocide work and her coming-of-age story interesting. But I was less interested in her narration of the bureaucratic work she did later in her career. I think I would enjoy her first book, which she references often (*A Problem from Hell: America and the Age of Genocide*) because it would dive deeply into one interesting topic rather than painting many topics with a broad brush. However, I'm not sure I'm interested enough to priotize it over other books I plan to read. 
+
+### *A Raisin in the Sun* by Lorraine Hansberry (November Bonus Round!)
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2019/raisin-in-the-sun.jpg' />
+
+> "What happens to a dream deferred?"
+
+This was a very entertaining play. It's pretty light and has intermittent humor. I finished it in two days. I think I would really enjoy watching a live production, if I ever come across one. 
+
+### *Americanah* by Chimamanda Ngozi Adichie (December)
+
+I enjoyed this book. The audiobook version I listened to from my library was narrated by Adjoa Andoh; I felt that listening to her narration brought the book to life more than the hardcopy could have. Her accents for the different characters, and her familiarity with Nigerian speech patterns drew me into the story. 
+
+One thing I found notable was how the two main characters (Ifemelu and Obinze) achieve traditional markers of success (prestige and wealth, respectively), and yet these conquests are all peripheral to their overarching storyline: the pursuit of passionate love. 
+
+Another thing I found notable was the distinction Ifemelu highlights between the recent African immigrant experience in America and the Black experience in America (that of individuals whose families have been in America for many generations). I've thought about how the Black American experience is different from the experience of other minorities before, but this book gave more detail to those thoughts. 
+
+In retrospect, I wish Dike's storyline had been a little bit more fleshed out. But I suppose this was intentional: I'm sure Ifemelu wished she knew more about Dike's storyline, too. 
+
+Here's to the books that shaped my 2019, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
