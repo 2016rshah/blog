@@ -32,7 +32,8 @@ A Little Life by Hanya Yanagihara (December)
 
 See also:  
  - [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)  
- - [(At Least) 12 Books in 12 Months - 2019](https://www.rshah.org/blog/posts/12-books-12-months-2019.html)
+ - [(At Least) 12 Books in 12 Months - 2019](https://www.rshah.org/blog/posts/12-books-12-months-2019.html)  
+ - [(At Least) 12 Books in 12 Months - 2020](https://www.rshah.org/blog/posts/12-books-12-months-2020.html)
 
 ### *The Importance of Being Earnest* by Oscar Wilde (January)
 

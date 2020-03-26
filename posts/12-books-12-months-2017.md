@@ -29,7 +29,8 @@ Hard Choices by Hillary Rodham Clinton (December)
 
 See also:  
  - [(At Least) 12 Books in 12 Months - 2018](https://www.rshah.org/blog/posts/12-books-12-months-2018.html)  
- - [(At Least) 12 Books in 12 Months - 2019](https://www.rshah.org/blog/posts/12-books-12-months-2019.html)
+ - [(At Least) 12 Books in 12 Months - 2019](https://www.rshah.org/blog/posts/12-books-12-months-2019.html)  
+ - [(At Least) 12 Books in 12 Months - 2020](https://www.rshah.org/blog/posts/12-books-12-months-2020.html)
 
 ### *Anna Karenina* by Leo Tolstoy (January)
 
