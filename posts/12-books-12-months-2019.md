@@ -24,7 +24,8 @@ Talent by Juliet Lapidos (October Bonus Round!)
 The Librarian's Guide to Homelessness by Ryan Dowd (October Bonus Round!)
 The Education of an Idealist by Samantha Power (November)
 A Raisin in the Sun by Lorraine Hansberry (November Bonus Round!)
-Americanah by Chimamanda Ngozi Adichie (December)
+Hillbilly Elegy by J. D. Vance (December)
+Americanah by Chimamanda Ngozi Adichie (December Bonus Round!)
 ```
 
 See also:  
@@ -229,7 +230,12 @@ This book was pretty good, but I repeatedly found myself comparing it to [Hillar
 
 This was a very entertaining play. It's pretty light and has intermittent humor. I finished it in two days. I think I would really enjoy watching a live production, if I ever come across one. 
 
-### *Americanah* by Chimamanda Ngozi Adichie (December)
+### *Hillbilly Elegy* by J. D. Vance (December)
+
+I spent all of elementary school and all of middle school living in a small rural Appalachian town called Proctorville, OH. I lived right on the border of West Virginia and Ohio, across the Ohio River from a slightly larger city called Huntington, WV. This book is a memoir about the author's upbringing in Appalachia (Kentucky, to be specific)
+
+
+### *Americanah* by Chimamanda Ngozi Adichie (December Bonus Round!)
 
 I enjoyed this book. The audiobook version I listened to from my library was narrated by Adjoa Andoh; I felt that listening to her narration brought the book to life more than the hardcopy could have. Her accents for the different characters, and her familiarity with Nigerian speech patterns drew me into the story. 
 
