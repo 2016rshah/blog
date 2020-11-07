@@ -18,6 +18,9 @@ Circe by Madeline Miller (June)
 We Should All Be Feminists by Chimamanda Ngozi Adichie (June Bonus Round!)
 The Fire Next Time by James Baldwin (June Bonus Round!)
 The White Tiger by Aravind Adiga (July)
+Sula by Toni Morrison (August)
+Abolition Democracy by Angela Davis (September)
+Watchmen by Alan Moore, Dave Gibbons, and John Higgins (October)
 ```
 
 See also:  
@@ -193,3 +196,54 @@ This is a fiction of a servant in India who takes matters into his own hands to 
 It's uncomfortable to think what it would be like to go back now. I no longer can claim the innocence of youth. Is returning to my parent's hometowns tacitly endorsing servitude? Tacitly endorsing the caste system? Is there a way for me to stay connected with my culture without dedicating my life to ending the economic and cultural systems that animate servitude and caste and without remaining complicit in the same?
 
 Who am I to say what needs to change about India? I feel jurisdiction over American problems because I was born and brought up here. I know American history, including it's sins and virtues. Indians living in India would probably hear me out about what I think about India, but it would justifiably be easy for them to dismiss what I have to say. What do I know about India?
+
+### *Sula* by Toni Morrison (August)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2020/sula.jpg' />
+
+> "She thought of looking out of the windows of all those trains and buses, looking at the feet and backs of all those people. Nothing was every different. They were all the same. All of the words and all of the smiles, every tear and every gag just something to do." (page 147)
+
+My exceedingly pleasant new roommate, [Spencer Weinreich](https://history.princeton.edu/people/spencer-weinreich), let me borrow this short book. I thought I would fly through it. Even though I was ultimately very impressed by the book, I wouldn't consider it a page turner. The real strength of the book was the great payoff at the end. 
+
+Toni Morrison revealed enough throughout the book that, in retrospect, you realize how blindingly obvious the point of the book is. But somehow, you end up waiting until the exact moment Morrison wants you to put the pieces together before you see it. Masterfully written, Morrison shows you that she was three steps ahead of you the whole time. The book might have had some slow chapters, but when I read this line and everything clicked, I realized how well the story was presented.
+
+> "You. Sula. What's the difference? You was there. You watched, didn't you? Me, I never would've watched [...] It's awful cold in the water. Fire is warm." (page 168)
+
+### *Abolition Democracy* by Angela Davis (September)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2020/abolition_democracy.jpg' />
+
+This book was a very short set of interview questions by Eduardo Mendieta and responses by Angela Davis. The book approached the concept of abolition democracy primarily by analyzing the Abu Ghraib prison scandal. It's another one from [Spencer](https://history.princeton.edu/people/spencer-weinreich)'s vast abolitionist bookshelf (he's my exeedingly pleasant new roommate). I'm looking forward to further exploring the books he's collected as a scholar of solitary confinement (I'm looking at you, *Golden Gulag*, and *Carceral Capitalism*). In the paragraphs that follow, I've collected some of the points from *Abolition Democracy* that particularly resonated with me. 
+
+Davis cautioned against resting on the laurels of the civil rights movement. In other words, The New Jim Crow won't necessarily be overcome with the same tactics used against the old Jim Crow. This clarifies why abolition democracy encompasses more than just civil rights. She said:
+
+> "I don't think it is helpful to assume that an agenda that gets established at one point in history will forever claim success on the basis of its initial victories. It is misleading to assume that this success will be enduring, that it will survive all of the changes and mutations of the future. The civil rights movement managed to bring about enourmous political shifts, which opened doors to people previosly excluded from government, corporations, education, housing, etc. However, an exclusively civil rights approach--as even Dr. King recognized before he died--cannot by itself eliminate structural racism. [...] The assumption that the placement of black people like Colin Powell and Condolezza Rice in the heart of government would mean progress for the entire community was clearly fallacious. [...] The civil rights movement demanded access, and access has been granted to some. The challenge of the twenty-first century is not to demand equal opportunity to participate in the machinery of oppression. Rather, it is to identify and dismantle those structures in which racism continues to be embedded. This is the only way the promise of freedom can be extended to masses of people." (page 26)
+
+Davis pointed out that current US practice clearly can't be taken as the gold standard of democracy. She used the Abu Ghraib prison scandal and Bush-era foreign policy to convincingly argue that we should strive for something better (what she calls abolition democracy). She said: 
+
+> "[Colin Powell] said that the military was the most democratic institution in our society and created a framework in which people could escape the constraints of race and, we can add today, gender as well. This notion of the military as a leveling institution, one that constitutes each member as equal, is frightening and dangerous, because you must eventually arrive at the conclusion that this equality is about equal opportunity to kill, to torture, to engage in sexual coercion. At the time I found it very bizarre the Powell would point to the most hierarchal institution, with its rigid chain of command, as the epitome of democracy. Today, I would say that such a conception of democracy reveals the problems and limitations of civil rights strategies and discourses" (page 60)
+
+As an aspiring lawyer, I struggle often with identifying the role the law can and should play in abolition. Davis meditated on this theme throughout the book, which helped me explore some of my thoughts more deeply. She rightly recognized that law cannot be a panacea for structural racism. She said: 
+
+> "we need to find ways of contesting the absolute authority of law. We might phrase the following question: how do we use the law as a vehicle of progressive change, while simultaneously emphasizing the importance of acknowledging the limits of the law" (page 88)
+
+One point I really appreciated was how Davis articulated a way in which the race neutrality of our laws today may be a bug rather than a feature. She said: 
+
+> "The grand achievement of civil rights was to purge the law of its references to specific kinds of bodies, thus enabling racial equality before the law. But at the same time this prcess enabled racial inequality in the sense that the law was deprived of its capacity to acknowledge people as being racialized, as coming from racialized communities. Because the person that stands before the law is an abstract, rights-bearing subject, the law is unable to apprehend the unjust social realities in which many people live. To give a more concrete example, one that relates to the formation of the prison-industrial-complex, I would say that precisely becaues the law is unable to take into consideration those social conditions that render certain communities much more susceptible to imprisonment than others, the mechanism of formal due process justifies the racist and class character of prison populations. The law does not care whether this individual had access to good education or not, or whether he/she lives under impoverished conditions because companies in his/his communities have shut down and moved to a third world country, or whether previously availibel welfare payments have vanished. The law does not care about the conditions that lead some communities along a trajectory that makes prison inevitable." (page 89)
+
+
+
+<!-- > "I've always preferred to identify with the pan-Africanism of W. E. B. Du Bois who argued that black people in the West do have a special responsibility to Africa, Latina America, and Asia--not by virtue of a biological connection or a racial link, but by virtue of a political identification that is forged in struggle. We should be attentive to Africa not simply because this continent is populated by black people, not only because we trace our origins to Africa, but primarily because Africa has been a major target of colonialism and imperialism. What I also like about Du Bois's pan-Africanism is that it isnists on Afro-Asian solidarities. This is an important feature that has been concealed in conventional narratives of pan-Africanism. Such an apporach is not racially defined, but rather discovers its political identity in its struggles against racism." (page 25) -->
+
+<!-- > "I don't think it is helpful to assume that an agenda that gets established at one point in history will forever claim success on the basis of its initial victories. It is misleading to assume that this success will be enduring, that it will survive all of the changes and mutations of the future. The civil rights movement managed to bring about enourmous political shifts, which opened doors to people previosly excluded from government, corporations, education, housing, etc. However, an exclusively civil rights approach--as even Dr. King recognized before he died--cannot by itself eliminate structural racism. What the civil rights movement did, it seems to me, was to create a new terrain for asking new questions and moving in new directions. The assumption that the placement of black people like Colin Powell and Condolezza Rice in the heart of government would mean progress for the entire community was clearly fallacious. In this, there were no guarantees, to borrow from Stuart Hall. The civil rights movement demanded access, and access has been granted to some. The challenge of the twenty-first century is not to demand equal opportunity to participate in the machinery of oppression. Rather, it is to identify and dismantle those structures in which racism continues to be embedded. This is the only way the promise of freedom can be extended to masses of people." (page 26) -->
+
+
+
+<!-- --the limits of national law as well as international law. For example, we naturally assume that justice and equality are necessarily produced through the law. But the law cannot on its own create justice and equality. Here in the US, thirty years after the passage of what was considered unprecedented civil rights legislation, we are still plagued with many of the same problems of inequality relating to economics, race, and gender. In many instances, they are even more entrenched in the social order. There are ways in which law can successfully be taken up strategically and thus can enable popular movements and campaigns. The focus of the civil rights movement was precisely on effecting change in the prevailing laws. But at the same time, the law produced the limits of those possible changes, as we can see in the way that affirmative action legislation has, in states like California, enabled its own demise. -->
+
+<!-- Interviewer was Eduardo Mendieta.  -->
+
+### *Watchmen* by Alan Moore, Dave Gibbons, and John Higgins (October)
+
+Great Halloween book. Hoping to watch the TV series eventually. Highly recommend for a work of gripping fiction. 
+
