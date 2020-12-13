@@ -1,0 +1,201 @@
+\documentclass[12pt]{article}
+\usepackage{../resources/prediction-criticism-resources/arxiv}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\usepackage{indentfirst}
+
+
+\title{Formalizing Prediction Researchers' \\ Consideration of Interventions}
+\author{Kartikeya Kandula and Rushi Shah}
+\date{7 December 2020}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    This essay provides a critique of the prediction research community's failure to sufficiently grapple with prediction based interventions, and a suggestion for a partial remedy. We begin by motivating our criticism and introducing a set of demonstrative case studies from predictive research applied to four problem domains (genetic defect screening, criminal risk assessment, healthcare diagnoses, and family life outcomes). We then propose a worksheet for prediction researchers to use in the design phase of their research to reflect on how they can maximize  the  intentional  and  minimize  the  unintentional  downstream  consequences  of their research. Using the case studies we outlined, we justify and highlight the motivation for each question we pose. After outlining related work on research criticism, we briefly conclude.   
+\end{abstract}
+
+% TODO
+%  conclusion
+\section{Introduction}
+In 2015, Philip Rogaway issued a call to fundamentally transform the culture of cryptography \cite{crypto}. In the wake of the Snowden disclosures, he considered it a failure of the field that ordinary people ``lack even a modicum of communication privacy when interacting electronically'' while cryptographers tinker with puzzles and interesting math problems. Despite the mathematical nature of cryptography, Rogaway claims that researchers in the field have a significant social responsibility because of the inherently political nature of how cryptography is utilized.
+
+Within the field of prediction, we have reached a similar crossroads. Recent advances in machine learning have resulted in many optimistic claims about the potential of predictive models to enable valuable interventions. From domains ranging from predicting life outcomes \cite{fragilefamilies} to advertisement click through rates \cite{ads}, however, it is clear that predictive abilities currently fall well short of the hype. Even when predictive technologies are successfully implemented in interventions, they can have harmful impacts~\cite{propublica}. Unfortunately, researchers studying predictive technology often fail to grapple with how their work can enable progress and with how their work can be misused.
+
+As researchers continue using predictive modeling in various domains, it is vital that they consider the downstream impact their work may have. With the rest of this paper, we introduce a set of demonstrative case studies from predictive research applied to four problem domains (genetic defect screening, criminal risk assessment, healthcare diagnoses, and family life outcomes). We then propose a worksheet for prediction researchers to use in the design phase of their research to reflect how they can maximize the intentional and minimize the unintentional downstream consequences of their research. We then use the case studies to demonstrate the value of our proposed worksheet, and close our paper by discussing related work. 
+
+\section{Case Studies}
+    
+    We will use the following four problem domains, and the predictive research applied to each, to illustrate the claims we make in the rest of this paper. 
+
+    \subsection{Genetic Defect Screening}
+    
+        ``As advances in medical technology and genetic science increases, eugenics is making a return into the American psyche.'', according to B. De Neice Welch. Intentionally, or not, researchers creating screenings for predicting genetic defects are legitimizing the concept of neo-eugenics. This screening represents ``a soft coercion toward a eugenic bias. Should an abnormality be discovered, there is a presupposition that the pregnancy will be terminated, and some physicians will refuse to perform amniocentesis unless termination is agreed to prior to performing the test.'' \cite{welchPhD} 
+
+        Such advancing technology led Armand Marie Leroi to speculate that ``if a geneticist were able to screen a randomly chosen embryo for all known disease genes [...]  the probability of predicting an inherited disease in a randomly chosen human embryo is almost 0.4\% (Table 1). Therefore, it should be possible to predict a disease in 1 in 252 embryos.''\cite{neoeugenics} Leroi even acknowledges there are significant downstream consequences of such research, but dismisses the topic with a plea of ignorance. He says ``Some readers might find it peculiar that in this discussion of neo-eugenics, I have not considered the ethical or legal implications with which this subject is generally considered to be fraught. Although I do not doubt their importance, I simply have no particular knowledge of them.'' This cavalier attitude towards the ethical implications of neo-eugenics is representative of many scientists' negligence towards the broader impacts of their work. 
+
+    \subsection{Criminal Risk Assessment}
+    
+        Similarly, risk assessment researchers are legitimizing the criminal legal system they purportedly aim to reform. As Ben Green describes, ``by tweaking surface-level decisions and providing them with a semblance of neutrality and fairness, risk assessments are likely to sanitize, legitimize, and perpetuate the criminal justice system’s carceral and racist structure. [...] This process of legitimation can be seen most clearly with regard to preventative detention (detaining a criminal defendant before trial due to concerns about crime risk).'' \cite{falsepromise} In the American legal system, the accused are presumed innocent until proven guilty, but risk assessment technologies provide justification for incarcerating individuals before their trial. Not only does such pretrial incarceration have ``far reaching negative consequences'' from a policy perspective \cite{justicedenied}, but it also perpetuates racial inequities in the criminal legal system \cite{propublica}. Therefore, rather than reforming the criminal legal system, risk assessment research is providing quantitative legitimacy to the system's worst aspects. 
+
+    
+    \subsection{Healthcare Diagnoses}
+        In some cases, the intended intervention from a predictive model can be explicit and worthwhile to pursue and still lead to work that is flawed due to researchers not adhering to standards of the domain they are engaging with. In the evaluation of retinal fundus photographs from adults with diabetes with an algorithm based on deep machine learning, a study led by researchers at Google \cite{retinopathy} reported high sensitivity and specificity for detecting referable diabetic retinopathy. Despite these optimistic results, however, there are many elements of this study that diminish its real world clinical relevance and are emblematic of issues of prediction in the context of healthcare.
+        
+        In an attempt to replicate this study, Voets et al. \cite{replication} had to re-implement the methodology and utilize alternative sources of data because the original study did not provide source code or the data sets that were utilized. The original study used non-public fundus images for training and a separate data set for evaluation that is no longer available, forcing Voets et al. to turn to publicly available substitutes. Because of this deviation from existing reporting standards, the results achieved by the replication study did not come close to the results of the original study. The lack of reproducibility from the original Google study is not merely an isolated instance in artificial intelligence research. In another study led by Google researchers, a deep learning model was reported to outperform human experts in breast cancer prediction from mammograms \cite{breastCancer}. Critics of the study, however, assert that ``the Google team provided so little information about its code and how it was tested that the study amounted to nothing more than a promotion of proprietary tech.'' \cite{AIreplication} In a response to the study, 31 scientists posted a letter critical of the lack of reproducibility of the Google study and stated that the lack of access to code and data in prominent scientific publications may lead to unwarranted and even potentially harmful clinical trials. \cite{breastCancerCritique}
+        
+        Along with these replication issues, the  original study was not prospective and did not occur in a real world clinical environment. In spite of evidence of the superiority of actuarial methods over clinical methods \cite{actuarial}, such differences in the diagnostic environment results in comparisons of the machine learning model performance against human clinicians that are difficult to evaluate. Although this study was not meant to prove effectiveness in a clinical setting, this difference in experimental environment is representative of research into diagnostic deep learning algorithms for medical imaging and can lead to exaggerated claims of machine learning performance. This presents a risk to patient safety and population health at the societal level when such algorithms are applied to patients at scale \cite{AIvsClinicians}.
+
+    
+    \subsection{Family Life Outcomes}
+        The Fragile Families challenge showed that hundreds of researchers were unable to accurately predict six life outcomes, such as a child’s grade point average and whether a family would be evicted from their home, despite drawing on a variety of machine learning methods over a vast data set. One of the strengths of the Fragile Families Challenge paper is how clear it made the conclusions policymakers should draw. Based on the poor predictive accuracy across the board, they instructed policymakers to be hesitant to adopt such predictive techniques. They recommended that before using complex predictive models, ``policymakers determine whether the achievable level of predictive accuracy is appropriate for the setting where the predictions will be used, whether complex models are more accurate than simple models or domain experts in their setting (26–28), and whether possible improvement in predictive performance is worth the additional costs to create, test, and understand the more complex model (26).'' \cite{fragilefamilies}.
+
+        Rather than only aiming to create an accurate predictive model, the Fragile Families Challenge also aimed to understand the discipline of prediction itself. In this regard, the research methodology was particularly strong because the common task method addressed this goal well. Also, because of this explicitly-stated larger objective, it is clear to the reader why the study did not provide as much depth in analyzing potential interventions as it would have if the goal had been to simply predict life outcomes for intervention. 
+        
+        Although we recognize and respect the researcher's intentions, we still wonder what takeaways could be drawn from a similar study that was able to create a predictive model that accurately forecasts, say, a student's future GPA. We aren't sure how this prediction could be used in a realistic intervention. Of course it depends on what features the model uses, how accurate the model is, and what outcome the model successfully predicts. But even with all that information, we wonder what next steps the researchers would desire of policymakers. The Fragile Families Challenge could have addressed this alternative motivation. The authors could have provided their thoughts on what their takeaways from the study would have been if they had instead found strong indicators of predictability. 
+        
+        Although readers such as ourselves may differ from the authors in intended application of the research, the authors commendably set the readers' expectations on what the authors themselves were intending to learn from their work. Furthermore, their research methodology was well tailored to their intended impact. We believe this high quality communication of intended impact led to higher quality research, and is on the path towards what the broader community should be striving for across the board. 
+        
+\section{Worksheet Proposal}\label{best-practices}
+    With the previous case studies in mind, we suggest future researchers consider a series of concrete questions about their potential research. Answering these questions will not only prompt reflection for the researchers, it will provide a critical component of transparency for future readers about the researcher's thought processes in the design phase of their research. We are inspired partially by the concept of preregistration. Whereas preregistration helps researchers distinguish between prediction and postdiction, our recommendations help prediction researchers reflect on how to maximize the intentional and minimize the unintentional downstream consequences of their research~\cite{preregister}. 
+
+    The idealized scenario for prediction research involves a researcher identifying a problem domain in which interventions would be improved with access to more accurate predictions. The researcher selects a dataset to base their predictions on, either by using a preexisting dataset or by collecting the necessary data themselves. The researcher determines how to evaluate their predictions, and selects one or more candidate mechanisms for the actual prediction. They implement their prediction mechanism over their training dataset, and evaluate its performance on the holdout dataset. They then use these predictions to improve interventions in the problem domain, or use their insights to repeat the cycle of improving predictions for that problem domain. In this idealized scenario, our recommendations focus on the initial decision by the researcher to improve interventions in a problem domain, and the ultimate deployment of predictions for interventions in that problem domain. 
+
+    We recognize that many challenges intersect to produce weak research, and we do not envision our recommendations as a panacea for all these challenges. Our intention is far more humble: to provide a rigorous, consistent, and transparent process for researchers to reflect on the downstream impact of their predictions. To that end, we suggest researchers document their responses to the following questions, and perhaps include this documentation as an appendix to their publication: 
+
+    \begin{enumerate}
+    	\item What impact do you intend your research to have? 
+    	\item What are some of the ways the intended impact can be achieved without predictions? Why are predictions the best suited tool for this intended impact? 
+    	\item Can you anticipate any secondary consequences of your work? How could your (accurate or inaccurate) predictions be misused?
+    	\item What is the risk of harm towards marginalized communities from your research, according to those critical of this domain of work? To what extent does this study work to address these concerns?
+    	\item What are the ethical issues related to this domain of research, according to those critical of this domain of work? How will these ethical concerns impact the research design?
+    	\item To what extent have you engaged with stakeholders in this problem domain? Which stakeholders do you think are excited? Which stakeholders do you think are skeptical? For each stakeholder you've engaged with, please describe their general sentiment towards this work. 
+    	\item To what extent does the proposed work deviate from research norms in this problem domain? For each deviation, please explain what prompted this deviation?
+	\end{enumerate}
+	
+	These questions will be useless if researchers approach them as a rote chore to complete before the actual work is done. However, genuine self-reflection is a difficult process, and one that traditional computer science education does not prioritize, so guidance must be thorough. Therefore, we have tried to strike a balance between completeness and simplicity. In other words we want to ask the hard questions without coming across as intimidating, adversarial, or excessive. Because striking any balance is a deliberative process, we do not view these questions as set in stone, and we expect them to evolve over time. 
+	
+\section{Question Justification}
+
+	We will now use the case studies from before to demonstrate the value of each question we proposed. 
+
+	\subsection{``What impact do you intend your research to have?''}
+	
+		Two different genetic researchers may have different goals, which is of course fine. One may be more interested in the implications their research will have on scientific understanding of the human body. The other may be more interested in the medical applications. Our intent in asking this question is not to filter out projects that do not meet our personal definition of ``high impact''. But clarifying the intended impact will benefit both the researcher themselves in tailoring their research to that goal and benefit the reader in understanding the context under which the research was pursued. As described above, the Fragile Families Challenge was particularly successful in this regard. Committing to these intentions will also prevent the repurposing of research to fit trendy topics. 
+
+	\subsection{``What are some of the ways the intended impact can be achieved without predictions? Why are predictions the best suited tool for this intended impact?''}
+		
+		A criminal risk assessment tool for deciding which defendants should be placed in pretrial incarceration may use this space to talk about the harms of the status quo that doesn't use risk assessment but instead uses cash bail. If the criminal risk assessment researchers would like to have the intended impact of reducing the number of individuals held before their trial, this space can be used to discuss public policy approaches to the problem, such as advocating against pretrial incarceration based on the presumption of innocence before a guilty verdict is reached. This question gives researchers space to look outside their traditional domain and learn about the state of the art in other fields, which can provide multi-disciplinary depth to their work. 
+		
+		We also hope some researchers will find insight at this point that may lead them away from prediction altogether. This is best demonstrated by one of our own research projects studying pathways to far-right radicalization online. 
+
+		The internet has provided numerous platforms for users to be exposed to, consume, and share dangerous extremist political content. In our research, we are focusing on white supremacist beliefs that can range from ``alt-lite'' beliefs (such as general anti-immigration sentiment) to alt-right beliefs (such as advocacy for violent ethnic cleansing). Whereas, once upon a time, such views would be tentatively shared among small, scattered communities, the internet has provided the opportunity for such extremist beliefs to metastasize in the public consciousness. This phenomenon has galvanized white supremacist violence, and led the Department of Homeland Security to characterize white supremacist extremists as “the most persistant and lethal threat” to American safety in their 2020 Homeland Threat Assessment \cite{dhs}. 
+
+		With this in mind, we would like to quantitatively track the pathways to radicalization and the exposure to, consumption of, and sharing of far-right content through a variety of online platforms. These online platforms can range anywhere from the popular video sharing platform YouTube, to the controversial and anonymous image board 4chan, to the openly neo-Nazi disinformation outlet StormFront. We would like to learn what role each platform plays in the extremist content ecosystem. In particular: what are the comparative roles of each platform in the exposure to, consumption of, and sharing of extremist content; how is the extremist content on a platform integrated into the mainstream content on that platform; and what causes users to be exposed to the extremist content they view on a platform? Armed with this analysis, we hope policymakers and platform stakeholders will be better prepared to design interventions that curb the spread of extremist content online. 
+
+		This research could be taken in a slightly different direction, however. In order to curb white supremacist violence, you could imagine designing an online tool to track the white supremacists themselves, and predict which internet users are likely to pose violent threats to public safety. We believe that intervening at the platform level, rather than intervening at the individual level more directly addresses the root cause of the problem (the spread of extremist content itself, rather than individual cases of extremist content consumption). If asked to justify going down the predictive route, we would be forced to conclude that there are better tools for achieving our desired impact.
+
+	\subsection{``Can you anticipate any secondary consequences of your work? How could your (accurate or inaccurate) predictions be misused?''}
+	    
+	    Although a researcher may have well-defined and positive intentions for the impact of their research, they may not be able to guarantee all readers share their goals. This question can prompt them to explore such misuse of knowledge. For example, Fragile Families researchers may wonder if their predictions would be used by evil insurance companies to price discriminate against vulnerable families. When considering that the criminal legal system has been weaponized against black communities since chattel slavery~\cite{new-jim-crow}~\cite{abolition-constitutionalism}~\cite{race-after-tech}, criminal risk assessment researchers may worry that racist policymakers are not as invested in the technical ``accuracy'' of the tool as the research community may be. It is important to note, however, that we do not intend for researchers to restrict the potential misuse of their technology strictly to individuals, and hope they recognize the flawed societal structures within which their work may be used. 
+
+	\subsection{``What is the risk of harm towards marginalized communities from your research, according to those critical of this domain of work? To what extent does this study work to address these concerns?''}
+	
+		It is understandably difficult to imagine oneself as part of the problem. Instead, perhaps asking researchers to preemptively imagine what criticism might be leveled against their research will help the researchers recognize their own harmful downstream effects. 
+		
+		Viewing through a reproductive justice lens~\cite{welchPhD}, a genetic screening researcher could recognize the genetic screens they develop could be disproportionately applied to black and brown mothers for negative eugenics. Viewing through a prison abolitionist lens~\cite{prisons-obsolete}, a risk assessment researcher could recognize that risk prediction scores scientifically legitimize the deep-seated racism of the criminal legal system. Asking researchers to consider such criticism before they are deeply invested in the research may help them recognize their complicit role in oppression. 
+		
+		Of course, though, we acknowledge that being asked simple questions like these is unlikely to fundamentally shift a researcher's worldview. But in both cases, prompting the researcher to seriously weigh existing criticisms may help promote interaction between two communities that traditionally speak past each other. Furthermore, if there are tangible steps the researcher can take to mitigate these dangers, it is better for them to catch those opportunities sooner rather than later. 
+
+	\subsection{``What are the ethical issues related to this domain of research, according to those critical of this domain of work? How will these ethical concerns impact the research design?''}
+	
+		The most unnerving aspect of the neo-eugenics work by Armand Marie Leroi was his explicit refusal to engage with the acknowledged ethical dimension of his work: ``Although I do not doubt [the ethical or legal implications'] importance, I simply have no particular knowledge of them.'' \cite{neoeugenics}. Answering this question would take the researcher through the first step of having a ``particular knowledge'' of the ethical issues at stake. Again, we are not requiring the researcher to come to one conclusion over another conclusion, but we would prefer the researcher to take the ethical implications of their work seriously. 
+
+	\subsection{``To what extent have you engaged with stakeholders in this problem domain? Which stakeholders do you think are excited? Which stakeholders do you think are skeptical? For each stakeholder you've engaged with, please describe their general sentiment towards this work.''}
+	
+		Susan Athey has successfully outlined how ``methods optimized solely for prediction also do not account for other factors that may be important in data-driven policy analysis or resource allocation'' \cite{beyondprediction}. We believe stakeholders would be able to inform researchers about these factors. We recognize that engaging with stakeholders is a difficult and time consuming process, though. We hope that this question will emphasize that engaging with stakeholders may seem unnecessary or infeasible, but it will ultimately help the research achieve its intended impacts. 
+
+		This question also comes from our genuine curiosity about what policymakers thought about the idea of predicting life outcomes when the Fragile Families Challenge started. The paper discusses that policymakers value quantitative insights in general, but did not address what relevant stakeholders thought in the Fragile Families domain in particular. Even if the researchers collected this information, such insights aren't relevant to every reader, which means it doesn't belong in the main paper itself. But having this worksheet as an appendix, for example, would provide transparency for curious readers about such details.
+
+		It is important to note that we intend the researchers to interpret ``stakeholder'' broadly. Although lawyers, judges, police departments, and the public are important stakeholders in criminal risk assessments, the impact of such assessments on the prisoners themselves should not be ignored. Once again, it can seem unnecessary and unlikely for quantitative researchers to interact directly with prisoners, for example, but that would represent a fundamental shortcoming in the research. 
+
+		We recognize that, due to the logistical difficulties of engaging directly with a variety of stakeholders, it may be sufficient for researchers to consult their writings and publications instead of consulting them directly. In this case, we intend the researchers to provide their best judgement about how they expect those stakeholders to react to their research, and list what writings and publications they are basing this viewpoint on.
+
+	\subsection{``To what extent does the proposed work deviate from research norms in this problem domain? For each deviation, please explain what prompted this deviation.''}
+
+		While studies such as Dawes et al. \cite{actuarial} find that actuarial methods lead to superior prediction when compared to the judgement of domain experts, this does not provide researchers with a license to abandon the norms of the field they are attempting to contribute to or disrupt. When applying predictive models within a domain, researchers should deliberately consider all of the best practices of the domain. Additionally, researchers should make a best effort to follow these norms and, if a researcher decides to deviate from domain standards, they should elucidate their reasoning for such a decision. In the development of predictive models in the healthcare diagnoses context, for example, studies should be prospective and be conducted in a clinical setting when possible in order to prevent exaggerated claims that could present a risk to patient safety. Furthermore, standard reporting practices should be followed in order to support further scientific progress and allow for external validation of results.
+
+\section{Related Work}
+
+    In \textit{Critique and Praxis}, Bernard Harcourt describes a failure of critical philosophers to substantively engage with critical practice. He contrasts how ``Many critical philosophers today—even some of the leading critical theorists of our time—now openly resist the call to praxis'' with the ``critical voices who have stayed true to the ambition of critical praxis''~\cite{critique-and-praxis}. In the context of our paper, we are criticizing the prediction research community's focus on methods and techniques of prediction (the theory of prediction), and recommending that the field should refocus on the actual details that will affect real world interventions (the praxis of prediction). That is not to say we are suggesting all predictions get implemented as interventions. In fact, quite the opposite. We are suggesting that if researchers ``articulate a practice or program'', then the community can finally engage in a ``critical debate over our own critical practices''~\cite{critique-and-praxis}.  In other words, the epistemological focus on the technical details of prediction preempt the question of how we expect the predictions to actually change the world. 
+
+    In \textit{Data Science as Political Action}, Ben Green describes how the data science community (which includes prediction researchers) has responded to criticisms about ``the social harms associated with data-driven algorithms'' by adopting ``ethics training and principles''. He posits that such efforts are ``ill-equipped to address broad matters of social justice'', and instead explains ``why data scientists must recognize themselves as political actors'' and ``how the field can evolve toward a deliberative and rigorous grounding in a politics of social justice''~\cite{political-action}. He first addresses common defenses of data scientists about the political position of their work, then frames four stages of incorporating politics into data science: ``becoming interested in directly addressing social issues, recognizing the politics underlying these issues, redirecting existing methods toward new applications that challenge oppression, and developing practices and methods for working with communities as productive partners in movements for social justice.''~\cite{political-action}. We view the questions we pose to researchers as a jumping off point for them to explore these stages. For example, question one addresses stage one, questions four and five address stage two, and question six addresses stage four. 
+    
+    We are far from the first ones to raise concerns about predictions and their role in the ultimate interventions~\cite{armed-conflict}~\cite{interventions-over-predictions}~\cite{beyond-prediction}. 
+    
+    For example, Cederman and Weidmann describe the state of the art in predicting armed conflicts, outline some difficulties with the process, and recommend adjusting expectations of what predictions can provide as far as interventions go. They say ``Scholars producing forecasts typically assume that policymakers want predictive risk assessments more than anything else because this would allow them to reduce potential conflict through preventive resource allocation and intervention. However, these hopes presuppose that the effects of policy intervention are well known. [...] Given the difficulties of obtaining reliable information on key social indicators, especially in developing countries, basic description and explanatory modeling may, in many instances, be more urgently needed than forecasting.''~\cite{armed-conflict}. We hope that our sixth questions will prompt such scholars to engage with the policymakers they aim to serve, and we hope that our second question may prompt them to consider basic description and explanatory modeling rather than forecasting. 
+    
+    Similarly, Chelsea Barabas et al. also suggest reframing the field to prioritize \textit{Interventions over Predictions}. In the criminal risk legal system context, they ``outline key differences between regression, machine learning and causal inference in order to make the case for moving away from using regression and machine learning for intervention-oriented assessment~\cite{interventions-over-predictions}''. They ``argue that when risk assessments are used primarily as a predictive technology, they fuel harmful trends towards mass incarceration and growing inequality in the justice system.'', which follows our line of reasoning that intended and actual downstream effects of research may not line up. 
+    
+    Taking a broader view of big data applied to policy problems in general (rather than focusing on any specific context), Susan Athey goes on to point out how ``there are a number of gaps between making a prediction and making a decision, and underlying assumptions need to be understood in order to optimize data-driven decision-making.''~\cite{beyond-prediction}. This paper provides a good starting point for researchers to recognize the needs of policymakers, and we believe that engagement with stakeholders directly in a researcher's problem domain will bear further fruit. 
+
+    As discussed at the beginning of section~\ref{best-practices}, we view our work in line with that of preregistering hypotheses~\cite{preregister}. Whereas preregistration helps researchers distinguish between prediction and postdiction, our recommendations help prediction researchers reflect on how to maximize the intentional and minimize the unintentional downstream consequences of their research. Although we are recommending a worksheet of reflection questions for researchers to contemplate, we do not intend the regulation of research based on specific responses, as happened with Internal Review Boards and the National Research Act of 1974 after the publication of the Belmont Report~\cite{belmont}. 
+
+
+\section{Conclusion}
+    
+    We will conclude where we began: with Philip Rogaway's call for cryptographers (and computer scientists more generally) to reevaluate the moral character of their work. He warns ``you can ignore this landscape of power, and all political and moral dimensions of our field. But that won’t make them go away. It will just tend to make your work less relevant or socially useful.''~\cite{crypto}. In our paper, we used four case studies to demonstrate how prediction researchers can implement our recommendations to make their work more relevant and socially useful, while avoiding unintended secondary consequences. Although our recommendations are by no means a panacea to the problems we identified, we hope our worksheet provides concrete recommendations for reflective practice.  
+
+\bibliographystyle{../resources/prediction-criticism-resources/ref}  
+\bibliography{../resources/prediction-criticism-resources/references}
+
+\end{document}    
+    
+%===
+    
+    % think about downstream consequences and impact of the work (how to minimize consequences and maximize downstream impact)
+    %     there's a good work on this that does this well for neo-eugenics (ethics of eugenics)
+    %     in healthcare domain
+    %         need to be doing the study in clinical settings
+    %         formulation of research didn't align with intended downstream impact
+    %     in criminal risk assessment
+    %         needs to pay attention to criticisms of predicting individual risk
+    %         abolitionist reforms versus reformist reforms
+    
+    % need to motivate why prediction is the thing that is missing. how will that prediction be used, if it is accurate?
+    %     best case scenario? worst case scenario? expected case scenario?
+
+
+    % concrete questions
+    %     what is the intended impact / intervention? 
+    %     best case scenario towards that intended impact? worst case scenario? 
+    %         really good predictions for genetic screening -> eugenics
+    %     risk of harm towards marginalized community common to this domain, according to those critical of the work? How does this study work to address these concerns?
+    %         how do you strike balance between making people think about risks with people not taking it seriously
+    %         criminal risk
+    %         eugenics?
+    %         fragile families
+    %             structural versus individual interventions
+    %     how does this work engage with the domain it wants to impact?
+    %         what would get the researchers from healthcare recognize they need clinical trials
+    %             how are you deviating from the domain's norms? why?
+    %                 anti-innovation effects? don't need to stick with it, just need to justify it
+    %         fragile families researchers talk to policymakers to see what they need
+    %     How is the work in line with the intended impact
+    %         criminal risk assessment + decarceration?
+            
+    %     Maybe a table with each question and then explanation of our goal for that question
+    
+    % in hypothesizing responses to the form need to think about whether we are doing it from our perspective or from the perspective of the original researchers
+
