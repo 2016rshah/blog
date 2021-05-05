@@ -29,9 +29,10 @@ Americanah by Chimamanda Ngozi Adichie (December Bonus Round!)
 ```
 
 See also:  
- - [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)  
- - [(At Least) 12 Books in 12 Months - 2018](https://www.rshah.org/blog/posts/12-books-12-months-2018.html)  
- - [(At Least) 12 Books in 12 Months - 2020](https://www.rshah.org/blog/posts/12-books-12-months-2020.html)
+ - [(At Least) 12 Books in 12 Months - 2017](12-books-12-months-2017.html)  
+ - [(At Least) 12 Books in 12 Months - 2018](12-books-12-months-2018.html)  
+ - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
+ - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)
 
 ### *Things I've Been Silent About* by Azar Nafisi (January)
 

@@ -22,12 +22,14 @@ Sula by Toni Morrison (August)
 Abolition Democracy by Angela Davis (September)
 Watchmen by Alan Moore, Dave Gibbons, and John Higgins (October)
 Global Population by Alison Bashford (November)
+Beyond Survival by Ejeris Dixon and Leah Lakshmi Piepzna-Samarasinha (December)
 ```
 
 See also:  
- - [(At Least) 12 Books in 12 Months - 2017](https://www.rshah.org/blog/posts/12-books-12-months-2017.html)  
- - [(At Least) 12 Books in 12 Months - 2018](https://www.rshah.org/blog/posts/12-books-12-months-2018.html)  
- - [(At Least) 12 Books in 12 Months - 2019](https://www.rshah.org/blog/posts/12-books-12-months-2019.html)
+ - [(At Least) 12 Books in 12 Months - 2017](12-books-12-months-2017.html)  
+ - [(At Least) 12 Books in 12 Months - 2018](12-books-12-months-2018.html)  
+ - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
+ - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)
 
 ### *In Cold Blood* by Truman Capote (January)
 
@@ -291,5 +293,10 @@ On Malthusianism:
 The biologists were replying to the Washington's Science Service's question: 'How could the world's population be improved most effecctively genetically?' The scientifict respondents showed their collective left-wing hand immediately. Economic and political leveling needed to be implemented before any other kind of 'improvement' can be appropriately implemented: 'There can be no valid basis for estimating and comparing the intrinsic worth of different individuals, without economic and social conditions which provide approximately equal opportunities for all members of society instead of stratifying them from birth into classes with widely different privileges'. And the second great hindrance to world population improvement, they insisted, was ongoing racial prejudice based on unscientific doctrines that presumed good or bad genes to be the monopoly of particular peoples. That idea needed eliminating, they said. [...]  
 Their answer to how 'the world's population could be improved' was birth control. The biologists argued that the improvement of future generations required the economic security of parents, that women should be offered 'special protection' so that reproduction would not interfere with their larger social participation. It called directly for the legalization, universal dissemination, and scientific investigation of fertility regulation: volunatary temporary or permanent sterilization, contraception, abortion ('as a third line of defence'), control of fertility and the 'sexual cycle', and artificial insemination. All this would be 'always voluntary', they insisted, in what was to become the important pattern for postwar eugenics. The famous Geneticists' Manifesto, then, was also a manifesto for world-scale birth control. Indeed, given that the descriptor 'Geneticists' Manifesto' was only ever retrospectively applied, it might well be retitled the 'Malthusians' Manifesto'." (Page 262)
 
+### *Beyond Survival* by Ejeris Dixon and Leah Lakshmi Piepzna-Samarasinha (December)
 
 
+
+<hr>
+
+In retrospect: I think my favorite books this year were *Basilica* by R. A. Scotti (April), *If Beale Street Could Talk* by James Baldwin (May), *Circe* by Madeline Miller (June), *Abolition Democracy* by Angela Davis (September), *Watchmen* by Alan Moore, Dave Gibbons, and John Higgins (October), *Global Population* by Alison Bashford (November), and *Beyond Survival* by Ejeris Dixon and Leah Lakshmi Piepzna-Samarasinha (December). Here's to the books that shaped my 2020, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
