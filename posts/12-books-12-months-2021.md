@@ -127,7 +127,7 @@ Have I experienced happiness with sufficient grattitude?
 Have I endured loneliness with grace?
 ```
 
-I really didn't expect to double up on Mary Oliver poetry collections, but this book found me. When my friends and I from this summer took a weekend trip from Albuquerque to a cabin in Colorado, I asked to borrow any poetry books my friend Elisa Cibils happened to have laying around. I started *A Thousand Mornings* that Saturday morning, and finished it the next day.
+I really didn't expect to double up on Mary Oliver poetry collections, but this book found me. When my friends from this summer and I took a weekend trip from Albuquerque to a cabin in Colorado, I asked to borrow any poetry books my friend Elisa Cibils happened to have laying around. I started *A Thousand Mornings* that Saturday morning, and finished it the next day.
 
 Mary Oliver's poems have given me a really good outlet for something I've been thinking about since I read *Braiding Sweetgrass*. I can and should appreciate and nurture my love for the earth in the same way I appreciate and nurture my love for my friends, family, and romantic partners. In college, I used to feel like I should be an outdoorsy person just based on my aesthetic, but it wasn't until pretty recently that I really became an outdoorsy person who just wants nothing more than to go outside and touch grass. I aspire to have the same relationship with the world that Oliver does, and age with the same wisdom and playful spirit she did ("And I am in that delicious and important place, roaring with laughter, full of earth-praise"). 
 
