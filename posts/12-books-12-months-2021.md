@@ -135,6 +135,8 @@ Favs from this collection: *I Go Down to the Shore*; *I Happened To Be Standing*
 
 ### *Voyage Along the Horizon* by Javier Marías (July Bonus Round!)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/voyage-along-the-horizon.jpg' />
+
 Fun story: I knew *All About Love* was very overdue, and I went in to my local library on the way home from work completely ready to pay a fine for my error. As I handed the book to a librarian, I asked where I could pay my fine. They looked at me quizically, took the book, and told me I would only have to pay if it was so wildly overdue that it had gone "into collection". They confirmed I didn't actually have any fines to pay, and seemed to almost inwardly laugh at my naivete. Maybe times have changed, because I certainly remember paying fines at the library when I was a kid!
 
 Anyways, while I was at the library, I browsed a bit for a casual work of fiction to get my mind off the heavy realities of the world I was facing at work. This book was on one of the special library displays for cool writings about the Artic to help chill people out during the desert summer. This book, for example, was next to a Nordic cookbook that I leafed through. Sure, the display was a bit of a silly gimmick, but that's the kind of lovable goofiness you can expect from a local library. 
