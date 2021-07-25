@@ -15,6 +15,8 @@ See No Stranger by Valarie Kaur (May)
 A Midsummer Night's Dream by Shakespeare (June)
 All About Love by bell hooks (June Bonus Round!)
 West Wind by Mary Oliver (July)
+A Thousand Mornings by Mary Oliver (July Bonus Round!)
+Voyage Along the Horizon by Javier Marías (July Bonus Round!)
 ```
 
 See also:  
@@ -83,7 +85,7 @@ It was super short and entertaining to read! Just what I was looking for in term
 
 ### *All About Love* by bell hooks (June Bonus Round!)
 
-I picked this book up from the local library I pass everyday to and from work in Albuquerque. I had loved *See No Stranger* and wanted to read more about love as a concept. bell hooks had also been heavily cited in many of the things I've enjoyed reading, including *See No Stranger*. So when I walked into the library and saw a central display with *All About Love* by bell hooks I was like "okay I know what I'm reading next lol".
+I'm spending the summer working at a Public Defender's office in Albuquerque, New Mexico. I picked this book up from the local library I pass everyday on my walk to and from my office. I had loved *See No Stranger* and wanted to read more about love as a concept. Bell hooks had also been heavily cited in many of the things I've enjoyed reading, including *See No Stranger*. So when I walked into the library and saw a central display with *All About Love* by bell hooks I was like "okay I know what I'm reading next lol".
 
 Unfortunately, I set my expectations too high, and felt this book didn't necessarily live up to them. 
 
@@ -95,10 +97,48 @@ All said, I totally respect the place that this book deserves in the literature,
 
 ### *West Wind* by Mary Oliver (July)
 
-My first work of poetry! I have two friends (Diana Cao and Olivia Zhang) who are both much more knowledgeable about poetry than I am, but they both inspired me to learn more! First, Olivia posted a poem by an instagram account (@poetryisnotaluxury) of a Mary Oliver poem that I loved. Then I followed the account, and came across another poem I loved which also happened to be Mary Oliver. Finally, Olivia posted one more poem I loved which also happened to be Mary Oliver and I took that as a sign that I should do a bit more digging.
+```
+Have I ever said that the day was too hot or too cold 
+or the night too long and as black as oil anyway, 
+or the morning, washed blue and emptied entirely 
+   of the second-rate, less than happiness  
+  
+as I stepped down from the porch and set out along
+the green paths of the world?
+```
+
+My first work of poetry! I have two friends (Diana Cao and Olivia Zhang) who are both much more knowledgeable about poetry than I am, but they both inspired me to learn more! First, Olivia reposted a post by an instagram account (@poetryisnotaluxury) of a Mary Oliver poem (*Wild Geese*) that I loved. Then I followed the account, and came across another poem (*Moments*) that I loved, which also happened to be Mary Oliver. Finally, Olivia posted one more poem (*Don't Hesitate*) that I loved, which **also** happened to be Mary Oliver. I took that as a sign that I should do a bit more digging.
 
 I found this book of poems from the library, so that was convenient. After I was about halfway through the book, I asked Diana for advice on how to read poetry because I felt like I was just reading similarly to how I read prose, which felt wrong to me. She gave me great advice (approach the poem as a visual form of art arranged on the page before you dig into the substance!) and said she typically doesn't read poetry books cover to cover. I was enjoying it, though, and felt like I needed to read more poetry before I could form any opinions, so I went ahead and finished reading the poems over the course of June (and finished the book in early July).  
 
-(TODO go back and insert the names of the poems I liked)
+Also, fun fact, Mary Oliver is from Ohio, too!
 
-Also, fun fact, Mary Oliver is from Ohio, too! 
+Favs from this collection: *Am I Not Among the Early Risers*; *Spring*; and *Have You Ever Tried to Enter the Long Black Branches*.
+
+### *A Thousand Mornings* by Mary Oliver (July Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/a-thousand-mornings.jpg' />
+```
+Have I lived enough?
+Have I loved enough?
+Have I considered Right Action enough, have I
+  come to any conclusion?
+Have I experienced happiness with sufficient grattitude?
+Have I endured loneliness with grace?
+```
+
+I really didn't expect to double up on Mary Oliver poetry collections, but this book found me. When my friends and I from this summer took a weekend trip from Albuquerque to a cabin in Colorado, I asked to borrow any poetry books my friend Elisa Cibils happened to have laying around. I started *A Thousand Mornings* that Saturday morning, and finished it the next day.
+
+Mary Oliver's poems have given me a really good outlet for something I've been thinking about since I read *Braiding Sweetgrass*. I can and should appreciate and nurture my love for the earth in the same way I appreciate and nurture my love for my friends, family, and romantic partners. In college, I used to feel like I should be an outdoorsy person just based on my aesthetic, but it wasn't until pretty recently that I really became an outdoorsy person who just wants nothing more than to go outside and touch grass. I aspire to have the same relationship with the world that Oliver does, and age with the same wisdom and playful spirit she did ("And I am in that delicious and important place, roaring with laughter, full of earth-praise"). 
+
+Favs from this collection: *I Go Down to the Shore*; *I Happened To Be Standing*; *Foolishness? No, It's Not*; *The Gardener*; and *The Man Who Has Many Answers*. 
+
+### *Voyage Along the Horizon* by Javier Marías (July Bonus Round!)
+
+Fun story: I knew *All About Love* was very overdue, and I went in to my local library on the way home from work completely ready to pay a fine for my error. As I handed the book to a librarian, I asked where I could pay my fine. They looked at me quizically, took the book, and told me I would only have to pay if it was so wildly overdue that it had gone "into collection". They confirmed I didn't actually have any fines to pay, and seemed to almost inwardly laugh at my naivete. Maybe times have changed, because I certainly remember paying fines at the library when I was a kid!
+
+Anyways, while I was at the library, I browsed a bit for a casual work of fiction to get my mind off the heavy realities of the world I was facing at work. This book was on one of the special library displays for cool writings about the Artic to help chill people out during the desert summer. This book, for example, was next to a Nordic cookbook that I leafed through. Sure, the display was a bit of a silly gimmick, but that's the kind of lovable goofiness you can expect from a local library. 
+
+Perhaps this is a spoiler, but the book was a work of fiction about an ocean expedition during the early 1900s that was ostensibly bound for Antartica, but that never even reaches any further south than Tangiers. So perhaps it was not perfectly categorized in the library display, but I respect the vision the librarians were going for. 
+
+I wasn't super impressed by the book overall, so I wouldn't really recommend it. No complaints or anything (it was at least entertaining enough to finish), but nothing spectacular either. 
