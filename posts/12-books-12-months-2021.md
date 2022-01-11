@@ -17,6 +17,11 @@ All About Love by bell hooks (June Bonus Round!)
 West Wind by Mary Oliver (July)
 A Thousand Mornings by Mary Oliver (July Bonus Round!)
 Voyage Along the Horizon by Javier Marías (July Bonus Round!)
+The Solace of Open Spaces by Gretel Ehrlich (August)
+What The Living Do by Marie Howe (September)
+Gulf Coast Journal of Literature and Fine Arts Vol. 34.1 (October)
+The Argonauts by Maggie Nelson (November)
+Incarnadine by Mary Szybist (December)
 ```
 
 See also:  
@@ -85,6 +90,8 @@ It was super short and entertaining to read! Just what I was looking for in term
 
 ### *All About Love* by bell hooks (June Bonus Round!)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/all-about-love.jpg' />
+
 I'm spending the summer working at a Public Defender's office in Albuquerque, New Mexico. I picked this book up from the local library I pass everyday on my walk to and from my office. I had loved *See No Stranger* and wanted to read more about love as a concept. Bell hooks had also been heavily cited in many of the things I've enjoyed reading, including *See No Stranger*. So when I walked into the library and saw a central display with *All About Love* by bell hooks I was like "okay I know what I'm reading next lol".
 
 Unfortunately, I set my expectations too high, and felt this book didn't necessarily live up to them. 
@@ -113,7 +120,7 @@ I found this book of poems from the library, so that was convenient. After I was
 
 Also, fun fact, Mary Oliver is from Ohio, too!
 
-Favs from this collection: *Am I Not Among the Early Risers*; *Spring*; and *Have You Ever Tried to Enter the Long Black Branches*.
+Favs from this collection: \**Am I Not Among the Early Risers*\*; *Spring*; and *Have You Ever Tried to Enter the Long Black Branches*.
 
 ### *A Thousand Mornings* by Mary Oliver (July Bonus Round!)
 
@@ -131,7 +138,7 @@ I really didn't expect to double up on Mary Oliver poetry collections, but this 
 
 Mary Oliver's poems have given me a really good outlet for something I've been thinking about since I read *Braiding Sweetgrass*. I can and should appreciate and nurture my love for the earth in the same way I appreciate and nurture my love for my friends, family, and romantic partners. In college, I used to feel like I should be an outdoorsy person just based on my aesthetic, but it wasn't until pretty recently that I really became an outdoorsy person who just wants nothing more than to go outside and touch grass. I aspire to have the same relationship with the world that Oliver does, and age with the same wisdom and playful spirit she did ("And I am in that delicious and important place, roaring with laughter, full of earth-praise"). 
 
-Favs from this collection: *I Go Down to the Shore*; *I Happened To Be Standing*; *Foolishness? No, It's Not*; *The Gardener*; and *The Man Who Has Many Answers*. 
+Favs from this collection: *I Go Down to the Shore*; *I Happened To Be Standing*; *Foolishness? No, It's Not*; \**The Gardener*\*; and *The Man Who Has Many Answers*. 
 
 ### *Voyage Along the Horizon* by Javier Marías (July Bonus Round!)
 
@@ -144,3 +151,132 @@ Anyways, while I was at the library, I browsed a bit for a casual work of fictio
 Perhaps this is a spoiler, but the book was a work of fiction about an ocean expedition during the early 1900s that was ostensibly bound for Antartica, but that never even reaches any further south than Tangiers. So perhaps it was not perfectly categorized in the library display, but I respect the vision the librarians were going for. 
 
 I wasn't super impressed by the book overall, so I wouldn't really recommend it. No complaints or anything (it was at least entertaining enough to finish), but nothing spectacular either. 
+
+### *The Solace of Open Spaces* by Gretel Ehrlich (August)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/solace-of-open-places.jpg' />
+
+The day I was supposed to leave New Mexico at the end of summer, my flight got rescheduled from the beginning to the end of the day. Luckily, my kind friend (and co-worker!) Claire Cooley was in the area and picked me up to hang out in a coffee shop with her for the rest of the day. I wandered over to a used bookstore near the University of New Mexico (Organic Books!) in search of something to read on my upcoming vacation. 
+
+This summer in New Mexico had really contrasted my summer in Tokyo in 2018. I still spent a lot of time alone, but I found that this time around I quite enjoyed it. Rather than feeling sorry for myself in my loneliness, I successfully cultivated a healthy balance of introversion and got energy from the time I spent with myself. So this book seemed like a good capstone for my summer.
+
+The memoir is about the author's time as a shepard in Wyoming: a meditation on wilderness. I regrettably waited until the end of the year to write this reflection, so I can't remember many details. There was something about the author's partner passing away? But I really enjoyed the book! 
+
+### *What The Living Do* by Marie Howe (September)
+
+```
+I have begun,
+when I'm weary and can't decide an answer to a bewildering question
+
+to ask my dead friends for their opinion
+and the answer is often immediate and clear.
+
+Should I take the job? Move to the city? Should I try to conceive a child 
+in my middle age?
+
+They stand in unison shaking their heads and smiling--whatever leads
+to joy, they always answer,
+
+to more life and less worry.
+```
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/what-the-living-do.jpg' />
+
+I borrowed this book of poetry from my whimsical and worldly friend Diana Cao. I asked her what would be similar to Mary Oliver, and perused her bookshelf. 
+
+As I began my first semester of law school, I realized I could not spend all day reading for my classes and then sit down to read more leisure prose. But poetry solved this problem for me, because it didn't feel like the same type of reading! I really liked this collection, even though it covered heavier topics than what I had read thus far. 
+
+Favs from this collection: *The Bird*; \**My Dead Friends*\*; and *What the Living Do*. 
+
+### *Gulf Coast Journal of Literature and Fine Arts* Vol. 34.1 (October)
+
+```
+	In the catalog of Days, I can identify all the moments 
+I was in love. Like Day 67 of 15,809 with N--I looked at him 
+in a cold sweat, after he said, "Try the octopus", and only after 
+the tentacle squiggled in my mouth, and I tasted nothing but 
+pure predatory instinct like fear, back-of-the-throat sour, only 
+after I began to swallow, N said, "Make sure you chew 
+thoroughly, or it might stick". I wanted to throttle him on Day 67 
+and didn't. 
+```
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/gulf-coast.jpg' />
+
+This late in our friendship, I learned that Diana Cao is, like, actually a poet! She has two works published in this journal: one is *Appendix*, quoted above, and the second is *Glossalia*. Anyways, when I returned *What the Living Do*, I took another stab at her bookshelf and borrowed this journal, and the next two books in this list. Rather than reading it cover to cover, I leafed through the journal randomly all throughout the semester. 
+
+I really like the journal, as opposed to a collection of works by one poet, because it is giving me an opportunity to see a variety of types of poetry to find my own sense of taste. I've realized I gravitate towards poems that are very concrete, so I'm going to work on expanding my palette to appreciating more abstract poems too. 
+
+And the journal has essays and short fictions along with poems. For example, I found the essay about "bad art" to be really inspiring (*Make it Bad. Make it Often*). 
+
+> "When we make bad art, we are not always trying to make good art and we are not always left feeling the call to do better. We may, in fact, be satisfied--nay elated--upon the completion of something truly bad."
+
+Overall, the breadth was awesome, and it was so nice to have a curated set of digestible pieces I could read even when I didn't have a lot of energy/attention to spare. Great book to have just lying around to pick up whenever fancy strikes.  
+
+Favs from this collection: *I have too many tabs open on my laptop \& the world is ending*; *Make it Bad. Make it Often*; *Imitation Games*; \**Appendix*\*; *The Idea of a Meadow*.
+
+### *The Argonauts* by Maggie Nelson (November)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/argonauts.jpg' />
+
+One major theme of the book was the author's relationship with her partner. He's a trans man who undergoes parts of his transition throughout their relationship, such as starting testosterone (T). Another major theme of this book was the author's pregnancy and birthing of a child. This themes were pleasantly out of my comfort zone, so reading the book gave me the opportunity to think about topics that had never crossed my mind before. 
+
+Once again, the prose is organized into short, stream-of-conscience style nuggets of thought that ultimately coalesce into a cohesive whole. This really helped differentiate it from the prose of my class readings, so I could read for leisure even on days with a lot of class readings. 
+
+Nelson did a really impressive job of seamlessly integrating theory (Judith Butler, Eve Kosofsky Sedgwick, Donald Winnicott) and personal experience. So I guess I would call it a memoir with the caveat that it is an extremely well researched memoir by an individual who clearly integrates theory into her own thought processes. 
+
+As with *Citizen: An American Lyric* by Claudia Rankine from January 2019, this book defies characterization. As I said in that reflection, the work pushes genre boundaries as manifested by Virginia Woolf's *A Room of One's Own*, which posits that non-men can, should, and will continue to carve out their own space in the field of writing to more closely reflect their lived experiences. This book did that through both style (stream-of-conscience style nuggets of thought) and substance (theory and personal experience). 
+
+
+### *Incarnadine* by Mary Szybist (December)
+
+>***Update on Mary***  
+...  
+When people say "Mary," Mary still thinks *Holy Virgin! Holy Heavenly Mother!* But Mary knows she is not any of those things  
+...  
+Mary secretly thinks she is pretty and therefore deserves to be loved.  
+Mary tells herself that if only she could have a child she could carry around like an extra lung, the emptiness inside her would stop gnawing.  
+It's hard to tell if she believes this.  
+Mary believes she is a sincere and serious person, but she does not even try to pray.  
+Some afternoons Mary pretends to read a book, but mostly she watches the patterns of sunlight through the curtains.  
+...  
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/incarnadine.jpg' />
+
+One of my favorite poems from this collection, *Update on Mary* (quoted above), is cool because the author's name is Mary, it references the religious Marys, and yet it could also just describe an ordinary, random person named Mary. Reading the poem, I like to imagine how it describes all such Marys and how the meaning of the verses changes based on who the reader is imagining as the eponymous Mary. When reading it as if it is one of the religous Marys, it is fun to imagine that the poem is actually about an updated, modern-day Mary, and how the mother of Christ could just be a random person. 
+
+More of the same--reading poetry this month for leisure because class readings are all prose. 
+
+Favs from this collection: \**Update on Mary*\*; *Too Many Pigeons to Count and One Dove*; *To You Again*; *Happy Ideas*; *Here, There Are Blueberries*.
+
+<hr>
+
+In retrospect: I think my favorite books this year were *Braiding Sweetgrass* by Robin Wall Kimmerer (March), *See No Stranger* by Valarie Kaur (May), and *West Wind* by Mary Oliver (July). Here's to the books that shaped my 2021, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+
+<!-- ### *The F-Word* Spring 2021 (December)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/the-f-word.jpg' />
+
+*Inspired by Jenny Slate, In Parts* by Rachel Dennis
+
+*Mother of Misunderstandings* by Fayyaz Vellani
+
+
+*Tenderloin* by Sophia DuRose
+
+*I Know You Are (But What Am I?)* by Elysia Baskins
+
+*Female Gaze* by Kelly Huang
+
+*Cosmic Asymmetry* by Elysia Baskins
+
+*Compensatory Damages* by Sophia DuRose
+
+*growing pains* by Emily Campbell
+
+
+
+Artwork
+*In Bloom* by Alyssa Sliwa (cover art)
+*The Victim* by Alyssa Sliwa (medusa looks afraid, not angry)
+*Feast on Thyself* by Diane Lin (spooky) -->
