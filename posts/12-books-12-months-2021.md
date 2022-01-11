@@ -203,7 +203,7 @@ and didn't.
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/gulf-coast.jpg' />
 
-This late in our friendship, I learned that Diana Cao is, like, actually a poet! She has two works published in this journal: one is *Appendix*, quoted above, and the second is *Glossalia*. Anyways, when I returned *What the Living Do*, I took another stab at her bookshelf and borrowed this journal, and the next two books in this list. Rather than reading it cover to cover, I leafed through the journal randomly all throughout the semester. 
+This late in our friendship, I learned that Diana Cao is, like, actually a poet! She has two works published in this journal: one is *Appendix*, quoted above, and the second is *Glossalia*. Anyways, when I returned *What the Living Do*, I took another stab at her bookshelf and borrowed this journal, and the next two books in this list. Rather than reading it cover to cover, I leafed through the journal randomly all throughout the semester. I also liked it so much I purchased my own copy of the journal to keep so I can highlight, dog ear, and write in the margins to my heart's content!
 
 I really like the journal, as opposed to a collection of works by one poet, because it is giving me an opportunity to see a variety of types of poetry to find my own sense of taste. I've realized I gravitate towards poems that are very concrete, so I'm going to work on expanding my palette to appreciating more abstract poems too. 
 
@@ -217,7 +217,7 @@ Favs from this collection: *I have too many tabs open on my laptop \& the world 
 
 ### *The Argonauts* by Maggie Nelson (November)
 
-<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/argonauts.jpg' />
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/argonauts.jpg' /> 
 
 One major theme of the book was the author's relationship with her partner. He's a trans man who undergoes parts of his transition throughout their relationship, such as starting testosterone (T). Another major theme of this book was the author's pregnancy and birthing of a child. This themes were pleasantly out of my comfort zone, so reading the book gave me the opportunity to think about topics that had never crossed my mind before. 
 
@@ -227,6 +227,7 @@ Nelson did a really impressive job of seamlessly integrating theory (Judith Butl
 
 As with *Citizen: An American Lyric* by Claudia Rankine from January 2019, this book defies characterization. As I said in that reflection, the work pushes genre boundaries as manifested by Virginia Woolf's *A Room of One's Own*, which posits that non-men can, should, and will continue to carve out their own space in the field of writing to more closely reflect their lived experiences. This book did that through both style (stream-of-conscience style nuggets of thought) and substance (theory and personal experience). 
 
+This was another book I borrowed from Diana Cao's bountiful personal library!
 
 ### *Incarnadine* by Mary Szybist (December)
 
@@ -245,7 +246,7 @@ Some afternoons Mary pretends to read a book, but mostly she watches the pattern
 
 One of my favorite poems from this collection, *Update on Mary* (quoted above), is cool because the author's name is Mary, it references the religious Marys, and yet it could also just describe an ordinary, random person named Mary. Reading the poem, I like to imagine how it describes all such Marys and how the meaning of the verses changes based on who the reader is imagining as the eponymous Mary. When reading it as if it is one of the religous Marys, it is fun to imagine that the poem is actually about an updated, modern-day Mary, and how the mother of Christ could just be a random person. 
 
-More of the same--reading poetry this month for leisure because class readings are all prose. 
+Another one off Diana Cao's bookshelf! More of the same--reading poetry this month for leisure because class readings are all prose. 
 
 Favs from this collection: \**Update on Mary*\*; *Too Many Pigeons to Count and One Dove*; *To You Again*; *Happy Ideas*; *Here, There Are Blueberries*.
 
