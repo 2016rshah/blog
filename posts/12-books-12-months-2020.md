@@ -29,7 +29,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2017](12-books-12-months-2017.html)  
  - [(At Least) 12 Books in 12 Months - 2018](12-books-12-months-2018.html)  
  - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
- - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)
+ - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
+ - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2022.html)
 
 ### *In Cold Blood* by Truman Capote (January)
 

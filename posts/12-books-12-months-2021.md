@@ -28,7 +28,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2017](12-books-12-months-2017.html)  
  - [(At Least) 12 Books in 12 Months - 2018](12-books-12-months-2018.html)  
  - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
- - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)
+ - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html) 
+ - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)
 
 ### *Clap When You Land* by Elizabeth Acevedo (January)
 
@@ -213,7 +214,9 @@ And the journal has essays and short fictions along with poems. For example, I f
 
 Overall, the breadth was awesome, and it was so nice to have a curated set of digestible pieces I could read even when I didn't have a lot of energy/attention to spare. Great book to have just lying around to pick up whenever fancy strikes.  
 
-Favs from this collection: *I have too many tabs open on my laptop \& the world is ending*; *Make it Bad. Make it Often*; *Imitation Games*; \**Appendix*\*; *The Idea of a Meadow*.
+Favs from this collection: *I have too many tabs open on my laptop \& the world is ending* by Allison Titus; *Make it Bad. Make it Often*; *Imitation Games*; \**Appendix*\* by Diana Cao; and *The Idea of a Meadow* by Elisa Gabbert.
+
+<!-- TODO: authors for fav pieces -->
 
 ### *The Argonauts* by Maggie Nelson (November)
 
@@ -254,30 +257,3 @@ Favs from this collection: \**Update on Mary*\*; *Too Many Pigeons to Count and 
 
 In retrospect: I think my favorite books this year were *Braiding Sweetgrass* by Robin Wall Kimmerer (March), *See No Stranger* by Valarie Kaur (May), and *West Wind* by Mary Oliver (July). Here's to the books that shaped my 2021, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
 
-<!-- ### *The F-Word* Spring 2021 (December)
-
-<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2021/the-f-word.jpg' />
-
-*Inspired by Jenny Slate, In Parts* by Rachel Dennis
-
-*Mother of Misunderstandings* by Fayyaz Vellani
-
-
-*Tenderloin* by Sophia DuRose
-
-*I Know You Are (But What Am I?)* by Elysia Baskins
-
-*Female Gaze* by Kelly Huang
-
-*Cosmic Asymmetry* by Elysia Baskins
-
-*Compensatory Damages* by Sophia DuRose
-
-*growing pains* by Emily Campbell
-
-
-
-Artwork
-*In Bloom* by Alyssa Sliwa (cover art)
-*The Victim* by Alyssa Sliwa (medusa looks afraid, not angry)
-*Feast on Thyself* by Diane Lin (spooky) -->
