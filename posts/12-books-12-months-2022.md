@@ -189,5 +189,5 @@ I read a lot this year that I don't know how to include in this blog post becaus
 
 <hr>
 
-In retrospect: I think my favorite books this year were *Braiding Sweetgrass* by Robin Wall Kimmerer (March), *See No Stranger* by Valarie Kaur (May), and *West Wind* by Mary Oliver (July). Here's to the books that shaped my 2021, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+In retrospect: I think my favorite books this year were TODO
 
