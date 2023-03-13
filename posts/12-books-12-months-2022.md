@@ -25,10 +25,11 @@ Parachutes Could Carry Us Higher by Hallmark Editions (August)
 On Anarchism by Noam Chomsky (August Bonus Round!)
 We Rose Up Slowly by Jon Gresham (August Bonus Round!)
 The Tradition by Jericho Brown (September)
-Travesuras de la nina mala by Mario Vargas Llosa (October)
+Travesuras de la Niña Mala by Mario Vargas Llosa (October)
 The Hurting Kind by Ada Limón (October (ish) Bonus Round!)
 Blue Earth Review (November)
 Great Exodus, Great Wall, Great Party by Chessy Normile (December)
+My Salinger Year by Joanna Rakoff (December Bonus Round!)
 ```
 
 See also:  
@@ -104,6 +105,8 @@ Found this book of poetry at my local library and read it all in one sitting. It
 
 ### *The Palace of Illusions* by Chitra Banerjee Divakaruni (June)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2022/palace-of-illusions.jpg' />
+
 Went to a local bookstore (McNally Jackson) next door to my internship looking for a book like Circe because that's what I was in the mood for. Stumbled across this book, which was a similar idea: a retelling of ancient mythology from the female character's perspective. Instead of Greek mythology, though, this book was about Hindu mythology. This book told the Mahabharat from Paanchali/Draupadi's perspective. 
 
 It was really good! Because my family is Jain, and I grew up far away from any sizable Indian community, I had never really gotten a good sense of the Hindu mythologies (Mahabharat and Ramayana). This book was a really cool overview of the story, and I feel much more familiar with the storyline and characters after having read it! This is exactly the level of familiarity I was looking for right now: not rigorous study of the religion, but at least a passing familiarity with the fables in the same way I have a general sense of Christianity, Greco-Roman theology, etc. This book fits in a theme with The Alchemist by Paolo Coehlo and Circe by Madeline Miller.  
@@ -137,7 +140,7 @@ I enjoyed The Palace of Illusions from June so much that I sought out the comple
 
 Personally, I like this story less than the Palace of Illusions, but I think it is written more skillfully. 
 
-While seeking out this book, I realized I have actually read other books by the same author when I was a kid! I read two of her earlier books: The Conch Bearer and TODO. I remember them being interesting when I was a kid, but I think the two books I have read more recently are more relevant for a broader audience. 
+While seeking out this book, I realized I have actually read other books by the same author when I was a kid! I read two of her earlier books: *The Conch Bearer* and *The Mirror of Fire and Dreaming*. I remember them being interesting when I was a kid, but I think the two books I have read more recently are more relevant for a broader audience. 
 
 ### *Parachutes Could Carry Us Higher* by Hallmark Editions (August)
 
@@ -148,6 +151,8 @@ Some poems I liked from this collection:
 TODO
 
 ### *On Anarchism* by Noam Chomsky (August Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2022/on-anarchism.jpg' />
 
 I traveled to Costa Rica for two and a half weeks after my internship ended to learn spanish and to learn how to surf. My daily schedule was the dream: I would spend four hours in Spanish classes in the morning, eat lunch, spend two hours surfing, and then just hang out for the rest of the day. On this trip, I stayed at one very dreamy hostel called Botella de Leche, and found this book on the bookshelf! 
 
@@ -167,27 +172,53 @@ The stories were entertaining enough for me to finish the book in one fell swoop
 
 Found this book of poetry from Raven books, a local used book store! Some poems I liked from this collection: Foreday in the Morning (pg. 14); Bullet Points (pgs. 16-17); Shovel (pgs. 36-37).  
 
-### *Travesuras de la nina mala* by Mario Vargas Llosa (October)
+### *Travesuras de la Niña Mala* by Mario Vargas Llosa (October)
 
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2022/travesuras.jpg' />
+
+Okay so this was a big one for me. You may remember in June and July of 2017 I read another book by this author. That book had been a double biography translated from the author's original Spanish into French, and I had found it on a hostel bookshelf while traveling in Spain with my sister. It remains, to this day, the book that I am the most proud of having read. It was so big and so intimidating and in such a foreign language. But when I finished it, I felt like I had accomplished something. I had proved to myself that I could slowly but surely make my way through any piece of reading, and I had learned a lot of French along the way! That book is the reason I'm still conversational in French seven years after learning it in high school. At the time, though, I had already had my eyes on learning Spanish next, and I regretted reading a *translation* of this author's work. 
+
+So imagine my surprise when I found this book! It's a soap opera in the author's original Spanish that I found on a hostel bookshelf while traveling in Costa Rica to learn Spanish! I was now much more confident in my ability to read a book like this, and it had much more simple concepts to grasp because it was so heavily plot-driven. Reading it definitely jet started my Spanish skills, but i still have a long way to go. I'm looking forward to the journey! 
+
+Finally, a word on the book. It was hilarious. It follows two Peruvian lovers -- la niña mala (the bad girl), and el niño bueno (the good boy) -- over the course of their entire lives and across three continents. Without giving away too many spoilers, they find themselves in a repeated pattern where she will marry a rich man, they will have a secret affair, she will abandon both men to disappear to a foreign land, and in the beginning of the next chapter they will find themselves in the same city for the process to repeat. 
+
+I loved this passage in particular:
+
+```
 TODO
+```
 
 ### *The Hurting Kind* by Ada Limón (October (ish) Bonus Round!)
 
-Borrowed this book from Diana! It is organized in seasons, so I am reading the Fall poems in the fall, the Winter poems in the winter, and so on. Some poems I have liked from this collection so far: Lover (pg. 77); Hooky (pg. 65). 
+Borrowed this book from Diana! It is organized in seasons, so I am reading the Fall poems in the fall, the Winter poems in the winter, and so on. 
 
-### *Blue Earth Review* (November)
+A note from the following spring: this collection has really grown on me as the seasons go by! I knew how popular Ada Limón was and I felt that I wasn't getting as much out of the poems as other people seemed to. One thing that didn't click for me at first was that I felt all the poems were a tad too sad. But two things changed: first, I read some truly pessimistic poems in *These Trees, Those Leaves, This Flower, That Fruit* that juxtaposed sharply, and second, I found myself returning fondly to poems I had read before when I sat down to read new ones. 
 
-TODO
+Some poems I have liked from this collection: *Lover* (pg. 77); *Hooky* (pg. 65); *The Hurting Kind* (pg. 78); *And, Too, the Fox* (pg. TODO). 
+
+### *Blue Earth Review* Spring 2022 (November)
+
+Borrowed this book from a poet and my friend Juliana Chang! Her piece is *Artemis contemplates the catcall*. I also really like *A Crock of Onion* by Holly Bergman (pg. 79). The entire collection was very short so I was able to read it cover to cover on my flight to Thanksgiving.
 
 ### *Great Exodus, Great Wall, Great Party* by Chessy Normile (December)
 
+This was another book I borrowed from Juliana. I've already returned it and I forgot to note which poems I had liked. 
+
+### *My Salinger Year* by Joanna Rakoff (December Bonus Round!)
+
+<img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2022/salinger-year.jpg' />
+
 TODO
 
-### A personal note
+### A personal note // miscellaneous
 
-I read a lot this year that I don't know how to include in this blog post because it doesn't qualify as reading a book from cover to cover. I feel like reading shaped my life this year just as it does every year. But I feel like not all of those pieces are reflected here. For example: some of the most influential pieces I read this year were in my Feminist Legal Theory class where the professor excerpted the most relevant pieces for us from larger works. I think that is fine, but just wanted to flag that this list feels incomplete as I look over it. 
+I read a lot this year that I don't know how to include in this blog post because it doesn't qualify as reading a book from cover to cover. I feel like reading shaped my life this year just as it does every year. But I feel like not all of those pieces are reflected here. For example: some of the most influential pieces I read this year were in my Feminist Legal Theory class where the professor excerpted the most relevant pieces for us from larger works. I think that is fine, but just wanted to flag that this list feels incomplete as I look over it. Some additional pieces I liked include:
+
+- *If I Had Three Lives* by Sarah Russell
+- *Memoir* by Safia Elhillo in *Girls That Never Die*
+- *Ode to My Homegirls* by Safia Elhillo in *Girls That Never Die*
 
 <hr>
 
-In retrospect: I think my favorite books this year were TODO
+In retrospect: I think my favorite books this year were The Vegetarian by Han Kang; The Palace of Illusions by Chitra Banerjee Divakaruni; On Anarchism by Noam Chomsky; Travesuras de la Niña Mala by Mario Vargas Llosa; and The Hurting Kind by Ada Limón. Here's to the books that shaped my 2022, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
 
