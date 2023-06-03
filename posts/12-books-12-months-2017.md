@@ -32,7 +32,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
- - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)
+ - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)  
+ - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)
 
 ### *Anna Karenina* by Leo Tolstoy (January)
 

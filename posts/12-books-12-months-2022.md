@@ -37,7 +37,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2018](12-books-12-months-2018.html)  
  - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
- - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)
+ - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
+ - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)
 
 
 ### *The F-Word* Spring 2021 Volume (January)
@@ -185,7 +186,10 @@ Finally, a word on the book. It was hilarious. It follows two Peruvian lovers --
 I loved this passage in particular:
 
 ```
-TODO
+ - ¿Y si el dinero no fuera la felicidad, niña mala? 
+ - Felicidad, no sé ni me importa lo que es, Ricardito. De lo que sí estoy segura es que no es esa cosa romántica y huachafa que es para ti. El dinero da segurdiad, te defiende, te permite gozar a fondo de la vida sin preocuparte por el mañana. La única felicidad que se puede tocar. 
+Se me quedó mirando, con esa expresión fría que se agudizaba a veces de manera extraña y parecía congelar la vida a su alrededor. 
+ - Tú eres buena gente, pero tienes un terrible defecto: tu falta de ambición. Estás contento con lo que has conseguido, ¿no? Pero eso es nada, niño bueno. Por eso no podría ser tu mujer. Yo nunca estaré contenta con lo que tenga. Siempre querré más. 
 ```
 
 ### *The Hurting Kind* by Ada Limón (October (ish) Bonus Round!)
@@ -194,7 +198,7 @@ Borrowed this book from Diana! It is organized in seasons, so I am reading the F
 
 A note from the following spring: this collection has really grown on me as the seasons go by! I knew how popular Ada Limón was and I felt that I wasn't getting as much out of the poems as other people seemed to. One thing that didn't click for me at first was that I felt all the poems were a tad too sad. But two things changed: first, I read some truly pessimistic poems in *These Trees, Those Leaves, This Flower, That Fruit* that juxtaposed sharply, and second, I found myself returning fondly to poems I had read before when I sat down to read new ones. 
 
-Some poems I have liked from this collection: *Lover* (pg. 77); *Hooky* (pg. 65); *The Hurting Kind* (pg. 78); *And, Too, the Fox* (pg. TODO). 
+Some poems I have liked from this collection: *Lover* (pg. 77); *Hooky* (pg. 65); *The Hurting Kind* (pg. 78); *And, Too, the Fox* (pg. TODO); *A Good Story* (pg. TODO); *Give Me This* (pg. TODO). 
 
 ### *Blue Earth Review* Spring 2022 (November)
 
@@ -208,14 +212,16 @@ This was another book I borrowed from Juliana. I've already returned it and I fo
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2022/salinger-year.jpg' />
 
-TODO
+Saw this book at the library when I was studying for finals! It stood out on the shelf for a handful of reasons. First, the spine of the book looks like the trans flag (baby pink and blue stripes). Second, as embarassing as this is to admit, I actually really did like reading the Catcher in the Rye, which I have read a few times in my life. Third, the author's last name is the same as one of my favorite professors at HLS; conincidences like that are always suspicious in a place like Cambridge, MA, but I have not yet been able to find a relation through my sleuthing. 
+
+Anyways, good, entertaining, quick read. Showed a pretty interesting insight into the world of publishing, which was fun to discuss with Diana. 
 
 ### A personal note // miscellaneous
 
 I read a lot this year that I don't know how to include in this blog post because it doesn't qualify as reading a book from cover to cover. I feel like reading shaped my life this year just as it does every year. But I feel like not all of those pieces are reflected here. For example: some of the most influential pieces I read this year were in my Feminist Legal Theory class where the professor excerpted the most relevant pieces for us from larger works. I think that is fine, but just wanted to flag that this list feels incomplete as I look over it. Some additional pieces I liked include:
 
-- *If I Had Three Lives* by Sarah Russell
-- *Memoir* by Safia Elhillo in *Girls That Never Die*
+- *If I Had Three Lives* by Sarah Russell  
+- *Memoir* by Safia Elhillo in *Girls That Never Die*  
 - *Ode to My Homegirls* by Safia Elhillo in *Girls That Never Die*
 
 <hr>
