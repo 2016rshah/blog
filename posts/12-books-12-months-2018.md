@@ -36,7 +36,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
  - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)  
- - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)
+ - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)  
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)
 
 ### *The Importance of Being Earnest* by Oscar Wilde (January)
 

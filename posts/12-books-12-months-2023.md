@@ -30,6 +30,12 @@ Customs by Solmaz Sharif (September Bonus Round!)
 A Visit from the Goon Squad by Jennifer Egan (October)
 I Do Everything I'm Told by Megan Fernandes (October Bonus Round!)
 The Secret History by Donna Tartt (October Bonus Round!)
+Fall of the House of Usher collection by Edgar Allan Poe (October Bonus Round!)
+Hostile Homelands by Azad Essa (November)
+Body Work by Melissa Febos (December)
+Don't Call Us Dead by Danez Smith (December Bonus Round!)
+Interior Chinatown by Charles Yu (December Bonus Round!)
+The Taming of the Shrew by William Shakespeare (December Bonus Round!)
 ```
 
 See also:  
@@ -38,7 +44,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
- - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)
+ - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)  
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)
 
 
 ### *These Trees, Those Leaves, This Flower, That Fruit* by Hayan Charara (January)
@@ -223,7 +230,7 @@ I learned from Diana, after reading it, that the Bell Jar's 60th anniversary is 
 
 <img style="max-width:25%; float:right; margin:3px;" src='../resources/12-books-12-months-2023/customs.jpg' />
 
-I really really liked this collection! Borrowed it from Diana, who had in fact borrowed it from the Harvard library, so I will return it directly to the library haha.
+I really really liked this collection! Borrowed it from Diana, who had in fact borrowed it from the Harvard library, so I will return it directly to the library haha. Read it on the 66 bus from campus to CJI orientation at Roxbury courthouse/Nubian station (the end of the line). It took me through a remarkably diverse portion of town, which reminded me of the bubble it is my responsibility to branch out of. 
 
 Some notable motifs: bridges (*Now What*); date palms (*Without Which*; *Planetarium*); tanneries (*Without Which*; *Now What*); Ethel Rosenberg (*Dear Aleph,* on page 13; *The Master's House*). 
 
@@ -303,7 +310,7 @@ The book was very much situtated in the post-9/11 moment. Maybe I am being unfai
 
 The last chapters got into speculative fiction territory, which I didn't love. It feels a bit cringe, in the way that sci-fi sometimes can.
 
-I really like the short story *Safari*, which I later learned was published indpendently before the book was written around it. I also liked *X's and O's*. My favorite story was probably *Great Rock and Roll Pauses*. I thought that story would be gimicky because it is presented as a series of powerpoint slides rather than as prose, but it was actually very well done; yet another demonstration of the *A Room of One's Own* thesis that we will be lucky to experience all the innovation women authors will continue bringing to genres as they are given the space to write. 
+I really like the short story *Safari*, which I later learned was published independently before the book was written around it. I also liked *X's and O's*. My favorite story was probably *Great Rock and Roll Pauses*. I thought that story would be gimicky because it is presented as a series of powerpoint slides rather than as prose, but it was actually very well done; yet another demonstration of the *A Room of One's Own* thesis that we will be lucky to experience all the innovation women authors will continue bringing to genres as they are given the space to write. 
 
 ### *I Do Everything I'm Told* by Megan Fernandes (October Bonus Round!)
 
@@ -328,3 +335,63 @@ I will say, it's a bit boring at times. I'm writing this at only page 429 of 559
 > "I never heard anybody complain so much about helping out a pal," [Bunny] finally said. "I tell you what it is. He's afraid of people taking advantage of him."  
 "How do you mean?"  
 He swallowed. "I mean, sombebody probably told him when he was little, 'Son, you have a load of money, and someday people are going to try to weasel it out of you.'" (page 151)  
+
+### *Fall of the House of Usher* collection by Edgar Allan Poe (October Bonus Round!)
+
+Don't know how to categorize this, but loved the Netflix series, and went back and reread/refreshed my memory about a lot of the pieces alluded to (Fall of the House of Usher, Annabel Lee, etc.). For the pieces I had not yet read (Gold Bug, Murder in the Rue Morgue), I read them for the first time. I was able to borrow a collection from Heather Pincus for some of the pieces while I went on a rainy retreat in Cape Cod with the org I am the president of. It was a stormy weekend in a massive but shaken beach home, which really added to the ambiance of macabre opulence. I also found the pieces online and put my browser in reading mode which worked really well. 
+
+### *Hostile Homelands* by Azad Essa (November)
+
+```
+Military Industrial Complex (Chapter 2)
+ - Nuclear tests
+ - 26/11 ("India's 9/11" in 2008). Nine Israelis killed, and Israel capitalized on selling counter-terrorism domestic surveillance technology to India. (47)
+    "Between 2003 and 2013, India became the single largest purchaser of Israeli arms, accounting for upwards of one-third of all arms exported out of the Jewish state. Israel had become India’s second largest arms supplier after Russia." (49)
+ - India backing both horses based on what is convenient at the time 
+    "In response to a question seeking clarity over India’s relationship with Israel in parliament in December 2013, Edappakath Ahamed, India’s Minister of State in the Ministry of External Affairs, replied: “India’s relations with Israel stand on their own and are not at the expense of strong, time-tested and historic ties with the Arab world. Notwithstanding growing ties with Israel, there has been no change in the traditional policy of strong support to the Arab and the Palestinian cause.” (50) 
+ - "Whereas Congress needlessly pandered to minori-ties, especially Muslims, the BJP stood for all Indians. Modiwas presented as the antidote to hundreds of years of disap-pointment and wasted opportunity." (51)
+ - 1992 
+    - India normalizes relations with Israel
+ - 2014 
+    - Modi becomes PM
+    - "Operation Protective Edge" in which "Israel flattened the Gaza Strip over a period of 50 days, killing 2,251 Palestinians, including 1,462 civilians. In Israel, 67 soldiers and six civilians were killed by Hamas rockets." (53)
+ - "Colonial subjects turned Congress peons were now impatient consumers." (53)
+ - "Israel’s sophisticated border technology, that included a network of “smart walls,” equipped with sensors, HD video surveillance, and unmanned fortified towers with remote controlled machine guns, were the envy of militarized states everywhere. Singh is said to have been impressed after he visited an Israeli posting close to the separation fence with the Gaza Strip. Within a year, Israel was helping Delhi build a “smart fence” on India’s western border with Pakistan" (57)
+  - "political and economic pragmatism with Israel and charity for the compromised Palestinian leadership" (58)
+  - "Netanyahu told Modi: 'I am a son of a historian. Our people have had thousands of years of history. India and Israel are two of the most ancient civilizations on earth. And yet, it is an amazing fact, that until you visited Israel, no leader of India, in 3,000 years of our own sovereign existence, and our history, has visited Israel.'99"
+    - Israel had only existed for 70 years, so of course no leader of India had visited before
+ - 2020 Abraham Accords
+    - "On August 13, 2020, then U.S. President Donald Trump announced that the governments of the United Arab Emirates and Israel had agreed to the full normalization of relations. In what would be officially called the “The Abraham Accords: Declaration of Peace, Cooperation, and Constructive Dip- lomatic and Friendly Relations,” the White House said it ushered in a new era of bilateral agreements between “two of the Middle East’s most dynamic societies and advanced econ- omies” that would “transform the region.”104 In so doing, the UAE became the third Arab country, after Egypt and Jordan, to sign normalization agreements with the Jewish state. In September and December, Bahrain and Morocco would follow suit. Morocco was purportedly unable to resist an American promise to back its bid for sovereignty over the occupied Western Sahara.105 In January 2021, Sudan became the latest to normalize ties with Israel. Again, Trump offered hundreds of millions of dollars of aid, debt relief, and promised to delist Khartoum as a sponsor or terror.106" (61-62)
+    - Egypt, Jordan, UAE, Bahrain, Morocco
+    - Morocco as a colonized people but also as occupiers of Western Sahara
+ - "Israel and the UAE in opposition to Iran and political Islam, as supported by Qatar and Turkey" (63)
+    - how do we feel about theocracies? Jewish states? Muslim states? Hindu states? Is there a way to promote minority rights without packing them into an electoral group where they are the majority? 
+ - "The characterizations served to expand the “good” and “bad” Muslim binary produced in large part by the logic of the U.S.-led War on Terror to “good” and “bad” Muslim-major- ity countries based primarily on their willingness to normalize relations with Israel." (64)
+ - "With Pakistan’s growing affinity for Turkey and Qatar under former Prime Minister Imran Khan, and the cooling of ties between Islamabad and Abu Dhabi, it became convenient for Modi, Netanyahu, and Abdullah bin Zayed to slide into what observers like Mohammed Soliman called an “unlikely and unprecedented Indo-Abrahamic transregional order.”" (65) 
+ - "The ORF itself is a cunning project; sponsored in large-part by Reliance, one of India’s richest conglomerates, and built, as novelist Arundhati Roy described it, in the image of the Rockefeller Foundation, the ORF exerts an inordinate influ- ence over Indian foreign policy. 118 The ORF presents itself as politically agnostic but routinely adopts and promotes posi- tions that are in support of large-scale neo-liberal policies that favor big capital and the military-industrial complex. That they partner with right-wing organizations like the Heritage Foundation in the U.S. is emblematic of their neocon agenda" (67)
+ - "Having established both military and economic power, he said, Israel was now pursuing political power. “By political power, I mean the ability to make political alliances and relationships with many other countries.”119 Political alliances and relationships might sound banal. But if you merge economic, political, and military power under the vestige of a supreme power, the United States, this was the Empire itself." (68)
+    - I recognize the anti-semitism that could underlie claims that Jewish people are trying to create a cabal that rules the world. But framing Israel's project in terms of "Empire" de-exceptionalizes the Jewish angle. Israel does not have impermissible motives because it is a Jewish state, it is merely the latest iteration of a repeating cycle of empire-building, which we consistently have retrospectively denounced.
+ - "India, then, was part of the deep entanglement of economic and political interests to keep private capital in charge and the poor, disenfranchised, and marginalized per- petually pacified." (69)
+ - "Whereas it had voted for the UNHRC to launch an inquiry following the “Operation Pro- tective Edge” in 2014 (and later refused to endorse the report which largely condemned Israel’s actions), fast forward to 2021, India wouldn’t even pretend to care about the details of Israeli crimes in Gaza during its eleven-day bombardment.130" (70) 
+ - "India’s reluctance to join the chorus of condemnation of Russia over its invasion of Ukraine in March 2022, was indicative of Delhi’s determination to refrain from throwing in its entire lot with the U.S. Russia was still India’s largest arm supplier and important supplier of energy, too. This relationship was not about to sever overnight. Washington, despite its reservation over India’srefusal to sanction Russia, is resolute in keeping India in its pocket for its other fight with China. So much so that U.S. Congressman Ro Khanna introduced an amendment to the National Defense Authorization Act which called on lawmak- ers to ensure that India is not sanctioned for continuing to purchase weapons from Russia, as directed by the Countering America’s Adversaries Through Sanctions Act. 131 Khanna’s amendment called for the law to be waived in the case of India. He also called for the U.S. government “to assist India accelerate its transition from Russian arms.” In July 2022, Congress passed the amendment." (70-71)
+ - "opposition leader Rahul Gandhi described the surveillance as an act of “treason,” but he stopped short of asking why Israel sold the software to the Indian government in the first place. “Pegasus is classified by the Israeli state as a weapon and that weapon is supposed to be used against terrorists” he said, as if it was any less egre- gious for the Indian state to weaponize the phones of anyone else in the name of national security." (72)
+```
+
+### *Body Work* by Melissa Febos (December)
+
+I loved this collection of essays! It was creative nonfiction, part memoir and part craft book. It made me think of the stories we tell ourselves about ourselves, and how writing can help us evolve past them. There were also *Room of Ones Own* themes, and Borrowed from Diana Cao. Highly recommend! 
+
+### *Don't Call Us Dead* by Danez Smith (December Bonus Round!)
+
+### *Interior Chinatown* by Charles Yu (December Bonus Round!)
+
+Borrowed this book from Diana, and read it over winter break. Honestly not my favorite! I think it attempted social commentary on gender, race (and proximity to whiteness), intersectionality, but I don't think it was particularly effective/sometimes missed the marks. One of the rare times I've read a book about fatherhood, though, which was pretty though-provoking. 
+
+### *The Taming of the Shrew* by William Shakespeare (December Bonus Round!)
+
+A stranger (Makenzie Stuard) I met over winter break said this was her favorite work of Shakespeare so I got the ebook from the library after I finished *Interior Chinatown*. I was shocked. I found the gaslighting in the book to be a bit triggering, to be honest! I suppose there's a way to read the gaslighting as descriptive/hyperbolized for dramatic effect, but I was pretty uncomfortable with what appeared to me to be a romanticization/apologism for psychological abuse. 
+
+<hr>
+
+In retrospect: I think my favorite books this year were *Homie* by Danez Smith; *Study Break* by Aashna Avachat; *Holy Moly Carry Me* by Erika Meitner; *Customs* by Solmaz Sharif; *Hostile Homelands* by Azad Essa; and *Body Work* by Melissa Febos. Here's to the books that shaped my 2023, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+

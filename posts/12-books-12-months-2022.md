@@ -38,7 +38,8 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2019](12-books-12-months-2019.html)  
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
- - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)
+ - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)  
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)
 
 
 ### *The F-Word* Spring 2021 Volume (January)
@@ -179,7 +180,7 @@ Found this book of poetry from Raven books, a local used book store! Some poems 
 
 Okay so this was a big one for me. You may remember in June and July of 2017 I read another book by this author. That book had been a double biography translated from the author's original Spanish into French, and I had found it on a hostel bookshelf while traveling in Spain with my sister. It remains, to this day, the book that I am the most proud of having read. It was so big and so intimidating and in such a foreign language. But when I finished it, I felt like I had accomplished something. I had proved to myself that I could slowly but surely make my way through any piece of reading, and I had learned a lot of French along the way! That book is the reason I'm still conversational in French seven years after learning it in high school. At the time, though, I had already had my eyes on learning Spanish next, and I regretted reading a *translation* of this author's work. 
 
-So imagine my surprise when I found this book! It's a soap opera in the author's original Spanish that I found on a hostel bookshelf while traveling in Costa Rica to learn Spanish! I was now much more confident in my ability to read a book like this, and it had much more simple concepts to grasp because it was so heavily plot-driven. Reading it definitely jet started my Spanish skills, but i still have a long way to go. I'm looking forward to the journey! 
+So imagine my surprise when I found this book! It's a soap opera in the author's original Spanish that I found on a hostel bookshelf while traveling in Costa Rica to learn Spanish! I was now much more confident in my ability to read a book like this, and it had much more simple concepts to grasp because it was so heavily plot-driven. Reading it definitely jet started my Spanish skills, but I still have a long way to go. I'm looking forward to the journey! 
 
 Finally, a word on the book. It was hilarious. It follows two Peruvian lovers -- la niña mala (the bad girl), and el niño bueno (the good boy) -- over the course of their entire lives and across three continents. Without giving away too many spoilers, they find themselves in a repeated pattern where she will marry a rich man, they will have a secret affair, she will abandon both men to disappear to a foreign land, and in the beginning of the next chapter they will find themselves in the same city for the process to repeat. 
 
@@ -191,6 +192,8 @@ I loved this passage in particular:
 Se me quedó mirando, con esa expresión fría que se agudizaba a veces de manera extraña y parecía congelar la vida a su alrededor. 
  - Tú eres buena gente, pero tienes un terrible defecto: tu falta de ambición. Estás contento con lo que has conseguido, ¿no? Pero eso es nada, niño bueno. Por eso no podría ser tu mujer. Yo nunca estaré contenta con lo que tenga. Siempre querré más. 
 ```
+
+*Update (January 15, 2024)*: I am traveling in Mexico City, and purchased this book from a restaurant/bookstore I have loved working at (Cafebrería El Péndulo Condesa). My personal philosophy is only purchasing books that you have already borrowed and read and know you liked. Also, my Spanish has very much improved in the past year or so! 
 
 ### *The Hurting Kind* by Ada Limón (October (ish) Bonus Round!)
 
@@ -226,5 +229,5 @@ I read a lot this year that I don't know how to include in this blog post becaus
 
 <hr>
 
-In retrospect: I think my favorite books this year were The Vegetarian by Han Kang; The Palace of Illusions by Chitra Banerjee Divakaruni; On Anarchism by Noam Chomsky; Travesuras de la Niña Mala by Mario Vargas Llosa; and The Hurting Kind by Ada Limón. Here's to the books that shaped my 2022, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+In retrospect: I think my favorite books this year were *The Vegetarian* by Han Kang; *The Palace of Illusions* by Chitra Banerjee Divakaruni; *On Anarchism* by Noam Chomsky; *Travesuras de la Niña Mala* by Mario Vargas Llosa; and *The Hurting Kind* by Ada Limón. Here's to the books that shaped my 2022, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
 
