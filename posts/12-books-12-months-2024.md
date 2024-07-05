@@ -485,6 +485,14 @@ I was assigned this play in my *Shakespeare and the Law* class. I watched the 20
 
 ### *Eichmann in Jerusalem* by Hannah Arendt (June)
 
+Breathtaking piece of history and journalism. Iconic. Too many thoughts to record, but valuable knowledge to have acquired. 
+
+### *Blood, Tin, and Straw* by Sharon Olds
+
+Diana got this collection for me for my birthday, and I was about three quarters of the way through it before it (93 out of 124 pages) got thoroughly waterlogged in Central Park during a breath of rain. 
+
+Fav poem in a long time was *Coming of Age, 1966*. We're back in the 60's bb, for better and worse. Other good ones: *Dear Heart*, *Outdoor Shower*, *The Remedy*, *At Home*, *My Mother's Pansies*, *My Father's Diary*, *To My Husband*. 
+
 ---
 
 ### Short Stories (Bonus)
@@ -500,11 +508,9 @@ I was assigned this play in my *Shakespeare and the Law* class. I watched the 20
 *Désiré's Baby* by Kate Chopin - kid comes out mixed race, and the less powerful mom is blamed for having Black heritage. The reveal is that the father is the one who actually had Black race. Shows that the notion of race is constructed.  
 
 *Humility* in One Drum by Richard Wagamese - rabbit is better leader for animal kingdom than more powerful types of animals because the rabbit brings humility and a good attitude to her leadership style.  
-
 *He* by Katherine Anne Porter - story about disabled kid from the perspective of the mother  
 
 *How to Pronounce Knife* by Sourahkham Thammavongsa - immigrant kid who doesn't feel she can ask her ESL parents for help with elementary school homework, and does not know how to pronounce the silent k in knife  
-
 *Verlie I Say Unto You* by Alice Adams - Black maid for white family hates and fears her husband whom she has escaped, and has a secret affair with another Black worker in the home. The white family is confused when she is calm (even secretly ecstatic) to learn her husband has died, but then her lover dies and she is extremely distraught.  
 
 *Defender of the Faith* in *Goodbye, Columbus* by Philip Roth  - Jewish military commander struggles to lead his Jewish subordinates, including one particularly squeaky wheel  
@@ -554,8 +560,6 @@ Love this collection of short stories!
 
 ### *Trinity of the Fundamentals* by Wisam Rafeedie 
 Translated by the Palestinian Youth Movement
-
-### *Blood, Tin, and Straw* by Sharon Olds
 
 ### *Twenty Love Poems and a Song of Despair* by Pablo Neruda
 Presented side-by-side in both Spanish and English. I don't love the translation I selected, which was right next to another, slightly more expensive, translation. You get what you pay for.
