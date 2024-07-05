@@ -20,10 +20,19 @@ The Noise of Time by Julian Barnes (February Bonus Round!)
 Lolita by Vladimir Nabokov (February Bonus Round!)
 Ruined by Lynn Nottage (February Bonus Round!)
 Leaving Atocha Station by Ben Lerner (February Bonus Round!)
+In Search of Duende by Federico García Lorca (February Bonus Round!)
 Ru by Kim Thúy (February Bonus Round!)
 How I Learned to Drive by Paula Vogel (February Bonus Round!)
 Henry VI Part II by William Shakespeare (March)
 Crónica de una Muerte Anunciada by Gabriel García Márquez (March Bonus Round!)
+The Sound and the Fury by William Faulkner (March Bonus Round!)
+Richard II by William Shakespeare (March Bonus Round!)
+A Farewell to Arms by Ernest Hemingway (April)
+Othello by William Shakespeare (April Bonus Round!)
+Housekeeping by Marilynne Robinson (April Bonus Round!)
+Torch Song Trilogy by Harvey Fierstein (May)
+Much Ado About Nothing by William Shakespeare (May Bonus Round!)
+Eichmann in Jerusalem by Hannah Arendt (June)
 ```
 
 See also:  
@@ -287,6 +296,16 @@ A small regret. Because I consumed this book as an audiobook (which is so OP for
 
 An (at times ironic) quip in the book is that "poems aren't about anything." I think that is funny as I try to chronicle all the books I am reading, and need a shorthand to bring myself back to the experience of having read it. 
 
+### *In Search of Duende* by Federico García Lorca (February Bonus Round!)
+
+I don't remember exactly when I finished reading this book (I am writing this in June, so excuse any slips of my mind). The book was a combination of essays/speeches Lorca had given (in English translation), along with some selections and poems from his work (presented in both Spanish and English). I liked *Llanto por Ignacio Sánchez Mejías*, which is about the death of a bull-fighter (Lorca considers bull fighters particularly inspired by duende). I got this book at the Grolier Poetry Book Shop in Harvard Square one day after walking from Spanish class in the Yard to Faro cafe where I overheard people next to me comparing Neruda and Lorca. 
+
+> "Every man and every artist, whether he is Nietzsche or Cézanne, climbs each step in the tower of his perfection by fighting his duende, not his angel, as has been said, nor his muse. This distinction is fundamental, at the very root of the work.  
+The angel guides and gives... The angel dazzles, but he flies high over a man's head, shedding his grace, and the man effortlessly realizes his work or his charm or his dance. The angel on the road to Damascus, and the one that came through the crack of the little balcony of Assisi, and the one who tracked Heinrich Suso are all *ordering*, and it is useless to resist their lights, for they beat their steel wings in an atmosphere of predestination.  
+The muse dictates and sometimes prompts... The muse awakens the intelligence, brining a landscape of columns and a false taste of laurel. But intelligence is often the enemy of poetry, because it limits too much, and it elevates the poet to a sharp-edged throne where he forgets that ants could eat him or that a great arsenic lobster could fall suddenly on his head--things against which the muses that live in monocles and in the lukewarm, lacquered roses of tiny salons are quite helpless.  
+The muse and the angel come from outside us... But one must awaken the duende in the remotest mansions of the blood.  
+And reject the angel, and give the muse a kick in the seat of the pants... The true fight is with the duende."
+
 ### *Ru* by Kim Thúy (February Bonus Round!)
 
 I was assigned this book in my *Literature and the Law* class. I really enjoyed the reading process -- listening to the audiobook in the original French, and using a physical copy of the English translation to reorient myself when I got lost. Ge Fang, one of my friends and classmates, properly pointed out that the best way to understand Ru is actually a prose poem, rather than a novel -- each "chapter" is between a paragraph and a page and a half long, which made it easy to keep myself oriented in this way. I started it in the morning of the first mild day of the shoulder season, and went to Faro cafe to sit and read after class. I had washed my hair the night before and slept with it in braids, so I was having a particularly good hair day. I like to imagine I was that hot stranger in the plant-filled cafe. And I had such a lovely reading experience!
@@ -316,13 +335,36 @@ GRANDMOTHER - Stay out of the kitchen! This is just for girls!
 (page 46)
 ```
 
-### *Henry VI, Part 2* by William Shakespeare
+### *Henry VI, Part 2* by William Shakespeare (March)
 
 I was assigned this play in my *Shakespeare and the Law* class. First, I watched the 2022 Royal Shakespeare Company version directed by Rhodri Huw. Then, I read the book. There were so. many. characters. I thought the play was a bit boring? I think I just might not be a fan of historical Shakespeare works -- I prefer his tragedies and comedies and problem plays. 
 
 I am curious to learn more about meter and iambic pentameter. I am also looking forward to going to class and learning more about what I should have gotten out of this play. The Shakespeare and the Law class I am taking is by far the best of the three English literature classes I'm taking this semester. The professors -- Susannah Tobin and Matthew Stepenson -- are so insightful and such good class discussion leaders. 
 
-### *Crónica de una Muerte Anunciada* by Gabriel García Márquez
+**Class discussion**
+
+"first thing we do is kill all the lawyers"
+
+Dune and Henry VI and the artist's control over narrative of representing a revolutionary movement; is it glorified or satirized or villainized. how can you know without a greater amount of context? how can you get context other than seeing multiple representations from a variety of perspectives? if that is how you get more information, consider how much power a person powerful at controlling narrative can be. am I trapped by the myth of objectivity.
+
+bedlam theater company
+    mashup ceasar and cleopatra
+
+one man show
+    all the devils are here
+
+
+gloucester and king apologist
+
+material conditions. from the perspective of a peasant. is gloucester better than york? better than cade? probably. But if you're a peasant, do you want a nobility class in the first part? is the idea of an elite class society acceptable. 
+
+great leaders and great people might be explicitly in tension
+
+
+
+why the law for lineage? (1) not convincing up, not convincing down, but convincing across the middle: why should york be in charge instead of warwick or suffolk or anyone else?, (2) some people might be fascinated by the blood lines (following the horse race)
+
+### *Crónica de una Muerte Anunciada* by Gabriel García Márquez (March Bonus Round!)
 
 I was assigned this novel in my *Spanish 30* class. I did not love it, to be honest. Maybe, though, that is just because I don't speak Spanish well enough yet to fully appreciate it. I enjoy reading Mario Vargas Llosa so much more than Gabriel Garcia Marquez.
 
@@ -330,42 +372,213 @@ I got good advice, though, about reading both this book and *Lolita*. You are no
 
 I recognize the problem is probably just my Spanish language ability! So I will continue to read more Gabriel García Márquez as my abilities develop. 
 
+### *The Sound and the Fury* by William Faulkner (March Bonus Round!)
+
+I was assigned this book for my American Novel class. It is the story of siblings: one disabled (Benjy), one headstrong and loving (Caddy), one sad (Quentin the elder), and one malicious (Jason). There is also a cast of supporting characters: the Black servant (Dilsey), the mother, Quentin the younger, etc. 
+
+Our professor (Philip Fisher) warned us that the book would be difficult to read and understand, especially because it is a canonical work of stream of consciousness. He was right, I didn't really get much out of the book! I literally cannot think of a single thing -- neither good nor bad nor neutral -- to say about it.
+
+### *Richard II* by William Shakespeare (March Bonus Round!)
+
+god had some hand in this 
+
+he doesn't want to be king at some point (it was a duty, and I'm not complaining about losing my duty), but then later is so sad about it ("death of kings")
+
+empathy for person who was previously an opponent (bolingbrook had the same thing with mowbray)
+
+mirror scene
+
+why did shakespeare write it such that york's son's plot is revealed. and the fight between the father versus the mother and son
+    the idea is that york's son is trying to reinstate 
+
+are others supporting bollingbrook because he is a better king or because they have their own political ambitions that are supported by bollingbrook (evidenced by a line later where richard says "all of your boats have risen now")
+
+richard was a bad king because he had gloucester killed
+
+didn't he need to get bollingbrook's money to quell the rebellion in ireland?
+
+why did they have the whole "pause the battle for one of them to kiss the ring"
+
+richard really into clothes, so he says when he steals gaunt's estate that he needs clothes for the war (not like weapons and stuff)
+
+"attorneys are denied me"
+
+
+goldsmith and bower wrote an "after trump" book - should doj prosecute trump. bower says prosecute: president isn't above the law, etc. goldsmith says don't prosecute: think about the stability/precedent. if we had any trust in the legal system, we would say prosecute and let the truth teller
+
+pardon power - great puns on "pardon"
+
+
+https://en.wikipedia.org/wiki/The_Hollow_Crown_(TV_series)
+
+
+intergenerational bubble explains why he is so indecisive about whether god is on his side versus he needs friends too
+
+is shakespeare drawing a distinction between richard and henry that richard "should have just killed him" and henry did just kill him
+    makes them swear an oath to not join in rebellion against richard. one of those ironic foreshadowing moments to me.
+
+    he is no friend to me but I am sad that mowbray has died in italy
+
+pardon scene is my favorite. shows king richard's ambivalence about making decisions. also really like the mirror reflection and shattering scene because of the theatrical 
+
+"i wasted time and now doth time waste me"
+
+the deposition of richard the ii is a real origin story of how everything went awry for the next multiple generations of kings
+
+you can't tolerate a lawless sovereign, but anything you do about it threatens instability
+
+"open heart surgery without breaking the skin" very merchant of venice 
+
+richard's ambivalence about his gender
+
+the queen scenes
+
+### *A Farewell to Arms* by Ernest Hemingway (April)
+
+I was assigned this book for my *American Novel* class. Unexpectedly a love story! I liked it!
+
+Literature and war. Illiad. French revolution changed because of "citizen's army", tolstoy - sketches of crimean wars that led to "citizen's newspaper" (literature versus reporting): war and peace,  
+
+### *Othello* by William Shakespeare (April Bonus Round!)
+
+Othello might have slept with Iago's wife
+
+Passed over for promotion
+
+Soliloquys are often considered bare truth, but maybe Iago was actually lying us to the audience
+
+
+two main manipulations: cassio go entreat yourself to desdemona; and emilia go steal the handkerchief. but why didn't emilia question the handkerchief thing
+
+oj simpson
+
+what is knowledge/evidence/truth
+
+I really liked the movie, the book was fine.
+
+```
+When you shall these unlucky deeds relate,
+Speak of me as I am. Nothing extenuate,
+Nor set down aught in malice. Then must you speak
+Of one that loved not wisely, but too well;
+Of one not easily jealous, but being wrought,
+Perplexed in the extreme; of one whose hand,
+Like the base Judean, threw a pearl away
+Richer than all his tribe;
+```
+
+race - he is allowed to marry the white princess
+
+there but for the grace god go I 
+
+### *Housekeeping* by Marilynne Robinson (April Bonus Round!)
+
+I was assigned this book for my *American Novel* class. It tells the story from the perspective of Ruthie, with her sister Lucille. After their mother dies (commits suicide?) they stay with their grandmother, who diesReally interesting book, huge vibe shift in the middle. No male characters. Transience. Child protective services and the state versus the family. Mental illness, especially in women (the Bell Jar with kids in it). Hard to tell the daughters' ages and how their age progresses throughout the story. 
+
+### *Torch Song Trilogy* by Harvey Fierstein (May)
+
+I was assigned this play in my *Literature and the Law* class. I did not get a chance to finish it during the semester, but finished reading it after classes ended. 
+
+### *Much Ado About Nothing* by William Shakespeare (May Bonus Round!)
+
+I was assigned this play in my *Shakespeare and the Law* class. I watched the 2012 retelling by Joss Whedon during the semester, but did not finish reading it until after the class had ended. 
+
+### *Eichmann in Jerusalem* by Hannah Arendt (June)
+
 ---
 
-In progress:
+### Short Stories (Bonus)
+
+*To Build a Fire* by Jack London - read this for American novel. A canonical piece of naturalism: a man boldly treks in the artic, fails to build a fire, and dies. Pretty entertaining read to see a Man™ get what is coming for him. 
+
+*Big Two Hearted River* by Ernest Hemingway - read this for American novel. A sweet story of a man who goes fishing. Reminds me of *A River Runs Through It* in terms of vibes. 
+
+*Hell-Heaven* by Jhumpa Lahiri - read this for American Novel. Didn't love it, I feel like every Jhumpa Lahiri story is the same (but I've since learned she moved to Italy and has started writing in Italian so maybe she does have a range that I just am not capable of appreciating)  
+
+*Grammar Questions* by Lydia Davis - a bit more of an experimental meditation on the grammar we use surrounding death to explore the narrator's father passing away. Seemed deep, but didn't do much for me. I like the concept, though. 
+  
+*Désiré's Baby* by Kate Chopin - kid comes out mixed race, and the less powerful mom is blamed for having Black heritage. The reveal is that the father is the one who actually had Black race. Shows that the notion of race is constructed.  
+
+*Humility* in One Drum by Richard Wagamese - rabbit is better leader for animal kingdom than more powerful types of animals because the rabbit brings humility and a good attitude to her leadership style.  
+
+*He* by Katherine Anne Porter - story about disabled kid from the perspective of the mother  
+
+*How to Pronounce Knife* by Sourahkham Thammavongsa - immigrant kid who doesn't feel she can ask her ESL parents for help with elementary school homework, and does not know how to pronounce the silent k in knife  
+
+*Verlie I Say Unto You* by Alice Adams - Black maid for white family hates and fears her husband whom she has escaped, and has a secret affair with another Black worker in the home. The white family is confused when she is calm (even secretly ecstatic) to learn her husband has died, but then her lover dies and she is extremely distraught.  
+
+*Defender of the Faith* in *Goodbye, Columbus* by Philip Roth  - Jewish military commander struggles to lead his Jewish subordinates, including one particularly squeaky wheel  
+*El etnógrafo* de Jorge Luis Borges - guy goes native and refuses to reveal the secret to life he learns while integrated into the indigenous community, which he takes with him back to his world where he lives a very normal life.  
+
+*The Overcoat* by Nikolai Gogol - Russian copying clerk saves up to replace an old coat ("dressing gown") to brave the northern chill, commissions a beautiful new coat, enjoys it briefly, is robbed of the coat, tries in vain to recover it, dies of cold, and haunts people by stealing their coats.  
+
+*The Shawl* by Cynthia Ozick - mother's child is taken away from her and thrown against an electric fence. mother wants to go collect the corpse of her child, but decides not to because if she tries she will be shot.  
+
+*Alyosha the Pot* by Leo Tolstoy - a very obedient servant boy is not allowed to marry the household cook he falls in love with, which he says turned out to be for the best because he unexpectedly dies and therefore their marriage would have been fruitless.    
+  
+*The Head of the Family* by Anton Chekhov - a story about a man who is dreadful to his family and household help when he is in a bad mood from drinking or gambling the night before. Later that night, "he begins to feel the stings of conscience," but takes no action. The next day, he is in good spirits and pays no mind to what happened before. He good humoredly asks his son for a kiss, and the story ends when, "\[w\]ith a pale, grave face Fedya goes up to his father and touches his cheek with his quivering lips, then walks away and sits down in his place without a word." I've heard Checkov is a sparse writer, and that tracks. This story was so short I feel I must have missed something in it?  
+
+*Wooden Box* by Margaret Atwood - a wife, in grief, reacts to objects left behind in her cabin home by her husband who has passed away of a degenerative disease. This short story was pretty good!  
+
+> "He wanted to be sitting in the sunlight with a glass of white wine while nervous locals told him lies."  
+
+> "Now here's the jam in the refrigerator, the last jar ever. The last half-jar. Should she eat it or not eat it? Either one seems like a violation. Go to bed, she tells herself. Go to sleep. In the morning it will just be marmalade."  
+
+> "Nell went outside with a knife and a bowl to dig up spring dandelions as a vitamin- rich supplement to all the white things. Pissenlit was the French vernacular for dandelion: piss your bed, dandelions being a well- known diuretic. Madame Maigretwould doubtless have prepared them in season—she was a formidable cook, unlike Nell—but being gently spoken, she would have used the more elegant dent-de-lion. Lion's tooth."  
+
+*Battle Royale* by Ralph Ellison - this is the first chapter of Ralph Ellison's *Invisible Man*. I read the whole book back in high school. I remember liking it, but feeling that I had not entirely grasped the book. There was something about the racialized experience of the main character that eluded me. Now, reading this chapter for American Novel, I realize that I was right. I had not yet reached any point of racial consciousness. I got so much more out of the chapter now then I did back then. I hung on every word, it is really a great book. With that being said, I do not forget what Toni Morrison said when asked about Invisible Man: "And the question for me was 'Invisible to whom? ' Not to me."  
+
+*El banquete* by Julio Ramón Ribeyro - read this for my Spanish class. Short and punchy story about a man hosting a banquet to secure a political position from the president. He spends a lot of money, the president agrees, but then the president is deposed before he can complete the quid pro quo. Three and a half pages, easy Spanish.  
+
+*Posibilidades de Fotografia* by Leandro Ubrina - read this for my Spanish class. Magical realism about anachronistic photoshop to evade Chilean police state.  
+
+*For Esmé--with Love and Squalor* by J.D. Salinger - read this for American Novel. weird story about a GI watching a little girl sing at choir practice and then meeting her over tea. Not sure I understood it, tbh.  
+
+*2022 Nobel Prize Adress* by Annie Ernaux - read this for American Novel. pretty good speech. She wrote in her diary sixty years ago "j’écrirai pour venger ma race." I liked this passage 
+
+> "This is how I conceived my commitment to writing, which does not consist of writing ‘for’ a category of readers, but in writing ‘from’ my experience as a woman and an immigrant of the interior; and from my longer and longer memory of the years I have lived, and from the present, an endless provider of the images and words of others. This commitment through which I pledge myself in writing is supported by the belief, which has become a certainty, that a book can contribute to change in private life, help to shatter the loneliness of experiences endured and repressed, and enable beings to reimagine themselves. When the unspeakable is brought to light, it is political... But I do not confuse the political action of literary writing, subject to its reception by the reader, with the positions I feel compelled to take with respect to events, conflicts and ideas." 
+
+I've thought about this a lot in a semester in which I have participated in political activism against a genocide concurrently as I take a series of classes of English literature. The former is an excercise in exteriority, and the latter is an exercise in interiority, both of which are necessary for a full life.  
+
+---
+
+## In progress:
+
 
 ### *How to Write an Autobiographical Novel* by Alexander Chee
 Love this collection of short stories! 
 
+### *Adult Children of Emotionally Immature Parents* by Lindsay Gibson
+
+### *To Sleep in a Sea of Stars* by Christopher Paolini
+
+### *Trinity of the Fundamentals* by Wisam Rafeedie 
+Translated by the Palestinian Youth Movement
+
+### *Blood, Tin, and Straw* by Sharon Olds
+
+### *Twenty Love Poems and a Song of Despair* by Pablo Neruda
+Presented side-by-side in both Spanish and English. I don't love the translation I selected, which was right next to another, slightly more expensive, translation. You get what you pay for.
+
+
+<!-- 
+
+TODO:
 ### *Rebellion* by Joseph Roth
-
-### *The Sound and the Fury* by William Faulkner
-Won't significantly understand the book on the first read through. Author would have wanted to write the book in multiple colors of ink to indicate the different time frames. Only read one section at a time (sections one and two are very difficult to get through). 
-
 
 Yiyun Li - A Thousand Years of Good Prayers.pdf  
 Yiyun Li - The Princess of Nebraska.pdf  
 William Faulkner - That Evening Sun  
+Sartre - Time in the Work of Faulkner.pdf
+
+Richard Wright - Part One Southern Night.Ch 4 and 5
+Richard Wright  Black Boy Ch 8 and 9 
+Richard Wright Black Boy, Ch 12.docx 
 
 
-TODO:
 Phillis Wheatley (poet)
 https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/
 https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html
 Leaving the Atocha Station (poem by John Ashbery) page 33 https://books.google.com/books?id=UKXE7dzk8usC&q=ashberry+leaving+the+atocha+station&pg=PA33#v=onepage&q&f=false
+ -->
 
-
-### Short Stories (Bonus)
-
-*Hell-Heaven* by Jhumpa Lahiri - didn't love it, I feel like every Jhumpa Lahiri story is the same (but I've since learned she moved to Italy and has started writing in Italian so maybe she does have a range that I just am not capable of appreciating)  
-*Désiré's Baby* by Kate Chopin - kid comes out mixed race, and the less powerful mom is blamed for having Black heritage. The reveal is that the father is the one who actually had Black race. Shows that the notion of race is constructed.  
-*Humility* in One Drum by Richard Wagamese - rabbit is better leader for animal kingdom than more powerful types of animals because the rabbit brings humility and a good attitude to her leadership style.  
-*He* by Katherine Anne Porter - story about disabled kid from the perspective of the mother  
-*How to Pronounce Knife* by Sourahkham Thammavongsa - immigrant kid who doesn't feel she can ask her ESL parents for help with elementary school homework, and does not know how to pronounce the silent k in knife  
-*Verlie I Say Unto You* by Alice Adams - Black maid for white family hates and fears her husband whom she has escaped, and has a secret affair with another Black worker in the home. The white family is confused when she is calm (even secretly ecstatic) to learn her husband has died, but then her lover dies and she is extremely distraught.  
-*Defender of the Faith* in *Goodbye, Columbus* by Philip Roth  - Jewish military commander struggles to lead his Jewish subordinates, including one particularly squeaky wheel  
-*El etnógrafo* de Jorge Luis Borges - guy goes native and refuses to reveal the secret to life he learns while integrated into the indigenous community, which he takes with him back to his world where he lives a very normal life.  
-*The Overcoat* by Nikolai Gogol - Russian copying clerk saves up to replace an old coat ("dressing gown") to brave the northern chill, commissions a beautiful new coat, enjoys it briefly, is robbed of the coat, tries in vain to recover it, dies of cold, and haunts people by stealing their coats.  
-*The Shawl* by Cynthia Ozick - mother's child is taken away from her and thrown against an electric fence. mother wants to go collect the corpse of her child, but decides not to because if she tries she will be shot.   
-*Alyosha the Pot* by Leo Tolstoy - a very obedient servant boy is not allowed to marry the household cook he falls in love with, which he says turned out to be for the best because he unexpectedly dies and therefore their marriage would have been fruitless  
-*The Head of the Family* by Anton Chekhov - a story about a man who is dreadful to his family and household help when he is in a bad mood from drinking or gambling the night before. Later that night, "he begins to feel the stings of conscience," but takes no action. The next day, he is in good spirits and pays no mind to what happened before. He good humoredly asks his son for a kiss, and the story ends when, "\[w\]ith a pale, grave face Fedya goes up to his father and touches his cheek with his quivering lips, then walks away and sits down in his place without a word." I've heard Checkov is a sparse writer, and that tracks. This story was so short I feel I must have missed something in it?  
