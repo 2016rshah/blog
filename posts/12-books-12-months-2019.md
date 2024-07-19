@@ -236,7 +236,7 @@ This was a very entertaining play. It's pretty light and has intermittent humor.
 
 ### *Hillbilly Elegy* by J. D. Vance (December)
 
-I spent all of elementary school and all of middle school living in a small rural Appalachian town called Proctorville, OH. I lived right on the border of West Virginia and Ohio, across the Ohio River from a slightly larger city called Huntington, WV. This book is a memoir about the author's upbringing in Appalachia (Kentucky, to be specific)
+I spent all of elementary school and all of middle school living in a small rural Appalachian town called Proctorville, OH. I lived right on the border of West Virginia and Ohio, across the Ohio River from a slightly larger city called Huntington, WV. This book is a memoir about the author's upbringing in Appalachia (Kentucky, to be specific). 
 
 
 ### *Americanah* by Chimamanda Ngozi Adichie (December Bonus Round!)

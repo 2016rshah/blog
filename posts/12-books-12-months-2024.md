@@ -33,6 +33,8 @@ Housekeeping by Marilynne Robinson (April Bonus Round!)
 Torch Song Trilogy by Harvey Fierstein (May)
 Much Ado About Nothing by William Shakespeare (May Bonus Round!)
 Eichmann in Jerusalem by Hannah Arendt (June)
+Poet Tree by Jonathan Aprea (ed.) (June Bonus Round!)
+Blood, Tin, and Straw by Sharon Olds (July)
 ```
 
 See also:  
@@ -487,11 +489,21 @@ I was assigned this play in my *Shakespeare and the Law* class. I watched the 20
 
 Breathtaking piece of history and journalism. Iconic. Too many thoughts to record, but valuable knowledge to have acquired. 
 
-### *Blood, Tin, and Straw* by Sharon Olds
+### *Poet Tree* by Jonathan Aprea (ed.) (June Bonus Round!)
 
-Diana got this collection for me for my birthday, and I was about three quarters of the way through it before it (93 out of 124 pages) got thoroughly waterlogged in Central Park during a breath of rain. 
+> "The dark violet and green velour couch, shrink-wrapped night sky, streaked in 90's jazz, up-holstered... I draw lines across the stiff fibers. I stroke a soft and frivolous thing."
+
+This is the first issue in a series of six poetry collections curated by Jonathan Aprea. Diana invited me to the launch at McNally Jackson on Friday night, and I read it while I took the train into New Jersey for Nick Lancaster's grad party the next morning. My favs from the collection were *Sonnet For My Friends* by Kyle Broshnihan, *Kissing Poem* by James Barickman, *A Victory* by Patrick Dundon, *Soggy Sonnet* by Kelsea Brunner, and, of course, *The Arrival* by Diana Cao. 
+
+### *Blood, Tin, and Straw* by Sharon Olds (July)
+
+Diana got this collection for me for my birthday, and I was about three quarters of the way through it before it (93 out of 124 pages) got thoroughly waterlogged in Central Park during a breath of rain. My copy of Poet Tree also got submerged, but was salvageable.
 
 Fav poem in a long time was *Coming of Age, 1966*. We're back in the 60's bb, for better and worse. Other good ones: *Dear Heart*, *Outdoor Shower*, *The Remedy*, *At Home*, *My Mother's Pansies*, *My Father's Diary*, *To My Husband*. 
+
+### *Appalachian Elegy* by bell hooks (July Bonus Round!)
+
+I moved to Miami! J.D. Vance got nominated to be the republican VP candidate. I'm from Appalaichia, so a lot of my friends provided helpful pointers on Appalachian writers to read other than Hillbilly Elegy (see Dec. 2019). Saw this one recommended and was able to check it out immediately from one of my libraries. Loved it way more than I liked *All About Love* by bell hooks (see Jun. 2021). Will try to remember to pull some quotes when I get a chance. 
 
 ---
 
