@@ -35,6 +35,13 @@ Much Ado About Nothing by William Shakespeare (May Bonus Round!)
 Eichmann in Jerusalem by Hannah Arendt (June)
 Poet Tree by Jonathan Aprea (ed.) (June Bonus Round!)
 Blood, Tin, and Straw by Sharon Olds (July)
+Appalachian Elegy by bell hooks (July Bonus Round!)
+To Sleep in a Sea of Stars by Christopher Paolini (July Bonus Round!)
+Martyr! by Kaveh Akbar (August)
+Trinity of the Fundamentals by Wisam Rafeedie (August Bonus Round!)
+Men in the Sun by Ghassan Kanafani (September)
+El Viento Conoce Mi Nombre by Isabel Allende (September Bonus Round!)
+Green Squall by Jay Hopler (September Bonus Round!)
 ```
 
 See also:  
@@ -505,6 +512,66 @@ Fav poem in a long time was *Coming of Age, 1966*. We're back in the 60's bb, fo
 
 I moved to Miami! J.D. Vance got nominated to be the republican VP candidate. I'm from Appalaichia, so a lot of my friends provided helpful pointers on Appalachian writers to read other than Hillbilly Elegy (see Dec. 2019). Saw this one recommended and was able to check it out immediately from one of my libraries. Loved it way more than I liked *All About Love* by bell hooks (see Jun. 2021). Will try to remember to pull some quotes when I get a chance. 
 
+### *To Sleep in a Sea of Stars* by Christopher Paolini (July Bonus Round!)
+
+Loved this book! One night in June I was reading *Eichmann in Jerusalem* right around a stressful time in my life wrapping up law school. I couldn't sleep so I tried to listen to the audiobook, and it was... dark. I realized I needed something way more lighthearted, like a comfort read, to go to sleep. I checked if my library had any books from my favorite fantasy series from my childhood: *The Inheritance Cycle* including *Eragon* by Christopher Paolini. It did not, but it had a different standalone sci fi book he had written since then!
+
+It was great! I don't really love sci fi generally, but it was a fun and comforting read. Paolini structures his stories very similarly, so it was reminiscent of *Eragon* even if it was a different story in a different world with different characters and a different premise. 
+
+I really liked the way the story ultimately resolves and the moral conclusions the main character comes to. I feel like a lot of my world view is actually influenced by the morality of characters in *The Inheritance Cycle*, and it is pretty funny to think how outsized of an influence Christopher Paolini had on my day to day life. Also, now that I'm older, I am realizing just how crazy it is how young he was when he wrote *Eragon*; when I first read it I was younger than him and reading it so it didn't feel like such a big deal.   
+
+### *Martyr!* by Kaveh Akbar (August)
+
+Read this for a book club with other incoming Miami public defenders. I have mixed feelings about it. On the one hand, I liked some of the main character's reflections about art, race, and identity politics only when convenient. On the other hand, I didn't find other themes super relatable, I thought the characters were pretty underdeveloped (especially the main character's love interest), and the plot development came across as kitchsy to other people in the book club (especially my new roommate Patrick Weir). 
+
+So after I read it, I had a pretty negative outlook. But then I mentioned it to Diana and she said she loved it! She mentioned that Kaveh Akbar is a poet, and this was his first novel, and she was predisposed to like it because she loves his poetry (and his relationship with his partner who is also a poet she likes). Diana said she liked the beauty of the writing on the sentence level. 
+
+Ultimately, I think I fall somewhere in the middle. I didn't love the book, but I also didn't hate it. Also, a small last note I listened to this as an audiobook and the narrator of the book I read did *such* a good job, especially with accents and stuff, which really helped follow which character was speaking when.
+
+### *Trinity of the Fundamentals* by Wisam Rafeedie (August Bonus Round!)
+
+A life-level view of the arc of a revolutionary during early intifadas. Very interesting, especially in the context of thoughts I had during the Harvard encampment. One thing I didn't love about the book was what I felt was some underlying misogyny from the narrator. But, I also thought some of the interactions the narrator had with his mother were very sweet (a theme also reflected in *Men in the Sun* I read afterwards in the story of *Umm Saad*). Also thought the reflections on revolutionaries only during school years versus people actually invested in liberation as more than just a fad was pretty interesting -- I don't think I am as jaded as the narrator but it is definitely an interesting perspective to contemplate/reflect upon at this point in my life and the lives of the people around me. Sometimes I wonder how I am perceived.  
+
+I read this book for an HLS book club that ultimately fizzled out, but I finished the book. We chose the book because it was recently translated by the Palestinian Youth Movement. When I mentioned *Trinity of the Fundamentals* to the organizer for the *Men in the Sun* book club I did in Miami afterwards, she said she had read it but it wasn't a good book to read as a group and I agree with her haha. 
+
+### *Men in the Sun* by Ghassan Kanafani (September)
+
+Joined a Palestinian book club after moving to Miami! The organizing scene in South Florida is ~very sparse~ given the [dominance of Zionism and conservative politics here](https://jewishcurrents.org/searching-for-the-jewish-future-in-south-florida). So instead of big marches and encampments and actions, even just a community book club feels subversive. The book club itself is also *super healthy*. I feel like it is hard for a book club to get past one or two books/meetings before it fizzles out. But this book club, from what I understand, has been meeting for like nine months and has read a ton of really heavy-hitting books and is still going super strong. 
+
+This fits into a broader theory of organizing I had that brought me to Miami in the first place with respect to other ways Florida is conservative (on trans rights, the criminal legal system, etc.). I think adversity builds more tightly knit communities, which I enjoy. And I think some of the northeast elitism about how politically enlightened their communities are is (1) putting one's head in the sand about the flaws the northeast communities have themselves and (2) a bit victim-blame-y for the oppressed people who, by reason of circumstances, live in more conservative communities. 
+
+I'm glad to be in Miami, I love it here and feel so validated in my choice to move here. Whereas the poem *White Spaces* by Lisa Low was my overwhelming feeling during 1L in Cambridge, nowadays I feel like I have found a home I feel so comfortable and happy in. I am living in the most diverse community I ever have, even if the representation of desi people in particular is pretty low. That's partially based on the fact that Miami is very diverse, but also a function of the people I choose to surround myself with too. 
+
+Anyways, the book of short stories! I really liked it! 
+
+Structure of the book mirrors structure of palestinnian resistance (originally support from surrounding nations (kuwait in men in the sun), then armed resistance (in umm saad), to steadfastness and nationalist revival (letter from gaza)). 
+
+Also, ending with letter from gaza is a response to the character in men in the sun, a lesson that they are misguided from their path in the first place. 
+
+Umm Saad reminder of mother when I told her about joining encampment.
+
+Queerness in the relationship of the characters in Letter from Gaza? but also, maybe just affection that isn't necessarily romantic. includes male expression of emotion (mustafa crying, etc.)
+
+"This obscure feeling that you had as you left Gaza, this small feeling must grow into a giant deep within you. It must expand, you must seek it in order to find yourself, here among the ugly debris of defeat."
+
+Loved this collection. Best collection of short stories I've read in a long time. Would recommend!
+
+### *El Viento Conoce Mi Nombre* by Isabel Allende (September Bonus Round!)
+
+I got both the ebook and the audiobook from the library, which was great to read together or separately. The ebook is great for getting a more comprehensive understanding of grammar, and the audiobook is great for building my comprehension and training my accent. Super helpful for the Spanish of it all, I feel so close to fluent already. I have started using Spanish professionally, and I will just keep getting better. It is partially that I am good at picking up languages, but it is also the result of effort I am putting into becoming a part of the community here and literally learning the language. 
+
+The book was fine. It felt like an airport novel that would sell a lot of copies even if the book isn't itself super groundbreaking. Not sure I would recommend it as a novel. But I feel proud and I am glad I read it! 
+
+I was so curious while reading if Isabel Allende is somehow related to Salvador Allende, the former socialist president of Chile who died during a coup by the dictator Augusto Pinochet. I just looked it up, and she is related! Isabel is Salvador's first cousin's daughter! Wild!
+
+### *Green Squall* by Jay Hopler (September Bonus Round!)
+
+Picked up this book of poetry from the south beach library. I was in that neighbourhood for a [city council meeting](https://jewishcurrents.org/searching-for-the-jewish-future-in-south-florida). 
+
+The book had a foreword by Louise Glück, which was a name I recognized. I also read this: "I have no beef with Wallace Stevens / Even if some of his poems do feel like so much tropical slumming. // I only wish he could have lived here, in Florida, instead of simply / Visiting once in a while --; how much more essential his summer- // Minded poems would have been!" I don't know who Wallace Stevens is, but reading those lines made me think this book would represent the essential Florida, which was what I was trying to figure out having recently moved here. These poems, however, were very bitter and negative. I should have picked it up from that first poem, which said later "Florida's light is far more aggressive, far / More violent, than Stevens knew - // It gets inside your head and shreds / Things, dismantles memory, shorts out the will". Also, two of the peoms in the middle were honestly a bit incel-y? The book treated nature, which I enjoy reading about, but definitely with a spin that was a bit pessimistic for my taste.
+
+My favorites from this collection were: *Nothing to do now but sit and wait*; *Of Hunger and Human Freedom*; and *Aubade*.
+
 ---
 
 ### Short Stories (Bonus)
@@ -560,7 +627,7 @@ I've thought about this a lot in a semester in which I have participated in poli
 
 ---
 
-## In progress:
+## In progress/TODO:
 
 
 ### *How to Write an Autobiographical Novel* by Alexander Chee
@@ -568,13 +635,10 @@ Love this collection of short stories!
 
 ### *Adult Children of Emotionally Immature Parents* by Lindsay Gibson
 
-### *To Sleep in a Sea of Stars* by Christopher Paolini
-
-### *Trinity of the Fundamentals* by Wisam Rafeedie 
-Translated by the Palestinian Youth Movement
-
 ### *Twenty Love Poems and a Song of Despair* by Pablo Neruda
 Presented side-by-side in both Spanish and English. I don't love the translation I selected, which was right next to another, slightly more expensive, translation. You get what you pay for.
+
+### *Beloved* by Toni Morrison (?)
 
 
 <!-- 
