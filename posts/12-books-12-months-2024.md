@@ -42,6 +42,7 @@ Trinity of the Fundamentals by Wisam Rafeedie (August Bonus Round!)
 Men in the Sun by Ghassan Kanafani (September)
 El Viento Conoce Mi Nombre by Isabel Allende (September Bonus Round!)
 Green Squall by Jay Hopler (September Bonus Round!)
+Giovanni's Room by James Baldwin (September Bonus Round!)
 ```
 
 See also:  
@@ -418,7 +419,7 @@ goldsmith and bower wrote an "after trump" book - should doj prosecute trump. bo
 pardon power - great puns on "pardon"
 
 
-https://en.wikipedia.org/wiki/The_Hollow_Crown_(TV_series)
+[Hollow Crown](https://en.wikipedia.org/wiki/The_Hollow_Crown_(TV_series))
 
 
 intergenerational bubble explains why he is so indecisive about whether god is on his side versus he needs friends too
@@ -506,7 +507,7 @@ This is the first issue in a series of six poetry collections curated by Jonatha
 
 Diana got this collection for me for my birthday, and I was about three quarters of the way through it before it (93 out of 124 pages) got thoroughly waterlogged in Central Park during a breath of rain. My copy of Poet Tree also got submerged, but was salvageable.
 
-Fav poem in a long time was *Coming of Age, 1966*. We're back in the 60's bb, for better and worse. Other good ones: *Dear Heart*, *Outdoor Shower*, *The Remedy*, *At Home*, *My Mother's Pansies*, *My Father's Diary*, *To My Husband*. 
+Fav poem in a long time was *Coming of Age, 1966*. We're back in the 60's bb, for better and worse. Other good ones: *Dear Heart*, *Outdoor Shower*, *The Remedy*, *At Home*, *My Mother's Pansies*, *My Father's Diary*, and *To My Husband*. 
 
 ### *Appalachian Elegy* by bell hooks (July Bonus Round!)
 
@@ -572,6 +573,16 @@ The book had a foreword by Louise Glück, which was a name I recognized. I also 
 
 My favorites from this collection were: *Nothing to do now but sit and wait*; *Of Hunger and Human Freedom*; and *Aubade*.
 
+### *Giovanni's Room* by James Baldwin (September Bonus Round!)
+
+This book was not at all what I expected! I read it in one or two big sittings, including one getting drunk at a very cute happy hour after work where I hope to become a regular. I was surprised because it was going to be a tragic romance in the vein of *Song of Achilles*. But I felt it was instead very very ambivalent about the gay couple. The main character only actually liked Giovanni for like a couple of pages, and the rest of it I feel like the main character was in fact disgusted by him. I was not rooting for the couple at all, and before starting the book I had expected Baldwin to want me to be rooting for them. I will say, though, I loved the section that introduced Giovanni to the main character for the first time as his bartender. Baldwin gave such a sexy air to Giovanni, and that section was such a blast to read.
+
+I've read *The Fire Next Time*, *If Beale Street Could Talk*, and now *Giovanni's Room*. I liked *Beale Street* the most, didn't love *Fire Next Time*, and am still not sure what to make of *Giovanni's Room*. 
+
+### *If on a winter's night a traveler* by Italo Calvino (October) 
+
+Love love loved it! More to say soon. 
+
 ---
 
 ### Short Stories (Bonus)
@@ -587,12 +598,15 @@ My favorites from this collection were: *Nothing to do now but sit and wait*; *O
 *Désiré's Baby* by Kate Chopin - kid comes out mixed race, and the less powerful mom is blamed for having Black heritage. The reveal is that the father is the one who actually had Black race. Shows that the notion of race is constructed.  
 
 *Humility* in One Drum by Richard Wagamese - rabbit is better leader for animal kingdom than more powerful types of animals because the rabbit brings humility and a good attitude to her leadership style.  
+
 *He* by Katherine Anne Porter - story about disabled kid from the perspective of the mother  
 
-*How to Pronounce Knife* by Sourahkham Thammavongsa - immigrant kid who doesn't feel she can ask her ESL parents for help with elementary school homework, and does not know how to pronounce the silent k in knife  
+*How to Pronounce Knife* by Sourahkham Thammavongsa - immigrant kid who doesn't feel she can ask her ESL parents for help with elementary school homework, and does not know how to pronounce the silent k in knife   
+
 *Verlie I Say Unto You* by Alice Adams - Black maid for white family hates and fears her husband whom she has escaped, and has a secret affair with another Black worker in the home. The white family is confused when she is calm (even secretly ecstatic) to learn her husband has died, but then her lover dies and she is extremely distraught.  
 
 *Defender of the Faith* in *Goodbye, Columbus* by Philip Roth  - Jewish military commander struggles to lead his Jewish subordinates, including one particularly squeaky wheel  
+
 *El etnógrafo* de Jorge Luis Borges - guy goes native and refuses to reveal the secret to life he learns while integrated into the indigenous community, which he takes with him back to his world where he lives a very normal life.  
 
 *The Overcoat* by Nikolai Gogol - Russian copying clerk saves up to replace an old coat ("dressing gown") to brave the northern chill, commissions a beautiful new coat, enjoys it briefly, is robbed of the coat, tries in vain to recover it, dies of cold, and haunts people by stealing their coats.  
@@ -629,9 +643,10 @@ I've thought about this a lot in a semester in which I have participated in poli
 
 ## In progress/TODO:
 
+### *The Overstory* by Richard Powers
 
 ### *How to Write an Autobiographical Novel* by Alexander Chee
-Love this collection of short stories! 
+Loving this collection of short stories! Didn't finish it before I had to return it.
 
 ### *Adult Children of Emotionally Immature Parents* by Lindsay Gibson
 
