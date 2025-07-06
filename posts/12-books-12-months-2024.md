@@ -43,6 +43,10 @@ Men in the Sun by Ghassan Kanafani (September)
 El Viento Conoce Mi Nombre by Isabel Allende (September Bonus Round!)
 Green Squall by Jay Hopler (September Bonus Round!)
 Giovanni's Room by James Baldwin (September Bonus Round!)
+If on a winter's night a traveler by Italo Calvino (October)
+Hamlet by William Shakespeare (October Bonus Round!) 
+Pilgrim Bell by Kaveh Akbar (November)
+Invisible Cities by Italo Calvino (December)
 ```
 
 See also:  
@@ -487,7 +491,7 @@ I was assigned this book for my *American Novel* class. It tells the story from 
 
 ### *Torch Song Trilogy* by Harvey Fierstein (May)
 
-I was assigned this play in my *Literature and the Law* class. I did not get a chance to finish it during the semester, but finished reading it after classes ended. 
+I was assigned this play in my *Literature and the Law* class. I did not get a chance to finish it during the semester, but finished reading it after classes ended. Interesting take on gay culture. 
 
 ### *Much Ado About Nothing* by William Shakespeare (May Bonus Round!)
 
@@ -569,7 +573,11 @@ I was so curious while reading if Isabel Allende is somehow related to Salvador 
 
 Picked up this book of poetry from the south beach library. I was in that neighbourhood for a [city council meeting](https://jewishcurrents.org/searching-for-the-jewish-future-in-south-florida). 
 
-The book had a foreword by Louise Glück, which was a name I recognized. I also read this: "I have no beef with Wallace Stevens / Even if some of his poems do feel like so much tropical slumming. // I only wish he could have lived here, in Florida, instead of simply / Visiting once in a while --; how much more essential his summer- // Minded poems would have been!" I don't know who Wallace Stevens is, but reading those lines made me think this book would represent the essential Florida, which was what I was trying to figure out having recently moved here. These poems, however, were very bitter and negative. I should have picked it up from that first poem, which said later "Florida's light is far more aggressive, far / More violent, than Stevens knew - // It gets inside your head and shreds / Things, dismantles memory, shorts out the will". Also, two of the peoms in the middle were honestly a bit incel-y? The book treated nature, which I enjoy reading about, but definitely with a spin that was a bit pessimistic for my taste.
+The book had a foreword by Louise Glück, which was a name I recognized. I also read this: "I have no beef with Wallace Stevens / Even if some of his poems do feel like so much tropical slumming. // I only wish he could have lived here, in Florida, instead of simply / Visiting once in a while --; how much more essential his summer- // Minded poems would have been!" I don't know who Wallace Stevens is, but reading those lines made me think this book would represent the essential Florida, which was what I was trying to figure out having recently moved here. 
+
+These poems, however, were very bitter and negative. I should have picked it up from that first poem, which said later "Florida's light is far more aggressive, far / More violent, than Stevens knew - // It gets inside your head and shreds / Things, dismantles memory, shorts out the will". Also, two of the peoms in the middle were honestly a bit incel-y? 
+
+The book treated nature, which I enjoy reading about, but definitely with a spin that was a bit pessimistic for my taste.
 
 My favorites from this collection were: *Nothing to do now but sit and wait*; *Of Hunger and Human Freedom*; and *Aubade*.
 
@@ -581,7 +589,33 @@ I've read *The Fire Next Time*, *If Beale Street Could Talk*, and now *Giovanni'
 
 ### *If on a winter's night a traveler* by Italo Calvino (October) 
 
-Love love loved it! More to say soon. 
+I took this book with me to Apoorva's wedding in India. Patrick had a beautiful pair of luxuriously white Italo Calvino books. I tried so hard to treat it well, but by the time I was three-quarters of the way through it I threw it in my tote bag with some takeout from a restaurant in India and the orange-red oil from the gobi manchurian soaked both the book and my PalTrek 2021 tote bag. 
+
+Devastating, but after that I finally felt comfortable underlining the parts of the book I liked, and dog-earing the bottoms of the pages I liked because by that point I would simply have to buy the book off Patrick. 
+
+Chatted with Rebca about the book at the wedding, and how we are both readers but how her partner Daniel is a writer. A few months later (January 2025), Ibrahim came to visit and asked to borrow the book. That copy of the book has lived and will continue to live such an adventerous life, which I love for it even if I selfishly miss it. 
+
+The premise of the book is so fascinating (in the universe of the top level story (every other chapter), the protagonist begins reading, with the reader, the first chapter of multiple books (which occur every other chapter)). The table of contents is itself a poem. 
+
+I wish I could have read this book in the original Italian, or I wish the book had been written in French or Spanish or something.
+
+### *Hamlet* by William Shakespeare (October Bonus Round!)
+
+This felt appropriate for spooky season, and I had his soliloquy stuck in my head from learning it freshman year of college because I had fomo that all my cool humanities major friends had to memorize it for class. I remember just repeating it over and over again in the common area of Blanton with Alec Blair. 
+
+I also watched a production of it with Patrick. I liked it a medium amount--neither my favorite nor least favorite Shakespeare. I read a lot of Shakespeare this year and I have to say I think *Measure for Measure* was one of my dark-horse favorites. 
+
+### *Pilgrim Bell* by Kaveh Akbar (November)
+
+I got this book after watching Kaveh Akbar speak at the Miami Book Fair! I was really blown away by how many big-name authors came to the Miami Book Fair. I really liked hearing Kaveh Akbar speak -- he is sooo smart. After that, I like his poetry. My least favorite was his prose from *Martyr*. 
+
+At Miami Book Fair I also saw Danez Smith (love), and Marie Howe, which is a pretty stacked line up. I also saw some other authors I liked, like Zara Chawdury (a memoir about partition) and Gabriel Ramirez (the poet who wrote about pitbulls and spoke on the panel with Danez Smith. 
+
+My favorites from this collection were: *The Miracle*; *Pilgrim Bell*; *My Empire*; *Forfeiting My Mystique*; *Cotton Candy*; *Ultrasound*; *How Prayer Works*; *Despite My Efforts Even My Prayers Have Turned Into Threats*; *Reading Farrokhzad In a Pandemic*; and *The Palace*. 
+
+### *Invisible Cities* by Italo Calvino (December)
+
+I took Patrick's other Italo Calvino book. Another absolute banger from Italo Calvino. And another super interesting premise. In this book, the overstory is Marco Polo telling stories to Ghengis Khan about the cities in his empire. And there are five chapters in a set of "city of _____" like city of desires or city of death. And they are interwoven. And every so often the overstory characters have dialogue. Again, I really can't explain it, you just have to study the table of contents to understand the story. 
 
 ---
 
@@ -639,14 +673,11 @@ Love love loved it! More to say soon.
 
 I've thought about this a lot in a semester in which I have participated in political activism against a genocide concurrently as I take a series of classes of English literature. The former is an excercise in exteriority, and the latter is an exercise in interiority, both of which are necessary for a full life.  
 
----
+<!-- ---
 
 ## In progress/TODO:
 
 ### *The Overstory* by Richard Powers
-
-### *How to Write an Autobiographical Novel* by Alexander Chee
-Loving this collection of short stories! Didn't finish it before I had to return it.
 
 ### *Adult Children of Emotionally Immature Parents* by Lindsay Gibson
 
@@ -654,6 +685,12 @@ Loving this collection of short stories! Didn't finish it before I had to return
 Presented side-by-side in both Spanish and English. I don't love the translation I selected, which was right next to another, slightly more expensive, translation. You get what you pay for.
 
 ### *Beloved* by Toni Morrison (?)
+ -->
+
+<hr>
+
+In retrospect: I think my favorite books this year were *If on a winters' night a traveler* and *Invisible Cities* both by Italo Calvino; Small Things Like These by Claire Keegan; *Measure for Measure* by William Shakespeare; *Eichmann in Jerusalem* by Hannah Arendt; *To Sleep in a Sea of Stars* by Christopher Paolini; and *Men in the Sun* by Ghassan Kanafani. I read a LOT this year, because I took so many literature classes in my last year of law school. I didn't catalog all my reading as much as I would have liked, but that's the price of reading at such a breakneck speed! Anyways, here's to the books that shaped my 2024, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+
 
 
 <!-- 
