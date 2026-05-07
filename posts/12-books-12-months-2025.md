@@ -10,11 +10,24 @@
 If Pit Bulls Had a God It'd Be a Pit Bull by Gabriel Ramirez (January ish)
 How to Write an Autobiographical Novel by Alexander Chee (February)
 The Waves by Virginia Woolf (March)
+A Picture of Dorian Gray by Oscar Wilde (March Bonus Round!)
 Bankrolling Empire by Sudev Sheth (April)
 Gulf Coast Journal of Literature and Fine Arts Vol. 36.1 (May)
-Bluff by Danez Smith (May)
+Bluff by Danez Smith (May Bonus Round!)
+En Agosto Nos Vemos by Gabriel Garicía Márquez (May Bonus Round!)
 Elsewhere, Home by Leila Aboulela (June)
+Arabian Nights tr. Hussain Haddawy (June Bonus Round!)
 The Namaste Club by Asha Elias (July)
+The Iliad by Homer (July Bonus Round!)
+Something About Living by Lena Khalaf Tuffaha (August) 
+Hopscotch by Julio Cortázar (September)
+Harvard Review Vol. 63 (October)
+Árbol de Diana by Alejandra Pizarnik (October Bonus Round!) 
+So Late in the Day by Claire Keegan (October Bonus Round!)
+Ploughshares Summer 2024 Vol. 50 No. 2 (November)
+Wuthering Heights by Emily Brontë (December)
+Polysecure by Jessica Fern (December Bonus Round!)
+Pedro Páramo by Juan Rulfo (December Bonus Round!)
 ```
 
 See also:  
@@ -24,7 +37,9 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
  - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)  
- - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2023.html)  
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)  
+ - [(At Least) 12 Books in 12 Months - 2026](12-books-12-months-2026.html)
 
 ### *If Pit Bulls Had a God It'd Be a Pit Bull* by Gabriel Ramirez (January ish)
 
@@ -61,6 +76,9 @@ One of the main themes was that one person actually lives many lives. And Bernar
 
 At first I was getting lost, with the perspective shifts. But I looked up the first chapter's sparknotes and learned the book would be structured as a series of chapters. There are three coinciding timelines: the book from beginning to end, the waves from the beginning to the end of the day, and the characters from the beginning to the end of their lives. I find the structure so satisfying. 
 
+### *A Picture of Dorian Gray* by Oscar Wilde (March)
+
+Re-read a book I loved in high school. Wanted to read it because I've gotten into figure modeling, and I was reminded of the vanity and beauty of art. Remember listening to this audiobook on the drive back from the UM campus where I had modelled for the art school in one pose for three hours in thirty minute chunks. Book still holds up! 
 
 ### *Bankrolling Empire* by Sudev Sheth (April)
 
@@ -93,6 +111,10 @@ Also, I annotated this book a lot because I own a copy so I get to take libertie
 
 Some of my favorites from the collection were: *ars america (in the hold)* (pg. 4); *on knowledge* (pg. 7); *less hope* (pg. 16); *alive* (pg. 25); *i'm not bold, i'm fucking traumatized* (pg. 69); *Denver* (pg. 80); *stoop poem* (pg. 82); *after & before* (pg. 103); *ars poetica* (pg. 119); and *craft* (pg. 137).
 
+### *En Agosto Nos Vemos* by Gabriel Garicía Márquez (May)
+
+A short audio book that I listened to once or twice to try to catch as much of the spanish as I could. Basically, a novel in which every year a married woman takes a trip back to an island where her mother is buried and has a different lover on the island because she herself embodies a different person every time. 
+
 ### *Elsewhere, Home* by Leila Aboulela (June)
 
 This is one of the books I got on my most recent trip to the library. I thought it was a novel, but it turned out to be a collection of short stories. I started it on the Brightline train from Miami to Orlando where I went to Universal's Epic Universe with Maryam Arshad whom I had met a few weeks earlier at the South Florida Palestine Film Festival. Beginning the book was a really magical moment combining some of my favorite things: solo journeys, libraries, trains, culture, etc.
@@ -100,6 +122,10 @@ This is one of the books I got on my most recent trip to the library. I thought 
 The stories are very much informed by the author's faith as a Muslim woman, in the same way of C.S. Lewis or Paolo Coehlo being Christian authors of fiction. I like reading these types of books from time to time: it is interesting to step into the perspective of a person of faith, even if I don't share their faith. And doing so feels in line with my own faith's emphasis on [અનેકાંતવાદ](https://en.wikipedia.org/wiki/Anekantavada) (anekantavada which means a multiplicity of perspectives, or the idea that "ultimate truth and reality is complex and has multiple aspects and viewpoints").
 
 My favorites from the collection were: *Summer Maze*; *The Circle Line*; and *Pages of Fruit*.
+
+### *Arabian Nights* tr. Hussain Haddawy (June)
+
+Not really a book meant to be read cover to cover, but I stole it from my roommate Patrick Weir and kept it on my bedside and read it every so often. Really good for that because it is so episodic. Really liked this translation. 
 
 ### *The Namaste Club* by Asha Elias (July)
 
@@ -117,13 +143,71 @@ So I read the book. I will be honest, some of the early character development fe
 
 SPOILERS: in retrospect, maybe my initial interaction with the author was so awkward because, at that point, from her perspective the only thing she knew about me were some surface-level similarities between me and the character in the book that is ultimately revealed to be the book's secret villain?
 
+### *The Iliad* by Homer (July)
 
+Read the Odyssey in high school and don't remember much of it. Was feeling a classics kick, so decided to read the Iliad. Generally a bit boring because it was so concentrated on War, which is not so interesting to me. A sped up audiobook did the trick though. Athena is such a witch in this story. 
 
-<!-- 
-IN PROGRESS
+### *Something About Living* by Lena Khalaf Tuffaha (August) 
 
-Historias de amor
-The Arabian Nights
-The Iliad
+Got this at the Miami Book Fair and finally got around to reading it. Some of my favorites were *Variations on a Last Chance*; *Portraits of Light*; *On the Thirtieth Friday We Consider Plurals*; *First Generation*; *Triptych*; *Reclamation Cento*; *Iconic*; *Other WOrds for Blue*; *Slipshape*; *Tantoura Redux*; *Zaghareed*; *Dukka*.
 
--->
+### *Hopscotch* by Julio Cortázar (September)
+
+Wow such a trippy book, and such a project to decipher. Could not possibly have read it in the original Spanish. Loved the concept of the book, found the actual book to not really live up to the potential because I wasn't very invested in any of the stories, but still really cool and unique experience. It was so all-over-the-place I feel I could never have read it in the original Spanish, but hopefully one day I will. Led me to Cortázar's short stories like *Axolotl* which I love, and did a little Spanish book club for with Claudia Carranza-Lavastida (and I learned so much, such as how the story is really about a child who feels misunderstood).
+
+### *Harvard Review* Vol. 63 (October)
+
+Picked this up at Books and Books. Favs in this collection were *Delicatessen* by Karisma Price; *Happy Birthday* by Lance Larsen; *I WIll Die in Miami in the Sun* by P. Scott Cunningham; *Chickens* by Susan Shepherd; *Swans, Swans, Swans (the Sick, the Lovestarved)* by Carey Salerno; *Hauntology: An Irish Pilgrimage* by Linda Norton; and *Heat Dome* by Alix Ohlin. 
+
+### *Árbol de Diana* by Alejandra Pizarnik (October) 
+
+This was such a kind gift from Linda: "que la poesía esté siempre, que nos salve y nos enseñe a luchar, que nos inmovilice y desarme" be still my beating heart.
+
+It is 38 short poetic phrases. The copy I have is translated by Anna Deeny Morales, but I started making my own translations from 7 to 29 (I hope to return to translate the rest at some point). 
+
+Linda's favorites are 11, 13, 33, 35. My favs were 28 and 31. 
+
+### *So Late in the Day* by Claire Keegan (October)
+
+I loved *Small Things Like These* by the same author so I picked up this collection of three short stories. They were much more pessimistic and really quite dark. I love that for Keegan because I can sense the range she is going for, but they didn't resonate with me personally. Interesting shift in gender: *Small Things* had the ultimate male redeemable character, and it seems like the male characters in these stories were trying to balance the scales with how unsympathetic and honestly evil they were. It's interesting to see that balance across stories from the same author.
+
+### *Ploughshares* Summer 2024 Vol. 50 No. 2 (November)
+
+Borrowed this from Diana when I visited Boston for Halloween because she has courtesy copies from being published in it. Devoured almost the whole thing in a weekend. Ordered my own copy to finish a few stories and because I loved it. 
+
+Favs in this collection: *Frog Heart* by Joy Deva Baglio: parenthood, read it on Halloween in Salem, which was a great fit. *Rooms* by Molly Anders: addiction. *Video Wonderland, How Can I Help You?* by Diana Cao. *Ordinary Magic* by Susan V. Meyers and *Prolific Donor* by Peter Mountford (back to back stories about IVF/fertility. If I had a nickel for every story in this collection about fertility, I would have ten cents. Which isn't a lot, but it's interesting it happened twice. *Hover O'er Me With Your Wings* by Randy F. Nelson: having a crush on a teacher.
+
+### *Wuthering Heights* by Emily Brontë (December)
+
+Obsessed with the trailer for the upcoming Wuthering Heights movie, so I decided to read this book in advance. Not my favorite, to be honest. There were a few redeeming scenes of spookiness (like the scene at the grave at the end of the book), but in general I found it to drag on quite a bit. 
+
+(Watched the movie when it came out: it was fun but nothing to write home about). 
+
+### *Polysecure* by Jessica Fern (December Bonus Round!)
+
+My therapist recommended this book, which talks about polyamory and attachment styles, to work through a current relationship. I like the idea of constructing relationships and boundaries based on what works for the actual individuals involved, rather than based on traditional scripts or narratives that must be followed. My thoughts on this space are actively developing. I think, as always, reading an actual book about the topic helped me have the vocabulary and tools to reflect more deeply for myself.
+
+### *Pedro Páramo* by Juan Rulfo (December Bonus Round!)
+
+Borrowed this book from Caroline Bartholomew. It is a story of a man whose dying mother tells him to go to a town to find his father, and when he arrives he finds a ghost town (literally). I love the surrealism, and Juan Rulfo was an inspiration to other classic hispanic magical realist authors like Gabriel García Márquez. I liked Pedro Paramo way more than I've liked anything I read by Gabriel Garcia Marquez though. 
+
+It was spooky and dramatic and fascinating. There was so much depth in such a short book and I obviously didn't capture it all on my first read (especially in Spanish), so I bought my own copy and want to spend more time with it. 
+
+I told Claudia Carranza-Lavastida about it, and she loved it and we have been trying to make a little Spanish book club happen. 
+
+A long (long) term goal of mine is to translate the book myself. It'll be a bad translation and it will take me forever, but I think I will get a lot out of spending time with literally every word in the book. Lately I've been carrying around a copy of the book and scribbling translations haphazardly into my journal, which has been a lot of fun. 
+
+> Vine a Comala porque me dijeron que acá vivía mi padre, un tal Pedro Páramo. Mi madre me lo dijo. Y yo le prometí que vendría a verlo en cuanto ella muriera. Le apreté sus manos en señal de que lo haría, pues ella estaba por morirse y yo en un plan de prometerlo todo.
+
+which I would translate as
+
+> I came to Comala because I was told my father lives here, one Pedro Paramo. My mother told me. And I promised I would come to see him when she died. I took her hands to signal I would do it, after all she was dying and I was promising her everything.
+
+Reading this book reminds me a lot of having read *L'Étranger* by Albert Camus back in 2017. The similarities run deep: both books start with iconic lines from the main character talking about their mother's death bed (and I think my reading of the speaker's tone in both might be a bit different from the mainstream translation), both have symbolism about the disorienting quality of heat around the halfway point, and after the halfway point the story in both goes a bit off the rails (Mersault shoots the arab, Juan Preciado is buried "alive"). Both were personally important for me in my journey to learn their respective languages. Both are surrealist classics for a reason. 
+
+Another piece of media this book reminds me of, in a very different flavor, is the 2003 Disney Channel original movie *The Haunted Mansion* starring Eddie Murphy. I checked the Wikipedia, Pedro Paramo is not listed as one of the inspirations for the movie, though. 
+
+<hr>
+
+In retrospect: I think my favorite books this year were *Bankrolling Empire* by Sudev Sheth; *Arabian Nights* tr. Hussain Haddawy; *Hopscotch* by Julio Cortázar; *Ploughshares* Summer 2024 Vol. 50 No. 2; and *Pedro Páramo* by Juan Rulfo. Anyways, here's to the books that shaped my 2025, and to all the books still out there for next year <i class="em em-clinking_glasses"></i>
+

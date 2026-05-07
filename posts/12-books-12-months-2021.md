@@ -31,7 +31,9 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2022](12-books-12-months-2022.html)  
  - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)  
- - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)  
+ - [(At Least) 12 Books in 12 Months - 2025](12-books-12-months-2025.html)  
+ - [(At Least) 12 Books in 12 Months - 2026](12-books-12-months-2026.html)
 
 ### *Clap When You Land* by Elizabeth Acevedo (January)
 

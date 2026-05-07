@@ -39,7 +39,9 @@ See also:
  - [(At Least) 12 Books in 12 Months - 2020](12-books-12-months-2020.html)  
  - [(At Least) 12 Books in 12 Months - 2021](12-books-12-months-2021.html)  
  - [(At Least) 12 Books in 12 Months - 2023](12-books-12-months-2023.html)  
- - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)
+ - [(At Least) 12 Books in 12 Months - 2024](12-books-12-months-2024.html)  
+ - [(At Least) 12 Books in 12 Months - 2025](12-books-12-months-2025.html)  
+ - [(At Least) 12 Books in 12 Months - 2026](12-books-12-months-2026.html)
 
 
 ### *The F-Word* Spring 2021 Volume (January)
