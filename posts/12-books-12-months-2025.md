@@ -19,7 +19,8 @@ Elsewhere, Home by Leila Aboulela (June)
 Arabian Nights tr. Hussain Haddawy (June Bonus Round!)
 The Namaste Club by Asha Elias (July)
 The Iliad by Homer (July Bonus Round!)
-Something About Living by Lena Khalaf Tuffaha (August) 
+Something About Living by Lena Khalaf Tuffaha (August)
+Oxford Poetry Issue 99 Summer 2025 (August Bonus Round!) 
 Hopscotch by Julio Cortázar (September)
 Harvard Review Vol. 63 (October)
 Árbol de Diana by Alejandra Pizarnik (October Bonus Round!) 
@@ -150,6 +151,12 @@ Read the Odyssey in high school and don't remember much of it. Was feeling a cla
 ### *Something About Living* by Lena Khalaf Tuffaha (August) 
 
 Got this at the Miami Book Fair and finally got around to reading it. Some of my favorites were *Variations on a Last Chance*; *Portraits of Light*; *On the Thirtieth Friday We Consider Plurals*; *First Generation*; *Triptych*; *Reclamation Cento*; *Iconic*; *Other WOrds for Blue*; *Slipshape*; *Tantoura Redux*; *Zaghareed*; *Dukka*.
+
+### *Oxford Poetry* Issue 99 Summer 2025 (August Bonus Round!) 
+
+I bought this very physically beautiful book because my friend and Miami Poetry Club president Micah Marie Johnson was published in it!
+
+My favorites from the collection were: *Inter-Railing* by Sonika Jaiganesh; *End Of* by Claressinka Anderson; *In Miami There Are No Wildflowers, Only Fire* by Micah Marie Johnson; *In This Economy* by Crispin Best; *Echocardiogram* by Milena Williamson; *Follow the Brush* by Derrick Austin.
 
 ### *Hopscotch* by Julio Cortázar (September)
 
